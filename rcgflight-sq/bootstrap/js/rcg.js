@@ -1,0 +1,4 @@
+function showProgressBar()
+{
+	alert(obj)
+}

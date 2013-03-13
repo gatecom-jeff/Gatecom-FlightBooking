@@ -1,0 +1,309 @@
+.tip-twitter {
+	z-index:1000;
+	text-align:left;
+	padding:10px 10px 10px 10px;
+	max-width:200px;
+		color:#000;
+	margin-left:20px;
+		font:12px/18px  Verdana, Arial, Helvetica, sans-serif;
+	background-color:#fff;
+		border:1px solid #939393;
+	
+	/**
+	 * - If you set a background-image, border/padding/background-color will be ingnored.
+	 *   You can set any padding to .tip-inner instead if you need.
+	 * - If you want a tiled background-image and border/padding for the tip,
+	 *   set the background-image to .tip-inner instead.
+	 */
+}
+.tip-twitter .tip-inner {
+	
+	font:12px/18px  Verdana, Arial, Helvetica, sans-serif;
+}
+
+.tip-twitter .tip-arrow-top {
+	margin-top:-24px;
+	margin-left:-5px; /* approx. half the width to center it */
+	top:0;
+	left:42%;
+	width:29px;
+	height:31px;
+
+	background:url(../images/tip-yellow_arrows.png) no-repeat;
+}
+.tip-twitter .tip-arrow-right {
+	margin-top:0px; /* approx. half the height to center it */
+	margin-left:0;
+	top:55%;
+	left:100%;
+	width:5px;
+	height:9px;
+	background:url(../images/tip-twitter_arrows.gif) no-repeat -9px 0;
+}
+.tip-twitter .tip-arrow-bottom {
+	margin-top:2px;
+	margin-left:-5px; /* approx. half the width to center it */
+	top:95%;
+	left:45%;
+	width:29px;
+	height:31px;
+
+	background:url(../images/tip-yellow_arrows.png) no-repeat -64px 0px ;
+}
+.tip-twitter .tip-arrow-left {
+	margin-top:-4px; /* approx. half the height to center it */
+	margin-left:-5px;
+	top:50%;
+	left:0;
+	width:5px;
+	height:9px;
+	background:url(../images/tip-twitter_arrows.gif) no-repeat -27px 0;
+}
+
+/*----------------------------------------------------------------------------------------------------------*/
+.tip-twitter2{
+	z-index:1000;
+	text-align:left;
+	padding:10px 10px 10px 10px;
+	max-width:200px;
+		color:#fff;
+	margin-left:-5px;
+	margin-top:5px;
+		font:12px/18px  Verdana, Arial, Helvetica, sans-serif;
+	background-color:#3c5a99;
+
+}
+.tip-twitter2 .tip-inner {
+	
+	font:12px/18px  Verdana, Arial, Helvetica, sans-serif;
+}
+
+.tip-twitter2 .tip-arrow-top {
+	margin-top:-24px;
+	margin-left:-5px; /* approx. half the width to center it */
+	top:0;
+	left:42%;
+	width:29px;
+	height:31px;
+
+	background:url(../images/tip-blue_arrows.png) no-repeat;
+}
+.tip-twitter2 .tip-arrow-right {
+	margin-top:0px; /* approx. half the height to center it */
+	margin-left:0;
+	top:30%;
+	left:100%;
+		width:29px;
+	height:31px;
+	background:url(../images/tip-blue_arrows.png) no-repeat -30px 0;
+}
+.tip-twitter2 .tip-arrow-bottom {
+	margin-top:2px;
+	margin-left:-5px; /* approx. half the width to center it */
+	top:95%;
+	left:45%;
+	width:29px;
+	height:31px;
+
+	background:url(../images/tip-blue_arrows.png) no-repeat -64px 0px ;
+}
+.tip-twitter2 .tip-arrow-left {
+	margin-top:-4px; /* approx. half the height to center it */
+	margin-left:-5px;
+	top:50%;
+	left:0;
+	width:5px;
+	height:9px;
+	background:url(../images/tip-blue_arrows.png) no-repeat 0px 0;
+}
+
+.email {
+	z-index:1000;
+	text-align:left;
+	padding:10px 10px 10px 10px;
+	max-width:200px;
+		color:#fff;
+	margin-left:20px;
+		font:12px/18px  Verdana, Arial, Helvetica, sans-serif;
+	background-color:#3c5a99;
+
+}
+.email .tip-inner {
+	
+	font:12px/18px  Verdana, Arial, Helvetica, sans-serif;
+}
+
+.email .tip-arrow-top {
+	margin-top:-24px;
+	margin-left:-5px; /* approx. half the width to center it */
+	top:0;
+	left:42%;
+	width:29px;
+	height:31px;
+
+	background:url(../images/tip-blue_arrows.png) no-repeat;
+}
+.email .tip-arrow-right {
+	margin-top:0px; /* approx. half the height to center it */
+	margin-left:0;
+	top:30%;
+	left:100%;
+		width:29px;
+	height:31px;
+	background:url(../images/tip-blue_arrows.png) no-repeat -30px 0;
+}
+.email .tip-arrow-bottom {
+	margin-top:2px;
+	margin-left:-5px; /* approx. half the width to center it */
+	top:95%;
+	left:45%;
+	width:29px;
+	height:31px;
+
+	background:url(../images/tip-blue_arrows.png) no-repeat -64px 0px ;
+}
+.email .tip-arrow-left {
+	margin-top:-4px; /* approx. half the height to center it */
+	margin-left:-5px;
+	top:50%;
+	left:0;
+	width:5px;
+	height:9px;
+	background:url(../images/tip-blue_arrows.png) no-repeat 0px 0;
+}
+
+/*----------------------------------------------------------------------------------------------------------*/
+
+
+.tip-twitter1 {
+	z-index:1000;
+	text-align:left;
+	padding:10px 10px 10px 10px;
+	max-width:200px;
+		color:#000;
+	margin-left:20px;
+		font:12px/18px  Verdana, Arial, Helvetica, sans-serif;
+	background-color:#fff;
+		border:1px solid #939393;
+	
+	/**
+	 * - If you set a background-image, border/padding/background-color will be ingnored.
+	 *   You can set any padding to .tip-inner instead if you need.
+	 * - If you want a tiled background-image and border/padding for the tip,
+	 *   set the background-image to .tip-inner instead.
+	 */
+}
+.tip-twitter1 .tip-inner {
+	
+	font:12px/18px  Verdana, Arial, Helvetica, sans-serif;
+}
+
+.tip-twitter1 .tip-arrow-top {
+	margin-top:-30px;
+	margin-left:-5px; /* approx. half the width to center it */
+	top:6px;
+	left:42%;
+	width:29px;
+	height:31px;
+
+	background:url(../images/tip-yellow_arrows.png) no-repeat;
+}
+.tip-twitter1 .tip-arrow-right {
+	margin-top:0px; /* approx. half the height to center it */
+	margin-left:0;
+	top:55%;
+	left:100%;
+	width:5px;
+	height:9px;
+	background:url(../images/tip-twitter_arrows.gif) no-repeat -9px 0;
+}
+.tip-twitter1 .tip-arrow-bottom {
+	margin-top:2px;
+	margin-left:-5px; /* approx. half the width to center it */
+	top:98%;
+	left:45%;
+	width:29px;
+	height:31px;
+
+	background:url(../images/tip-yellow_arrows.png) no-repeat -64px 0px ;
+}
+.tip-twitter1 .tip-arrow-left {
+	margin-top:-4px; /* approx. half the height to center it */
+	margin-left:-5px;
+	top:50%;
+	left:0;
+	width:5px;
+	height:9px;
+	background:url(../images/tip-twitter_arrows.gif) no-repeat -27px 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.tip-yellowsimple {
+	z-index:1000;
+	text-align:left;
+	border:1px solid #939393;
+	padding:7px;
+	min-width:50px;
+	max-width:530px;
+	color:#000;
+	margin-left:30px;
+	margin-top:50px;
+	background-image:url(tip-yellow.png); /* bgImageFrameSize >= 10 should work fine */
+}
+.tip-yellowsimple .tip-inner {
+	font:12px/18px  Verdana, Arial, Helvetica, sans-serif;
+	margin-top:-2px;
+	padding:0 3px 1px 3px;
+}
+
+/* Configure an arrow image - the script will automatically position it on the correct side of the tip */
+.tip-yellowsimple .tip-arrow-top {
+	margin-top:-23px;
+	margin-left:80px;
+	top:0;
+	left:30px;
+	width:29px;
+	height:31px;
+
+	background:url(../images/tip-yellow_arrows.png) no-repeat;
+}
+.tip-yellowsimple .tip-arrow-right {
+	margin-top:-23px;
+	margin-left:80px;
+	top:0;
+	left:30px;
+	width:29px;
+	height:31px;
+
+	background:url(../images/tip-yellow_arrows.png) no-repeat;
+}
+.tip-yellowsimple .tip-arrow-bottom {
+	top:99%;
+	left:30px;
+	width:29px;
+	height:31px;
+	background:url(../images/tip-yellow_arrows.png) no-repeat -63px 0;
+		margin-bottom:-25px;
+	margin-left:80px;
+}
+.tip-yellowsimple .tip-arrow-left {
+	margin-top:-9px; /* approx. half the height to center it */
+	margin-left:-6px;
+	top:50%;
+	left:0;
+	width:10px;
+	height:20px;
+	background:url(../images/tip-yellow_arrows.png) no-repeat -48px 0;
+}

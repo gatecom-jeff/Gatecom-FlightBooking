@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<BookingDetails>
+    <SessionId>6E80AF00AB650830264C615339B7510A.ajp13_dev_appsrvB</SessionId>
+    <SessionKey>1360761894761</SessionKey>
+    <Segments>
+        <Segment>
+            <FlightName>United Airlines UA0069</FlightName>
+            <FromPlace>Stockholm - Arlanda - ARN</FromPlace>
+            <ToPlace>Newark - Newark International - EWR</ToPlace>
+            <DepDate>13APR 09:05</DepDate>
+            <ArrDate>13APR 12:05</ArrDate>
+            <Duration>9hr 00min</Duration>
+        </Segment>
+        <Segment>
+            <FlightName>Air Canada AC8901</FlightName>
+            <FromPlace>New York City - John F Kennedy International - JFK</FromPlace>
+            <ToPlace>Toronto - Pearson International - YYZ</ToPlace>
+            <DepDate>15JUN 06:40</DepDate>
+            <ArrDate>15JUN 08:21</ArrDate>
+            <OperatedBy>   AC  8901 AIR CANADA EXPRESS - JAZZ</OperatedBy>
+            <Duration>1hr 41min</Duration>
+        </Segment>
+        <Segment>
+            <FlightName>Air Canada AC0846</FlightName>
+            <FromPlace>Toronto - Pearson International - YYZ</FromPlace>
+            <ToPlace>München - Franz Josef Strauss - MUC</ToPlace>
+            <DepDate>15JUN 20:10</DepDate>
+            <ArrDate>16JUN 10:05</ArrDate>
+            <Duration>7hr 55min</Duration>
+        </Segment>
+        <Segment>
+            <FlightName>Air Canada AC9332</FlightName>
+            <FromPlace>München - Franz Josef Strauss - MUC</FromPlace>
+            <ToPlace>Stockholm - Arlanda - ARN</ToPlace>
+            <DepDate>16JUN 15:30</DepDate>
+            <ArrDate>16JUN 17:35</ArrDate>
+            <OperatedBy>   AC  9332 LUFTHANSA OR LH CITYLINE</OperatedBy>
+            <Duration>2hr 05min</Duration>
+        </Segment>
+    </Segments>
+    <AdditionalPackages>
+        <AdditionalPackage>
+            <Name>INSURANCE</Name>
+            <description>Avbeställningsskydd</description>
+            <amount>665</amount>
+            <type>ADT</type>
+        </AdditionalPackage>
+        <AdditionalPackage>
+            <Name>SEATING</Name>
+            <description>Önskad sittplats</description>
+            <amount>50</amount>
+            <type>ADT</type>
+        </AdditionalPackage>
+        <AdditionalPackage>
+            <Name>PRICE CHANGES</Name>
+            <description>The Total Price has been changed</description>
+            <amount>46202</amount>
+        </AdditionalPackage>
+        <AdditionalPackage>
+            <Name>SFPD</Name>
+            <description>Gender-Date Of Birth</description>
+        </AdditionalPackage>
+    </AdditionalPackages>
+</BookingDetails>
+
+

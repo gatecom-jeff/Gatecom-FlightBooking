@@ -1,0 +1,87 @@
+html {margin:0; padding:0; height: 100%;}
+body, html{min-height: 100%;}
+
+form 
+{
+	margin:						0;
+	padding:					0;
+}
+
+body 
+{ 
+	margin:						0;
+	padding:					0;
+	background-color:			#EEE;
+	overflow-y: 				scroll;
+}
+
+#header 
+{
+	width:						100%;
+	height:						70px;
+	background-color:			#0CF;
+}
+
+#header .header_content 
+{
+	margin-left: 				auto;
+  	margin-right: 				auto;
+	width:						1000px;
+	height:						70px;
+}
+
+#header span 
+{
+	font:						Verdana, Geneva, sans-serif;
+	font-size:					48px;
+	color:						#FFF;	
+}
+
+#menu .menu_content 
+{
+	margin-left: 				auto;
+  	margin-right: 				auto;
+	width:						1000px;
+	height:						42px;
+}
+
+#booking {
+	width:						100%;
+	height:						288px;
+	background-image: 			url(../../../images/siteimage/flyingbackground.png);
+	color:						#FFF;
+}
+#booking .booking_content {
+	margin-left: 				auto;
+  	margin-right: 				auto;
+	width:						1000px;
+	height:						300px;
+}
+
+#content 
+{
+	position:					relative;
+	width:						100%;
+}
+
+#content .content_content 
+{
+	margin-left: 				auto;
+  	margin-right: 				auto;
+	width:						1000px;
+	height:						400px;
+}
+
+.footer, .push 
+{
+	height: 					100px;
+	clear:						both;
+}
+
+.footer
+{
+	background-color: 			#000; 
+	height: 					100px; 
+	width: 						100%;
+	color: 						#fff; 
+}

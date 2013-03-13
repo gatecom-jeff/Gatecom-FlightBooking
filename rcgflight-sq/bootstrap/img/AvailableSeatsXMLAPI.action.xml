@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<response>
+    <price itineraryId="0" bookingUrl="key=gPRtTAwjLa8HiIZAy/im+YRIYztzbIiD&amp;city1=STO&amp;city2=NYC&amp;adults=2&amp;infants=1&amp;cachekey=-6761773918102867732&amp;itinerary_id=0&amp;pricekey=11193UA&amp;triptype=R&amp;trip1=~0&amp;trip2=8901~0&amp;trip3=&amp;trip4=&amp;tripCount=2&amp;sessionId=5174E65EA6A2C97CE2D0E9B27FA4EDBA.ajp13_dev_appsrvB&amp;sessionKey=1360761947961&amp;companyId=3&amp;accessId=27&amp;currency_Notation=SEK&amp;adtBaseFare=2170&amp;adtTaxFare=3122&amp;adtTotalFare=5292&amp;infBaseFare=227&amp;infTaxFare=382&amp;infTotalFare=609" currency="SEK" tax="6626" total="11193">
+        <out>
+            <leg flightNumber="0069" duration="9:00" arrivalTime="12:05" arrivalDate="13APR" carrierCode="UA" stop="0" operatedBy="" departureTime="09:05" departureDate="13APR" destinationCityCode="EWR" departureCityCode="ARN"/>
+        </out>
+        <in>
+            <leg flightNumber="8901" duration="1:41" arrivalTime="08:21" arrivalDate="15JUN" carrierCode="AC" stop="0" operatedBy="AIR CANADA EXPRESS - JAZZ" departureTime="06:40" departureDate="15JUN" destinationCityCode="YYZ" departureCityCode="JFK"/>
+            <leg flightNumber="0846" duration="7:55" arrivalTime="10:05" arrivalDate="15JUN" carrierCode="AC" stop="0" operatedBy="" departureTime="20:10" departureDate="15JUN" destinationCityCode="MUC" departureCityCode="YYZ"/>
+            <leg flightNumber="9332" duration="2:05" arrivalTime="17:35" arrivalDate="16JUN" carrierCode="AC" stop="0" operatedBy="LUFTHANSA OR LH CITYLINE" departureTime="15:30" departureDate="16JUN" destinationCityCode="ARN" departureCityCode="MUC"/>
+        </in>
+    </price>
+    <price itineraryId="1" bookingUrl="key=gPRtTAwjLa8HiIZAy/im+YRIYztzbIiD&amp;city1=STO&amp;city2=NYC&amp;adults=2&amp;infants=1&amp;cachekey=-6761773918102867732&amp;itinerary_id=1&amp;pricekey=11285AB&amp;triptype=R&amp;trip1=~0&amp;trip2=7249~0&amp;trip3=&amp;trip4=&amp;tripCount=2&amp;sessionId=5174E65EA6A2C97CE2D0E9B27FA4EDBA.ajp13_dev_appsrvB&amp;sessionKey=1360761947961&amp;companyId=3&amp;accessId=27&amp;currency_Notation=SEK&amp;adtBaseFare=1836&amp;adtTaxFare=3534&amp;adtTotalFare=5370&amp;infBaseFare=193&amp;infTaxFare=352&amp;infTotalFare=545" currency="SEK" tax="7420" total="11285">
+        <out>
+            <leg flightNumber="8103" duration="1:35" arrivalTime="12:10" arrivalDate="13APR" carrierCode="AB" stop="0" operatedBy="" departureTime="10:35" departureDate="13APR" destinationCityCode="TXL" departureCityCode="ARN"/>
+            <leg flightNumber="7248" duration="8:55" arrivalTime="15:55" arrivalDate="13APR" carrierCode="AB" stop="0" operatedBy="" departureTime="13:00" departureDate="13APR" destinationCityCode="JFK" departureCityCode="TXL"/>
+        </out>
+        <in>
+            <leg flightNumber="7249" duration="7:55" arrivalTime="07:25" arrivalDate="15JUN" carrierCode="AB" stop="0" operatedBy="" departureTime="17:30" departureDate="15JUN" destinationCityCode="TXL" departureCityCode="JFK"/>
+            <leg flightNumber="8094" duration="1:30" arrivalTime="09:45" arrivalDate="16JUN" carrierCode="AB" stop="0" operatedBy="" departureTime="08:15" departureDate="16JUN" destinationCityCode="ARN" departureCityCode="TXL"/>
+        </in>
+    </price>
+    <price itineraryId="2" bookingUrl="key=gPRtTAwjLa8HiIZAy/im+YRIYztzbIiD&amp;city1=STO&amp;city2=NYC&amp;adults=2&amp;infants=1&amp;cachekey=-6761773918102867732&amp;itinerary_id=2&amp;pricekey=11452AF&amp;triptype=R&amp;trip1=~0&amp;trip2=3664~0&amp;trip3=&amp;trip4=&amp;tripCount=2&amp;sessionId=5174E65EA6A2C97CE2D0E9B27FA4EDBA.ajp13_dev_appsrvB&amp;sessionKey=1360761947961&amp;companyId=3&amp;accessId=27&amp;currency_Notation=SEK&amp;adtBaseFare=2335&amp;adtTaxFare=3083&amp;adtTotalFare=5418&amp;infBaseFare=248&amp;infTaxFare=368&amp;infTotalFare=616" currency="SEK" tax="6534" total="11452">
+        <out>
+            <leg flightNumber="1463" duration="2:40" arrivalTime="09:10" arrivalDate="13APR" carrierCode="AF" stop="0" operatedBy="" departureTime="06:30" departureDate="13APR" destinationCityCode="CDG" departureCityCode="ARN"/>
+            <leg flightNumber="0378" duration="8:40" arrivalTime="16:15" arrivalDate="13APR" carrierCode="AF" stop="0" operatedBy="" departureTime="13:35" departureDate="13APR" destinationCityCode="DTW" departureCityCode="CDG"/>
+            <leg flightNumber="2830" duration="1:53" arrivalTime="19:38" arrivalDate="13APR" carrierCode="AF" stop="0" operatedBy="DELTA AIR LINES" departureTime="17:45" departureDate="13APR" destinationCityCode="LGA" departureCityCode="DTW"/>
+        </out>
+        <in>
+            <leg flightNumber="3664" duration="8:35" arrivalTime="12:20" arrivalDate="15JUN" carrierCode="AF" stop="0" operatedBy="DELTA AIR LINES" departureTime="21:45" departureDate="15JUN" destinationCityCode="ARN" departureCityCode="JFK"/>
+        </in>
+    </price>
+    <price itineraryId="3" bookingUrl="key=gPRtTAwjLa8HiIZAy/im+YRIYztzbIiD&amp;city1=STO&amp;city2=NYC&amp;adults=2&amp;infants=1&amp;cachekey=-6761773918102867732&amp;itinerary_id=2&amp;pricekey=11452AF&amp;triptype=R&amp;trip1=~0&amp;trip2=3664~0&amp;trip3=&amp;trip4=&amp;tripCount=2&amp;sessionId=5174E65EA6A2C97CE2D0E9B27FA4EDBA.ajp13_dev_appsrvB&amp;sessionKey=1360761947961&amp;companyId=3&amp;accessId=27&amp;currency_Notation=SEK&amp;adtBaseFare=2335&amp;adtTaxFare=3083&amp;adtTotalFare=5418&amp;infBaseFare=248&amp;infTaxFare=368&amp;infTotalFare=616" currency="SEK" tax="6534" total="11452">
+        <out>
+            <leg flightNumber="1063" duration="2:40" arrivalTime="22:10" arrivalDate="13APR" carrierCode="AF" stop="0" operatedBy="" departureTime="19:30" departureDate="13APR" destinationCityCode="CDG" departureCityCode="ARN"/>
+            <leg flightNumber="0378" duration="8:40" arrivalTime="16:15" arrivalDate="14APR" carrierCode="AF" stop="0" operatedBy="" departureTime="13:35" departureDate="14APR" destinationCityCode="DTW" departureCityCode="CDG"/>
+            <leg flightNumber="2830" duration="1:53" arrivalTime="19:38" arrivalDate="14APR" carrierCode="AF" stop="0" operatedBy="DELTA AIR LINES" departureTime="17:45" departureDate="14APR" destinationCityCode="LGA" departureCityCode="DTW"/>
+        </out>
+        <in>
+            <leg flightNumber="3664" duration="8:35" arrivalTime="12:20" arrivalDate="15JUN" carrierCode="AF" stop="0" operatedBy="DELTA AIR LINES" departureTime="21:45" departureDate="15JUN" destinationCityCode="ARN" departureCityCode="JFK"/>
+        </in>
+    </price>
+    <price itineraryId="4" bookingUrl="key=gPRtTAwjLa8HiIZAy/im+YRIYztzbIiD&amp;city1=STO&amp;city2=NYC&amp;adults=2&amp;infants=1&amp;cachekey=-6761773918102867732&amp;itinerary_id=4&amp;pricekey=11452AC&amp;triptype=R&amp;trip1=~1&amp;trip2=8901~1&amp;trip3=&amp;trip4=&amp;tripCount=2&amp;sessionId=5174E65EA6A2C97CE2D0E9B27FA4EDBA.ajp13_dev_appsrvB&amp;sessionKey=1360761947961&amp;companyId=3&amp;accessId=27&amp;currency_Notation=SEK&amp;adtBaseFare=2170&amp;adtTaxFare=3237&amp;adtTotalFare=5407&amp;infBaseFare=227&amp;infTaxFare=411&amp;infTotalFare=638" currency="SEK" tax="6885" total="11452">
+        <out>
+            <leg flightNumber="9274" duration="2:15" arrivalTime="08:20" arrivalDate="13APR" carrierCode="AC" stop="0" operatedBy="LUFTHANSA OR LH CITYLINE" departureTime="06:05" departureDate="13APR" destinationCityCode="FRA" departureCityCode="ARN"/>
+            <leg flightNumber="0873" duration="8:15" arrivalTime="12:15" arrivalDate="13APR" carrierCode="AC" stop="0" operatedBy="" departureTime="10:00" departureDate="13APR" destinationCityCode="YYZ" departureCityCode="FRA"/>
+            <leg flightNumber="8626" duration="1:31" arrivalTime="18:56" arrivalDate="13APR" carrierCode="AC" stop="0" operatedBy="AIR CANADA EXPRESS - JAZZ" departureTime="17:25" departureDate="13APR" destinationCityCode="EWR" departureCityCode="YYZ"/>
+        </out>
+        <in>
+            <leg flightNumber="8901" duration="1:41" arrivalTime="08:21" arrivalDate="15JUN" carrierCode="AC" stop="0" operatedBy="AIR CANADA EXPRESS - JAZZ" departureTime="06:40" departureDate="15JUN" destinationCityCode="YYZ" departureCityCode="JFK"/>
+            <leg flightNumber="0846" duration="7:55" arrivalTime="10:05" arrivalDate="15JUN" carrierCode="AC" stop="0" operatedBy="" departureTime="20:10" departureDate="15JUN" destinationCityCode="MUC" departureCityCode="YYZ"/>
+            <leg flightNumber="9332" duration="2:05" arrivalTime="17:35" arrivalDate="16JUN" carrierCode="AC" stop="0" operatedBy="LUFTHANSA OR LH CITYLINE" departureTime="15:30" departureDate="16JUN" destinationCityCode="ARN" departureCityCode="MUC"/>
+        </in>
+    </price>
+    <price itineraryId="5" bookingUrl="key=gPRtTAwjLa8HiIZAy/im+YRIYztzbIiD&amp;city1=STO&amp;city2=NYC&amp;adults=2&amp;infants=1&amp;cachekey=-6761773918102867732&amp;itinerary_id=5&amp;pricekey=11497SN&amp;triptype=R&amp;trip1=~0&amp;trip2=8901~0&amp;trip3=&amp;trip4=&amp;tripCount=2&amp;sessionId=5174E65EA6A2C97CE2D0E9B27FA4EDBA.ajp13_dev_appsrvB&amp;sessionKey=1360761947961&amp;companyId=3&amp;accessId=27&amp;currency_Notation=SEK&amp;adtBaseFare=2170&amp;adtTaxFare=3274&amp;adtTotalFare=5444&amp;infBaseFare=227&amp;infTaxFare=382&amp;infTotalFare=609" currency="SEK" tax="6930" total="11497">
+        <out>
+            <leg flightNumber="2310" duration="2:25" arrivalTime="11:20" arrivalDate="13APR" carrierCode="SN" stop="0" operatedBy="" departureTime="08:55" departureDate="13APR" destinationCityCode="BRU" departureCityCode="BMA"/>
+            <leg flightNumber="0501" duration="8:15" arrivalTime="12:40" arrivalDate="14APR" carrierCode="SN" stop="0" operatedBy="" departureTime="10:25" departureDate="14APR" destinationCityCode="JFK" departureCityCode="BRU"/>
+        </out>
+        <in>
+            <leg flightNumber="8901" duration="1:41" arrivalTime="08:21" arrivalDate="15JUN" carrierCode="AC" stop="0" operatedBy="AIR CANADA EXPRESS - JAZZ" departureTime="06:40" departureDate="15JUN" destinationCityCode="YYZ" departureCityCode="JFK"/>
+            <leg flightNumber="0846" duration="7:55" arrivalTime="10:05" arrivalDate="15JUN" carrierCode="AC" stop="0" operatedBy="" departureTime="20:10" departureDate="15JUN" destinationCityCode="MUC" departureCityCode="YYZ"/>
+            <leg flightNumber="9332" duration="2:05" arrivalTime="17:35" arrivalDate="16JUN" carrierCode="AC" stop="0" operatedBy="LUFTHANSA OR LH CITYLINE" departureTime="15:30" departureDate="16JUN" destinationCityCode="ARN" departureCityCode="MUC"/>
+        </in>
+    </price>
+    <price itineraryId="6" bookingUrl="key=gPRtTAwjLa8HiIZAy/im+YRIYztzbIiD&amp;city1=STO&amp;city2=NYC&amp;adults=2&amp;infants=1&amp;cachekey=-6761773918102867732&amp;itinerary_id=6&amp;pricekey=11548IB&amp;triptype=R&amp;trip1=~0&amp;trip2=6149~0&amp;trip3=&amp;trip4=&amp;tripCount=2&amp;sessionId=5174E65EA6A2C97CE2D0E9B27FA4EDBA.ajp13_dev_appsrvB&amp;sessionKey=1360761947961&amp;companyId=3&amp;accessId=27&amp;currency_Notation=SEK&amp;adtBaseFare=1935&amp;adtTaxFare=3303&amp;adtTotalFare=5238&amp;infBaseFare=203&amp;infTaxFare=869&amp;infTotalFare=1072" currency="SEK" tax="7475" total="11548">
+        <out>
+            <leg flightNumber="4779" duration="2:40" arrivalTime="09:15" arrivalDate="13APR" carrierCode="IB" stop="0" operatedBy="BRITISH AIRWAYS" departureTime="07:35" departureDate="13APR" destinationCityCode="LHR" departureCityCode="ARN"/>
+            <leg flightNumber="4221" duration="7:55" arrivalTime="18:10" arrivalDate="13APR" carrierCode="IB" stop="0" operatedBy="AMERICAN" departureTime="15:15" departureDate="13APR" destinationCityCode="JFK" departureCityCode="LHR"/>
+        </out>
+        <in>
+            <leg flightNumber="6149" duration="7:00" arrivalTime="10:55" arrivalDate="15JUN" carrierCode="AA" stop="0" operatedBy="BRITISH AIRWAYS" departureTime="22:55" departureDate="15JUN" destinationCityCode="LHR" departureCityCode="EWR"/>
+            <leg flightNumber="6361" duration="2:30" arrivalTime="16:55" arrivalDate="16JUN" carrierCode="AA" stop="0" operatedBy="BRITISH AIRWAYS" departureTime="13:25" departureDate="16JUN" destinationCityCode="ARN" departureCityCode="LHR"/>
+        </in>
+    </price>
+    <price itineraryId="7" bookingUrl="key=gPRtTAwjLa8HiIZAy/im+YRIYztzbIiD&amp;city1=STO&amp;city2=NYC&amp;adults=2&amp;infants=1&amp;cachekey=-6761773918102867732&amp;itinerary_id=6&amp;pricekey=11548IB&amp;triptype=R&amp;trip1=~0&amp;trip2=6149~0&amp;trip3=&amp;trip4=&amp;tripCount=2&amp;sessionId=5174E65EA6A2C97CE2D0E9B27FA4EDBA.ajp13_dev_appsrvB&amp;sessionKey=1360761947961&amp;companyId=3&amp;accessId=27&amp;currency_Notation=SEK&amp;adtBaseFare=1935&amp;adtTaxFare=3303&amp;adtTotalFare=5238&amp;infBaseFare=203&amp;infTaxFare=869&amp;infTotalFare=1072" currency="SEK" tax="7475" total="11548">
+        <out>
+            <leg flightNumber="4785" duration="2:45" arrivalTime="14:05" arrivalDate="13APR" carrierCode="IB" stop="0" operatedBy="BRITISH AIRWAYS" departureTime="12:20" departureDate="13APR" destinationCityCode="LHR" departureCityCode="ARN"/>
+            <leg flightNumber="4223" duration="8:00" arrivalTime="20:00" arrivalDate="13APR" carrierCode="IB" stop="0" operatedBy="AMERICAN" departureTime="17:00" departureDate="13APR" destinationCityCode="JFK" departureCityCode="LHR"/>
+        </out>
+        <in>
+            <leg flightNumber="6149" duration="7:00" arrivalTime="10:55" arrivalDate="15JUN" carrierCode="AA" stop="0" operatedBy="BRITISH AIRWAYS" departureTime="22:55" departureDate="15JUN" destinationCityCode="LHR" departureCityCode="EWR"/>
+            <leg flightNumber="6361" duration="2:30" arrivalTime="16:55" arrivalDate="16JUN" carrierCode="AA" stop="0" operatedBy="BRITISH AIRWAYS" departureTime="13:25" departureDate="16JUN" destinationCityCode="ARN" departureCityCode="LHR"/>
+        </in>
+    </price>
+    <price itineraryId="8" bookingUrl="key=gPRtTAwjLa8HiIZAy/im+YRIYztzbIiD&amp;city1=STO&amp;city2=NYC&amp;adults=2&amp;infants=1&amp;cachekey=-6761773918102867732&amp;itinerary_id=6&amp;pricekey=11548IB&amp;triptype=R&amp;trip1=~0&amp;trip2=6149~0&amp;trip3=&amp;trip4=&amp;tripCount=2&amp;sessionId=5174E65EA6A2C97CE2D0E9B27FA4EDBA.ajp13_dev_appsrvB&amp;sessionKey=1360761947961&amp;companyId=3&amp;accessId=27&amp;currency_Notation=SEK&amp;adtBaseFare=1935&amp;adtTaxFare=3303&amp;adtTotalFare=5238&amp;infBaseFare=203&amp;infTaxFare=869&amp;infTotalFare=1072" currency="SEK" tax="7475" total="11548">
+        <out>
+            <leg flightNumber="4787" duration="2:35" arrivalTime="17:15" arrivalDate="13APR" carrierCode="IB" stop="0" operatedBy="BRITISH AIRWAYS" departureTime="15:40" departureDate="13APR" destinationCityCode="LHR" departureCityCode="ARN"/>
+            <leg flightNumber="4239" duration="7:50" arrivalTime="21:50" arrivalDate="13APR" carrierCode="IB" stop="0" operatedBy="AMERICAN" departureTime="19:00" departureDate="13APR" destinationCityCode="JFK" departureCityCode="LHR"/>
+        </out>
+        <in>
+            <leg flightNumber="6149" duration="7:00" arrivalTime="10:55" arrivalDate="15JUN" carrierCode="AA" stop="0" operatedBy="BRITISH AIRWAYS" departureTime="22:55" departureDate="15JUN" destinationCityCode="LHR" departureCityCode="EWR"/>
+            <leg flightNumber="6361" duration="2:30" arrivalTime="16:55" arrivalDate="16JUN" carrierCode="AA" stop="0" operatedBy="BRITISH AIRWAYS" departureTime="13:25" departureDate="16JUN" destinationCityCode="ARN" departureCityCode="LHR"/>
+        </in>
+    </price>
+    <price itineraryId="9" bookingUrl="key=gPRtTAwjLa8HiIZAy/im+YRIYztzbIiD&amp;city1=STO&amp;city2=NYC&amp;adults=2&amp;infants=1&amp;cachekey=-6761773918102867732&amp;itinerary_id=9&amp;pricekey=11600IB&amp;triptype=R&amp;trip1=~0&amp;trip2=6149~0&amp;trip3=&amp;trip4=&amp;tripCount=2&amp;sessionId=5174E65EA6A2C97CE2D0E9B27FA4EDBA.ajp13_dev_appsrvB&amp;sessionKey=1360761947961&amp;companyId=3&amp;accessId=27&amp;currency_Notation=SEK&amp;adtBaseFare=1935&amp;adtTaxFare=3303&amp;adtTotalFare=5238&amp;infBaseFare=203&amp;infTaxFare=921&amp;infTotalFare=1124" currency="SEK" tax="7527" total="11600">
+        <out>
+            <leg flightNumber="4779" duration="2:40" arrivalTime="09:15" arrivalDate="13APR" carrierCode="IB" stop="0" operatedBy="BRITISH AIRWAYS" departureTime="07:35" departureDate="13APR" destinationCityCode="LHR" departureCityCode="ARN"/>
+            <leg flightNumber="4221" duration="7:55" arrivalTime="18:10" arrivalDate="13APR" carrierCode="IB" stop="0" operatedBy="AMERICAN" departureTime="15:15" departureDate="13APR" destinationCityCode="JFK" departureCityCode="LHR"/>
+        </out>
+        <in>
+            <leg flightNumber="6149" duration="7:00" arrivalTime="10:55" arrivalDate="15JUN" carrierCode="AA" stop="0" operatedBy="BRITISH AIRWAYS" departureTime="22:55" departureDate="15JUN" destinationCityCode="LHR" departureCityCode="EWR"/>
+            <leg flightNumber="0780" duration="2:30" arrivalTime="16:55" arrivalDate="16JUN" carrierCode="BA" stop="0" operatedBy="" departureTime="13:25" departureDate="16JUN" destinationCityCode="ARN" departureCityCode="LHR"/>
+        </in>
+    </price>
+    <price itineraryId="10" bookingUrl="key=gPRtTAwjLa8HiIZAy/im+YRIYztzbIiD&amp;city1=STO&amp;city2=NYC&amp;adults=2&amp;infants=1&amp;cachekey=-6761773918102867732&amp;itinerary_id=9&amp;pricekey=11600IB&amp;triptype=R&amp;trip1=~0&amp;trip2=6149~0&amp;trip3=&amp;trip4=&amp;tripCount=2&amp;sessionId=5174E65EA6A2C97CE2D0E9B27FA4EDBA.ajp13_dev_appsrvB&amp;sessionKey=1360761947961&amp;companyId=3&amp;accessId=27&amp;currency_Notation=SEK&amp;adtBaseFare=1935&amp;adtTaxFare=3303&amp;adtTotalFare=5238&amp;infBaseFare=203&amp;infTaxFare=921&amp;infTotalFare=1124" currency="SEK" tax="7527" total="11600">
+        <out>
+            <leg flightNumber="4785" duration="2:45" arrivalTime="14:05" arrivalDate="13APR" carrierCode="IB" stop="0" operatedBy="BRITISH AIRWAYS" departureTime="12:20" departureDate="13APR" destinationCityCode="LHR" departureCityCode="ARN"/>
+            <leg flightNumber="4223" duration="8:00" arrivalTime="20:00" arrivalDate="13APR" carrierCode="IB" stop="0" operatedBy="AMERICAN" departureTime="17:00" departureDate="13APR" destinationCityCode="JFK" departureCityCode="LHR"/>
+        </out>
+        <in>
+            <leg flightNumber="6149" duration="7:00" arrivalTime="10:55" arrivalDate="15JUN" carrierCode="AA" stop="0" operatedBy="BRITISH AIRWAYS" departureTime="22:55" departureDate="15JUN" destinationCityCode="LHR" departureCityCode="EWR"/>
+            <leg flightNumber="0780" duration="2:30" arrivalTime="16:55" arrivalDate="16JUN" carrierCode="BA" stop="0" operatedBy="" departureTime="13:25" departureDate="16JUN" destinationCityCode="ARN" departureCityCode="LHR"/>
+        </in>
+    </price>
+    <price itineraryId="11" bookingUrl="key=gPRtTAwjLa8HiIZAy/im+YRIYztzbIiD&amp;city1=STO&amp;city2=NYC&amp;adults=2&amp;infants=1&amp;cachekey=-6761773918102867732&amp;itinerary_id=9&amp;pricekey=11600IB&amp;triptype=R&amp;trip1=~0&amp;trip2=6149~0&amp;trip3=&amp;trip4=&amp;tripCount=2&amp;sessionId=5174E65EA6A2C97CE2D0E9B27FA4EDBA.ajp13_dev_appsrvB&amp;sessionKey=1360761947961&amp;companyId=3&amp;accessId=27&amp;currency_Notation=SEK&amp;adtBaseFare=1935&amp;adtTaxFare=3303&amp;adtTotalFare=5238&amp;infBaseFare=203&amp;infTaxFare=921&amp;infTotalFare=1124" currency="SEK" tax="7527" total="11600">
+        <out>
+            <leg flightNumber="4787" duration="2:35" arrivalTime="17:15" arrivalDate="13APR" carrierCode="IB" stop="0" operatedBy="BRITISH AIRWAYS" departureTime="15:40" departureDate="13APR" destinationCityCode="LHR" departureCityCode="ARN"/>
+            <leg flightNumber="4239" duration="7:50" arrivalTime="21:50" arrivalDate="13APR" carrierCode="IB" stop="0" operatedBy="AMERICAN" departureTime="19:00" departureDate="13APR" destinationCityCode="JFK" departureCityCode="LHR"/>
+        </out>
+        <in>
+            <leg flightNumber="6149" duration="7:00" arrivalTime="10:55" arrivalDate="15JUN" carrierCode="AA" stop="0" operatedBy="BRITISH AIRWAYS" departureTime="22:55" departureDate="15JUN" destinationCityCode="LHR" departureCityCode="EWR"/>
+            <leg flightNumber="0780" duration="2:30" arrivalTime="16:55" arrivalDate="16JUN" carrierCode="BA" stop="0" operatedBy="" departureTime="13:25" departureDate="16JUN" destinationCityCode="ARN" departureCityCode="LHR"/>
+        </in>
+    </price>
+    <price itineraryId="12" bookingUrl="key=gPRtTAwjLa8HiIZAy/im+YRIYztzbIiD&amp;city1=STO&amp;city2=NYC&amp;adults=2&amp;infants=1&amp;cachekey=-6761773918102867732&amp;itinerary_id=12&amp;pricekey=11636AF&amp;triptype=R&amp;trip1=~0&amp;trip2=6002~0&amp;trip3=&amp;trip4=&amp;tripCount=2&amp;sessionId=5174E65EA6A2C97CE2D0E9B27FA4EDBA.ajp13_dev_appsrvB&amp;sessionKey=1360761947961&amp;companyId=3&amp;accessId=27&amp;currency_Notation=SEK&amp;adtBaseFare=2384&amp;adtTaxFare=3126&amp;adtTotalFare=5510&amp;infBaseFare=248&amp;infTaxFare=368&amp;infTotalFare=616" currency="SEK" tax="6620" total="11636">
+        <out>
+            <leg flightNumber="1463" duration="2:40" arrivalTime="09:10" arrivalDate="13APR" carrierCode="AF" stop="0" operatedBy="" departureTime="06:30" departureDate="13APR" destinationCityCode="CDG" departureCityCode="ARN"/>
+            <leg flightNumber="0378" duration="8:40" arrivalTime="16:15" arrivalDate="13APR" carrierCode="AF" stop="0" operatedBy="" departureTime="13:35" departureDate="13APR" destinationCityCode="DTW" departureCityCode="CDG"/>
+            <leg flightNumber="2830" duration="1:53" arrivalTime="19:38" arrivalDate="13APR" carrierCode="AF" stop="0" operatedBy="DELTA AIR LINES" departureTime="17:45" departureDate="13APR" destinationCityCode="LGA" departureCityCode="DTW"/>
+        </out>
+        <in>
+            <leg flightNumber="6002" duration="8:35" arrivalTime="12:20" arrivalDate="15JUN" carrierCode="KL" stop="0" operatedBy="DELTA AIR LINES" departureTime="21:45" departureDate="15JUN" destinationCityCode="ARN" departureCityCode="JFK"/>
+        </in>
+    </price>
+    <price itineraryId="13" bookingUrl="key=gPRtTAwjLa8HiIZAy/im+YRIYztzbIiD&amp;city1=STO&amp;city2=NYC&amp;adults=2&amp;infants=1&amp;cachekey=-6761773918102867732&amp;itinerary_id=12&amp;pricekey=11636AF&amp;triptype=R&amp;trip1=~0&amp;trip2=6002~0&amp;trip3=&amp;trip4=&amp;tripCount=2&amp;sessionId=5174E65EA6A2C97CE2D0E9B27FA4EDBA.ajp13_dev_appsrvB&amp;sessionKey=1360761947961&amp;companyId=3&amp;accessId=27&amp;currency_Notation=SEK&amp;adtBaseFare=2384&amp;adtTaxFare=3126&amp;adtTotalFare=5510&amp;infBaseFare=248&amp;infTaxFare=368&amp;infTotalFare=616" currency="SEK" tax="6620" total="11636">
+        <out>
+            <leg flightNumber="1063" duration="2:40" arrivalTime="22:10" arrivalDate="13APR" carrierCode="AF" stop="0" operatedBy="" departureTime="19:30" departureDate="13APR" destinationCityCode="CDG" departureCityCode="ARN"/>
+            <leg flightNumber="0378" duration="8:40" arrivalTime="16:15" arrivalDate="14APR" carrierCode="AF" stop="0" operatedBy="" departureTime="13:35" departureDate="14APR" destinationCityCode="DTW" departureCityCode="CDG"/>
+            <leg flightNumber="2830" duration="1:53" arrivalTime="19:38" arrivalDate="14APR" carrierCode="AF" stop="0" operatedBy="DELTA AIR LINES" departureTime="17:45" departureDate="14APR" destinationCityCode="LGA" departureCityCode="DTW"/>
+        </out>
+        <in>
+            <leg flightNumber="6002" duration="8:35" arrivalTime="12:20" arrivalDate="15JUN" carrierCode="KL" stop="0" operatedBy="DELTA AIR LINES" departureTime="21:45" departureDate="15JUN" destinationCityCode="ARN" departureCityCode="JFK"/>
+        </in>
+    </price>
+    <price itineraryId="14" bookingUrl="key=gPRtTAwjLa8HiIZAy/im+YRIYztzbIiD&amp;city1=STO&amp;city2=NYC&amp;adults=2&amp;infants=1&amp;cachekey=-6761773918102867732&amp;itinerary_id=14&amp;pricekey=11672AF&amp;triptype=R&amp;trip1=~0&amp;trip2=3664~0&amp;trip3=&amp;trip4=&amp;tripCount=2&amp;sessionId=5174E65EA6A2C97CE2D0E9B27FA4EDBA.ajp13_dev_appsrvB&amp;sessionKey=1360761947961&amp;companyId=3&amp;accessId=27&amp;currency_Notation=SEK&amp;adtBaseFare=2335&amp;adtTaxFare=3193&amp;adtTotalFare=5528&amp;infBaseFare=248&amp;infTaxFare=368&amp;infTotalFare=616" currency="SEK" tax="6754" total="11672">
+        <out>
+            <leg flightNumber="1063" duration="2:40" arrivalTime="22:10" arrivalDate="13APR" carrierCode="AF" stop="0" operatedBy="" departureTime="19:30" departureDate="13APR" destinationCityCode="CDG" departureCityCode="ARN"/>
+            <leg flightNumber="0378" duration="8:40" arrivalTime="16:15" arrivalDate="14APR" carrierCode="AF" stop="0" operatedBy="" departureTime="13:35" departureDate="14APR" destinationCityCode="DTW" departureCityCode="CDG"/>
+            <leg flightNumber="8996" duration="1:56" arrivalTime="19:31" arrivalDate="14APR" carrierCode="AF" stop="0" operatedBy="DELTA AIR LINES" departureTime="17:35" departureDate="14APR" destinationCityCode="EWR" departureCityCode="DTW"/>
+        </out>
+        <in>
+            <leg flightNumber="3664" duration="8:35" arrivalTime="12:20" arrivalDate="15JUN" carrierCode="AF" stop="0" operatedBy="DELTA AIR LINES" departureTime="21:45" departureDate="15JUN" destinationCityCode="ARN" departureCityCode="JFK"/>
+        </in>
+    </price>
+    <price itineraryId="15" bookingUrl="key=gPRtTAwjLa8HiIZAy/im+YRIYztzbIiD&amp;city1=STO&amp;city2=NYC&amp;adults=2&amp;infants=1&amp;cachekey=-6761773918102867732&amp;itinerary_id=15&amp;pricekey=11705IB&amp;triptype=R&amp;trip1=~0&amp;trip2=0182~0&amp;trip3=&amp;trip4=&amp;tripCount=2&amp;sessionId=5174E65EA6A2C97CE2D0E9B27FA4EDBA.ajp13_dev_appsrvB&amp;sessionKey=1360761947961&amp;companyId=3&amp;accessId=27&amp;currency_Notation=SEK&amp;adtBaseFare=1935&amp;adtTaxFare=3338&amp;adtTotalFare=5273&amp;infBaseFare=203&amp;infTaxFare=956&amp;infTotalFare=1159" currency="SEK" tax="7632" total="11705">
+        <out>
+            <leg flightNumber="4779" duration="2:40" arrivalTime="09:15" arrivalDate="13APR" carrierCode="IB" stop="0" operatedBy="BRITISH AIRWAYS" departureTime="07:35" departureDate="13APR" destinationCityCode="LHR" departureCityCode="ARN"/>
+            <leg flightNumber="4221" duration="7:55" arrivalTime="18:10" arrivalDate="13APR" carrierCode="IB" stop="0" operatedBy="AMERICAN" departureTime="15:15" departureDate="13APR" destinationCityCode="JFK" departureCityCode="LHR"/>
+        </out>
+        <in>
+            <leg flightNumber="0182" duration="6:55" arrivalTime="10:50" arrivalDate="15JUN" carrierCode="BA" stop="0" operatedBy="" departureTime="22:55" departureDate="15JUN" destinationCityCode="LHR" departureCityCode="JFK"/>
+            <leg flightNumber="6361" duration="2:30" arrivalTime="16:55" arrivalDate="16JUN" carrierCode="AA" stop="0" operatedBy="BRITISH AIRWAYS" departureTime="13:25" departureDate="16JUN" destinationCityCode="ARN" departureCityCode="LHR"/>
+        </in>
+    </price>
+    <price itineraryId="16" bookingUrl="key=gPRtTAwjLa8HiIZAy/im+YRIYztzbIiD&amp;city1=STO&amp;city2=NYC&amp;adults=2&amp;infants=1&amp;cachekey=-6761773918102867732&amp;itinerary_id=15&amp;pricekey=11705IB&amp;triptype=R&amp;trip1=~0&amp;trip2=0182~0&amp;trip3=&amp;trip4=&amp;tripCount=2&amp;sessionId=5174E65EA6A2C97CE2D0E9B27FA4EDBA.ajp13_dev_appsrvB&amp;sessionKey=1360761947961&amp;companyId=3&amp;accessId=27&amp;currency_Notation=SEK&amp;adtBaseFare=1935&amp;adtTaxFare=3338&amp;adtTotalFare=5273&amp;infBaseFare=203&amp;infTaxFare=956&amp;infTotalFare=1159" currency="SEK" tax="7632" total="11705">
+        <out>
+            <leg flightNumber="4785" duration="2:45" arrivalTime="14:05" arrivalDate="13APR" carrierCode="IB" stop="0" operatedBy="BRITISH AIRWAYS" departureTime="12:20" departureDate="13APR" destinationCityCode="LHR" departureCityCode="ARN"/>
+            <leg flightNumber="4223" duration="8:00" arrivalTime="20:00" arrivalDate="13APR" carrierCode="IB" stop="0" operatedBy="AMERICAN" departureTime="17:00" departureDate="13APR" destinationCityCode="JFK" departureCityCode="LHR"/>
+        </out>
+        <in>
+            <leg flightNumber="0182" duration="6:55" arrivalTime="10:50" arrivalDate="15JUN" carrierCode="BA" stop="0" operatedBy="" departureTime="22:55" departureDate="15JUN" destinationCityCode="LHR" departureCityCode="JFK"/>
+            <leg flightNumber="6361" duration="2:30" arrivalTime="16:55" arrivalDate="16JUN" carrierCode="AA" stop="0" operatedBy="BRITISH AIRWAYS" departureTime="13:25" departureDate="16JUN" destinationCityCode="ARN" departureCityCode="LHR"/>
+        </in>
+    </price>
+    <price itineraryId="17" bookingUrl="key=gPRtTAwjLa8HiIZAy/im+YRIYztzbIiD&amp;city1=STO&amp;city2=NYC&amp;adults=2&amp;infants=1&amp;cachekey=-6761773918102867732&amp;itinerary_id=15&amp;pricekey=11705IB&amp;triptype=R&amp;trip1=~0&amp;trip2=0182~0&amp;trip3=&amp;trip4=&amp;tripCount=2&amp;sessionId=5174E65EA6A2C97CE2D0E9B27FA4EDBA.ajp13_dev_appsrvB&amp;sessionKey=1360761947961&amp;companyId=3&amp;accessId=27&amp;currency_Notation=SEK&amp;adtBaseFare=1935&amp;adtTaxFare=3338&amp;adtTotalFare=5273&amp;infBaseFare=203&amp;infTaxFare=956&amp;infTotalFare=1159" currency="SEK" tax="7632" total="11705">
+        <out>
+            <leg flightNumber="4787" duration="2:35" arrivalTime="17:15" arrivalDate="13APR" carrierCode="IB" stop="0" operatedBy="BRITISH AIRWAYS" departureTime="15:40" departureDate="13APR" destinationCityCode="LHR" departureCityCode="ARN"/>
+            <leg flightNumber="4239" duration="7:50" arrivalTime="21:50" arrivalDate="13APR" carrierCode="IB" stop="0" operatedBy="AMERICAN" departureTime="19:00" departureDate="13APR" destinationCityCode="JFK" departureCityCode="LHR"/>
+        </out>
+        <in>
+            <leg flightNumber="0182" duration="6:55" arrivalTime="10:50" arrivalDate="15JUN" carrierCode="BA" stop="0" operatedBy="" departureTime="22:55" departureDate="15JUN" destinationCityCode="LHR" departureCityCode="JFK"/>
+            <leg flightNumber="6361" duration="2:30" arrivalTime="16:55" arrivalDate="16JUN" carrierCode="AA" stop="0" operatedBy="BRITISH AIRWAYS" departureTime="13:25" departureDate="16JUN" destinationCityCode="ARN" departureCityCode="LHR"/>
+        </in>
+    </price>
+    <price itineraryId="18" bookingUrl="key=gPRtTAwjLa8HiIZAy/im+YRIYztzbIiD&amp;city1=STO&amp;city2=NYC&amp;adults=2&amp;infants=1&amp;cachekey=-6761773918102867732&amp;itinerary_id=18&amp;pricekey=11806AF&amp;triptype=R&amp;trip1=~0&amp;trip2=0202~0&amp;trip3=&amp;trip4=&amp;tripCount=2&amp;sessionId=5174E65EA6A2C97CE2D0E9B27FA4EDBA.ajp13_dev_appsrvB&amp;sessionKey=1360761947961&amp;companyId=3&amp;accessId=27&amp;currency_Notation=SEK&amp;adtBaseFare=2465&amp;adtTaxFare=3126&amp;adtTotalFare=5591&amp;infBaseFare=256&amp;infTaxFare=368&amp;infTotalFare=624" currency="SEK" tax="6620" total="11806">
+        <out>
+            <leg flightNumber="1463" duration="2:40" arrivalTime="09:10" arrivalDate="13APR" carrierCode="AF" stop="0" operatedBy="" departureTime="06:30" departureDate="13APR" destinationCityCode="CDG" departureCityCode="ARN"/>
+            <leg flightNumber="0378" duration="8:40" arrivalTime="16:15" arrivalDate="13APR" carrierCode="AF" stop="0" operatedBy="" departureTime="13:35" departureDate="13APR" destinationCityCode="DTW" departureCityCode="CDG"/>
+            <leg flightNumber="2830" duration="1:53" arrivalTime="19:38" arrivalDate="13APR" carrierCode="AF" stop="0" operatedBy="DELTA AIR LINES" departureTime="17:45" departureDate="13APR" destinationCityCode="LGA" departureCityCode="DTW"/>
+        </out>
+        <in>
+            <leg flightNumber="0202" duration="8:35" arrivalTime="12:20" arrivalDate="15JUN" carrierCode="DL" stop="0" operatedBy="" departureTime="21:45" departureDate="15JUN" destinationCityCode="ARN" departureCityCode="JFK"/>
+        </in>
+    </price>
+    <price itineraryId="19" bookingUrl="key=gPRtTAwjLa8HiIZAy/im+YRIYztzbIiD&amp;city1=STO&amp;city2=NYC&amp;adults=2&amp;infants=1&amp;cachekey=-6761773918102867732&amp;itinerary_id=18&amp;pricekey=11806AF&amp;triptype=R&amp;trip1=~0&amp;trip2=0202~0&amp;trip3=&amp;trip4=&amp;tripCount=2&amp;sessionId=5174E65EA6A2C97CE2D0E9B27FA4EDBA.ajp13_dev_appsrvB&amp;sessionKey=1360761947961&amp;companyId=3&amp;accessId=27&amp;currency_Notation=SEK&amp;adtBaseFare=2465&amp;adtTaxFare=3126&amp;adtTotalFare=5591&amp;infBaseFare=256&amp;infTaxFare=368&amp;infTotalFare=624" currency="SEK" tax="6620" total="11806">
+        <out>
+            <leg flightNumber="1063" duration="2:40" arrivalTime="22:10" arrivalDate="13APR" carrierCode="AF" stop="0" operatedBy="" departureTime="19:30" departureDate="13APR" destinationCityCode="CDG" departureCityCode="ARN"/>
+            <leg flightNumber="0378" duration="8:40" arrivalTime="16:15" arrivalDate="14APR" carrierCode="AF" stop="0" operatedBy="" departureTime="13:35" departureDate="14APR" destinationCityCode="DTW" departureCityCode="CDG"/>
+            <leg flightNumber="2830" duration="1:53" arrivalTime="19:38" arrivalDate="14APR" carrierCode="AF" stop="0" operatedBy="DELTA AIR LINES" departureTime="17:45" departureDate="14APR" destinationCityCode="LGA" departureCityCode="DTW"/>
+        </out>
+        <in>
+            <leg flightNumber="0202" duration="8:35" arrivalTime="12:20" arrivalDate="15JUN" carrierCode="DL" stop="0" operatedBy="" departureTime="21:45" departureDate="15JUN" destinationCityCode="ARN" departureCityCode="JFK"/>
+        </in>
+    </price>
+    <price itineraryId="20" bookingUrl="key=gPRtTAwjLa8HiIZAy/im+YRIYztzbIiD&amp;city1=STO&amp;city2=NYC&amp;adults=2&amp;infants=1&amp;cachekey=-6761773918102867732&amp;itinerary_id=20&amp;pricekey=11856AF&amp;triptype=R&amp;trip1=~0&amp;trip2=6002~0&amp;trip3=&amp;trip4=&amp;tripCount=2&amp;sessionId=5174E65EA6A2C97CE2D0E9B27FA4EDBA.ajp13_dev_appsrvB&amp;sessionKey=1360761947961&amp;companyId=3&amp;accessId=27&amp;currency_Notation=SEK&amp;adtBaseFare=2384&amp;adtTaxFare=3236&amp;adtTotalFare=5620&amp;infBaseFare=248&amp;infTaxFare=368&amp;infTotalFare=616" currency="SEK" tax="6840" total="11856">
+        <out>
+            <leg flightNumber="1063" duration="2:40" arrivalTime="22:10" arrivalDate="13APR" carrierCode="AF" stop="0" operatedBy="" departureTime="19:30" departureDate="13APR" destinationCityCode="CDG" departureCityCode="ARN"/>
+            <leg flightNumber="0378" duration="8:40" arrivalTime="16:15" arrivalDate="14APR" carrierCode="AF" stop="0" operatedBy="" departureTime="13:35" departureDate="14APR" destinationCityCode="DTW" departureCityCode="CDG"/>
+            <leg flightNumber="8996" duration="1:56" arrivalTime="19:31" arrivalDate="14APR" carrierCode="AF" stop="0" operatedBy="DELTA AIR LINES" departureTime="17:35" departureDate="14APR" destinationCityCode="EWR" departureCityCode="DTW"/>
+        </out>
+        <in>
+            <leg flightNumber="6002" duration="8:35" arrivalTime="12:20" arrivalDate="15JUN" carrierCode="KL" stop="0" operatedBy="DELTA AIR LINES" departureTime="21:45" departureDate="15JUN" destinationCityCode="ARN" departureCityCode="JFK"/>
+        </in>
+    </price>
+    <price itineraryId="21" bookingUrl="key=gPRtTAwjLa8HiIZAy/im+YRIYztzbIiD&amp;city1=STO&amp;city2=NYC&amp;adults=2&amp;infants=1&amp;cachekey=-6761773918102867732&amp;itinerary_id=21&amp;pricekey=12026AF&amp;triptype=R&amp;trip1=~0&amp;trip2=0202~0&amp;trip3=&amp;trip4=&amp;tripCount=2&amp;sessionId=5174E65EA6A2C97CE2D0E9B27FA4EDBA.ajp13_dev_appsrvB&amp;sessionKey=1360761947961&amp;companyId=3&amp;accessId=27&amp;currency_Notation=SEK&amp;adtBaseFare=2465&amp;adtTaxFare=3236&amp;adtTotalFare=5701&amp;infBaseFare=256&amp;infTaxFare=368&amp;infTotalFare=624" currency="SEK" tax="6840" total="12026">
+        <out>
+            <leg flightNumber="1063" duration="2:40" arrivalTime="22:10" arrivalDate="13APR" carrierCode="AF" stop="0" operatedBy="" departureTime="19:30" departureDate="13APR" destinationCityCode="CDG" departureCityCode="ARN"/>
+            <leg flightNumber="0378" duration="8:40" arrivalTime="16:15" arrivalDate="14APR" carrierCode="AF" stop="0" operatedBy="" departureTime="13:35" departureDate="14APR" destinationCityCode="DTW" departureCityCode="CDG"/>
+            <leg flightNumber="8996" duration="1:56" arrivalTime="19:31" arrivalDate="14APR" carrierCode="AF" stop="0" operatedBy="DELTA AIR LINES" departureTime="17:35" departureDate="14APR" destinationCityCode="EWR" departureCityCode="DTW"/>
+        </out>
+        <in>
+            <leg flightNumber="0202" duration="8:35" arrivalTime="12:20" arrivalDate="15JUN" carrierCode="DL" stop="0" operatedBy="" departureTime="21:45" departureDate="15JUN" destinationCityCode="ARN" departureCityCode="JFK"/>
+        </in>
+    </price>
+    <price itineraryId="22" bookingUrl="key=gPRtTAwjLa8HiIZAy/im+YRIYztzbIiD&amp;city1=STO&amp;city2=NYC&amp;adults=2&amp;infants=1&amp;cachekey=-6761773918102867732&amp;itinerary_id=22&amp;pricekey=12058BA&amp;triptype=R&amp;trip1=~0&amp;trip2=0002~0&amp;trip3=&amp;trip4=&amp;tripCount=2&amp;sessionId=5174E65EA6A2C97CE2D0E9B27FA4EDBA.ajp13_dev_appsrvB&amp;sessionKey=1360761947961&amp;companyId=3&amp;accessId=27&amp;currency_Notation=SEK&amp;adtBaseFare=2049&amp;adtTaxFare=3305&amp;adtTotalFare=5354&amp;infBaseFare=203&amp;infTaxFare=1147&amp;infTotalFare=1350" currency="SEK" tax="7757" total="12058">
+        <out>
+            <leg flightNumber="0777" duration="2:45" arrivalTime="14:05" arrivalDate="13APR" carrierCode="BA" stop="0" operatedBy="" departureTime="12:20" departureDate="13APR" destinationCityCode="LHR" departureCityCode="ARN"/>
+            <leg flightNumber="0001" duration="7:50" arrivalTime="19:05" arrivalDate="13APR" carrierCode="VS" stop="0" operatedBy="" departureTime="16:15" departureDate="13APR" destinationCityCode="EWR" departureCityCode="LHR"/>
+        </out>
+        <in>
+            <leg flightNumber="0018" duration="7:00" arrivalTime="20:00" arrivalDate="15JUN" carrierCode="VS" stop="0" operatedBy="" departureTime="08:00" departureDate="15JUN" destinationCityCode="LHR" departureCityCode="EWR"/>
+            <leg flightNumber="0776" duration="2:25" arrivalTime="11:05" arrivalDate="16JUN" carrierCode="BA" stop="0" operatedBy="" departureTime="07:40" departureDate="16JUN" destinationCityCode="ARN" departureCityCode="LHR"/>
+        </in>
+    </price>
+    <price itineraryId="23" bookingUrl="key=gPRtTAwjLa8HiIZAy/im+YRIYztzbIiD&amp;city1=STO&amp;city2=NYC&amp;adults=2&amp;infants=1&amp;cachekey=-6761773918102867732&amp;itinerary_id=22&amp;pricekey=12058BA&amp;triptype=R&amp;trip1=~0&amp;trip2=0002~0&amp;trip3=&amp;trip4=&amp;tripCount=2&amp;sessionId=5174E65EA6A2C97CE2D0E9B27FA4EDBA.ajp13_dev_appsrvB&amp;sessionKey=1360761947961&amp;companyId=3&amp;accessId=27&amp;currency_Notation=SEK&amp;adtBaseFare=2049&amp;adtTaxFare=3305&amp;adtTotalFare=5354&amp;infBaseFare=203&amp;infTaxFare=1147&amp;infTotalFare=1350" currency="SEK" tax="7757" total="12058">
+        <out>
+            <leg flightNumber="0777" duration="2:45" arrivalTime="14:05" arrivalDate="13APR" carrierCode="BA" stop="0" operatedBy="" departureTime="12:20" departureDate="13APR" destinationCityCode="LHR" departureCityCode="ARN"/>
+            <leg flightNumber="0001" duration="7:50" arrivalTime="19:05" arrivalDate="13APR" carrierCode="VS" stop="0" operatedBy="" departureTime="16:15" departureDate="13APR" destinationCityCode="EWR" departureCityCode="LHR"/>
+        </out>
+        <in>
+            <leg flightNumber="0046" duration="7:15" arrivalTime="07:40" arrivalDate="15JUN" carrierCode="VS" stop="0" operatedBy="" departureTime="19:25" departureDate="15JUN" destinationCityCode="LHR" departureCityCode="JFK"/>
+            <leg flightNumber="0778" duration="2:30" arrivalTime="15:00" arrivalDate="16JUN" carrierCode="BA" stop="0" operatedBy="" departureTime="11:30" departureDate="16JUN" destinationCityCode="ARN" departureCityCode="LHR"/>
+        </in>
+    </price>
+    <price itineraryId="24" bookingUrl="key=gPRtTAwjLa8HiIZAy/im+YRIYztzbIiD&amp;city1=STO&amp;city2=NYC&amp;adults=2&amp;infants=1&amp;cachekey=-6761773918102867732&amp;itinerary_id=22&amp;pricekey=12058BA&amp;triptype=R&amp;trip1=~0&amp;trip2=0002~0&amp;trip3=&amp;trip4=&amp;tripCount=2&amp;sessionId=5174E65EA6A2C97CE2D0E9B27FA4EDBA.ajp13_dev_appsrvB&amp;sessionKey=1360761947961&amp;companyId=3&amp;accessId=27&amp;currency_Notation=SEK&amp;adtBaseFare=2049&amp;adtTaxFare=3305&amp;adtTotalFare=5354&amp;infBaseFare=203&amp;infTaxFare=1147&amp;infTotalFare=1350" currency="SEK" tax="7757" total="12058">
+        <out>
+            <leg flightNumber="0777" duration="2:45" arrivalTime="14:05" arrivalDate="13APR" carrierCode="BA" stop="0" operatedBy="" departureTime="12:20" departureDate="13APR" destinationCityCode="LHR" departureCityCode="ARN"/>
+            <leg flightNumber="0001" duration="7:50" arrivalTime="19:05" arrivalDate="13APR" carrierCode="VS" stop="0" operatedBy="" departureTime="16:15" departureDate="13APR" destinationCityCode="EWR" departureCityCode="LHR"/>
+        </out>
+        <in>
+            <leg flightNumber="0002" duration="6:55" arrivalTime="09:10" arrivalDate="15JUN" carrierCode="VS" stop="0" operatedBy="" departureTime="21:15" departureDate="15JUN" destinationCityCode="LHR" departureCityCode="EWR"/>
+            <leg flightNumber="0778" duration="2:30" arrivalTime="15:00" arrivalDate="16JUN" carrierCode="BA" stop="0" operatedBy="" departureTime="11:30" departureDate="16JUN" destinationCityCode="ARN" departureCityCode="LHR"/>
+        </in>
+    </price>
+    <price itineraryId="25" bookingUrl="key=gPRtTAwjLa8HiIZAy/im+YRIYztzbIiD&amp;city1=STO&amp;city2=NYC&amp;adults=2&amp;infants=1&amp;cachekey=-6761773918102867732&amp;itinerary_id=22&amp;pricekey=12058BA&amp;triptype=R&amp;trip1=~0&amp;trip2=0002~0&amp;trip3=&amp;trip4=&amp;tripCount=2&amp;sessionId=5174E65EA6A2C97CE2D0E9B27FA4EDBA.ajp13_dev_appsrvB&amp;sessionKey=1360761947961&amp;companyId=3&amp;accessId=27&amp;currency_Notation=SEK&amp;adtBaseFare=2049&amp;adtTaxFare=3305&amp;adtTotalFare=5354&amp;infBaseFare=203&amp;infTaxFare=1147&amp;infTotalFare=1350" currency="SEK" tax="7757" total="12058">
+        <out>
+            <leg flightNumber="0779" duration="2:35" arrivalTime="17:15" arrivalDate="13APR" carrierCode="BA" stop="0" operatedBy="" departureTime="15:40" departureDate="13APR" destinationCityCode="LHR" departureCityCode="ARN"/>
+            <leg flightNumber="0025" duration="7:55" arrivalTime="22:20" arrivalDate="13APR" carrierCode="VS" stop="0" operatedBy="" departureTime="19:25" departureDate="13APR" destinationCityCode="JFK" departureCityCode="LHR"/>
+        </out>
+        <in>
+            <leg flightNumber="0018" duration="7:00" arrivalTime="20:00" arrivalDate="15JUN" carrierCode="VS" stop="0" operatedBy="" departureTime="08:00" departureDate="15JUN" destinationCityCode="LHR" departureCityCode="EWR"/>
+            <leg flightNumber="0776" duration="2:25" arrivalTime="11:05" arrivalDate="16JUN" carrierCode="BA" stop="0" operatedBy="" departureTime="07:40" departureDate="16JUN" destinationCityCode="ARN" departureCityCode="LHR"/>
+        </in>
+    </price>
+    <price itineraryId="26" bookingUrl="key=gPRtTAwjLa8HiIZAy/im+YRIYztzbIiD&amp;city1=STO&amp;city2=NYC&amp;adults=2&amp;infants=1&amp;cachekey=-6761773918102867732&amp;itinerary_id=22&amp;pricekey=12058BA&amp;triptype=R&amp;trip1=~0&amp;trip2=0002~0&amp;trip3=&amp;trip4=&amp;tripCount=2&amp;sessionId=5174E65EA6A2C97CE2D0E9B27FA4EDBA.ajp13_dev_appsrvB&amp;sessionKey=1360761947961&amp;companyId=3&amp;accessId=27&amp;currency_Notation=SEK&amp;adtBaseFare=2049&amp;adtTaxFare=3305&amp;adtTotalFare=5354&amp;infBaseFare=203&amp;infTaxFare=1147&amp;infTotalFare=1350" currency="SEK" tax="7757" total="12058">
+        <out>
+            <leg flightNumber="0779" duration="2:35" arrivalTime="17:15" arrivalDate="13APR" carrierCode="BA" stop="0" operatedBy="" departureTime="15:40" departureDate="13APR" destinationCityCode="LHR" departureCityCode="ARN"/>
+            <leg flightNumber="0025" duration="7:55" arrivalTime="22:20" arrivalDate="13APR" carrierCode="VS" stop="0" operatedBy="" departureTime="19:25" departureDate="13APR" destinationCityCode="JFK" departureCityCode="LHR"/>
+        </out>
+        <in>
+            <leg flightNumber="0046" duration="7:15" arrivalTime="07:40" arrivalDate="15JUN" carrierCode="VS" stop="0" operatedBy="" departureTime="19:25" departureDate="15JUN" destinationCityCode="LHR" departureCityCode="JFK"/>
+            <leg flightNumber="0778" duration="2:30" arrivalTime="15:00" arrivalDate="16JUN" carrierCode="BA" stop="0" operatedBy="" departureTime="11:30" departureDate="16JUN" destinationCityCode="ARN" departureCityCode="LHR"/>
+        </in>
+    </price>
+    <price itineraryId="27" bookingUrl="key=gPRtTAwjLa8HiIZAy/im+YRIYztzbIiD&amp;city1=STO&amp;city2=NYC&amp;adults=2&amp;infants=1&amp;cachekey=-6761773918102867732&amp;itinerary_id=22&amp;pricekey=12058BA&amp;triptype=R&amp;trip1=~0&amp;trip2=0002~0&amp;trip3=&amp;trip4=&amp;tripCount=2&amp;sessionId=5174E65EA6A2C97CE2D0E9B27FA4EDBA.ajp13_dev_appsrvB&amp;sessionKey=1360761947961&amp;companyId=3&amp;accessId=27&amp;currency_Notation=SEK&amp;adtBaseFare=2049&amp;adtTaxFare=3305&amp;adtTotalFare=5354&amp;infBaseFare=203&amp;infTaxFare=1147&amp;infTotalFare=1350" currency="SEK" tax="7757" total="12058">
+        <out>
+            <leg flightNumber="0779" duration="2:35" arrivalTime="17:15" arrivalDate="13APR" carrierCode="BA" stop="0" operatedBy="" departureTime="15:40" departureDate="13APR" destinationCityCode="LHR" departureCityCode="ARN"/>
+            <leg flightNumber="0025" duration="7:55" arrivalTime="22:20" arrivalDate="13APR" carrierCode="VS" stop="0" operatedBy="" departureTime="19:25" departureDate="13APR" destinationCityCode="JFK" departureCityCode="LHR"/>
+        </out>
+        <in>
+            <leg flightNumber="0002" duration="6:55" arrivalTime="09:10" arrivalDate="15JUN" carrierCode="VS" stop="0" operatedBy="" departureTime="21:15" departureDate="15JUN" destinationCityCode="LHR" departureCityCode="EWR"/>
+            <leg flightNumber="0778" duration="2:30" arrivalTime="15:00" arrivalDate="16JUN" carrierCode="BA" stop="0" operatedBy="" departureTime="11:30" departureDate="16JUN" destinationCityCode="ARN" departureCityCode="LHR"/>
+        </in>
+    </price>
+    <price itineraryId="28" bookingUrl="key=gPRtTAwjLa8HiIZAy/im+YRIYztzbIiD&amp;city1=STO&amp;city2=NYC&amp;adults=2&amp;infants=1&amp;cachekey=-6761773918102867732&amp;itinerary_id=28&amp;pricekey=12058AF&amp;triptype=R&amp;trip1=~1&amp;trip2=8601~1&amp;trip3=&amp;trip4=&amp;tripCount=2&amp;sessionId=5174E65EA6A2C97CE2D0E9B27FA4EDBA.ajp13_dev_appsrvB&amp;sessionKey=1360761947961&amp;companyId=3&amp;accessId=27&amp;currency_Notation=SEK&amp;adtBaseFare=2465&amp;adtTaxFare=3252&amp;adtTotalFare=5717&amp;infBaseFare=256&amp;infTaxFare=368&amp;infTotalFare=624" currency="SEK" tax="6872" total="12058">
+        <out>
+            <leg flightNumber="1463" duration="2:40" arrivalTime="09:10" arrivalDate="13APR" carrierCode="AF" stop="0" operatedBy="" departureTime="06:30" departureDate="13APR" destinationCityCode="CDG" departureCityCode="ARN"/>
+            <leg flightNumber="0378" duration="8:40" arrivalTime="16:15" arrivalDate="13APR" carrierCode="AF" stop="0" operatedBy="" departureTime="13:35" departureDate="13APR" destinationCityCode="DTW" departureCityCode="CDG"/>
+            <leg flightNumber="2830" duration="1:53" arrivalTime="19:38" arrivalDate="13APR" carrierCode="AF" stop="0" operatedBy="DELTA AIR LINES" departureTime="17:45" departureDate="13APR" destinationCityCode="LGA" departureCityCode="DTW"/>
+        </out>
+        <in>
+            <leg flightNumber="8601" duration="7:25" arrivalTime="05:50" arrivalDate="15JUN" carrierCode="DL" stop="0" operatedBy="AIR FRANCE" departureTime="16:25" departureDate="15JUN" destinationCityCode="CDG" departureCityCode="JFK"/>
+            <leg flightNumber="1262" duration="2:30" arrivalTime="12:15" arrivalDate="16JUN" carrierCode="AF" stop="0" operatedBy="" departureTime="09:45" departureDate="16JUN" destinationCityCode="ARN" departureCityCode="CDG"/>
+        </in>
+    </price>
+    <price itineraryId="29" bookingUrl="key=gPRtTAwjLa8HiIZAy/im+YRIYztzbIiD&amp;city1=STO&amp;city2=NYC&amp;adults=2&amp;infants=1&amp;cachekey=-6761773918102867732&amp;itinerary_id=28&amp;pricekey=12058AF&amp;triptype=R&amp;trip1=~1&amp;trip2=8601~1&amp;trip3=&amp;trip4=&amp;tripCount=2&amp;sessionId=5174E65EA6A2C97CE2D0E9B27FA4EDBA.ajp13_dev_appsrvB&amp;sessionKey=1360761947961&amp;companyId=3&amp;accessId=27&amp;currency_Notation=SEK&amp;adtBaseFare=2465&amp;adtTaxFare=3252&amp;adtTotalFare=5717&amp;infBaseFare=256&amp;infTaxFare=368&amp;infTotalFare=624" currency="SEK" tax="6872" total="12058">
+        <out>
+            <leg flightNumber="1063" duration="2:40" arrivalTime="22:10" arrivalDate="13APR" carrierCode="AF" stop="0" operatedBy="" departureTime="19:30" departureDate="13APR" destinationCityCode="CDG" departureCityCode="ARN"/>
+            <leg flightNumber="0378" duration="8:40" arrivalTime="16:15" arrivalDate="14APR" carrierCode="AF" stop="0" operatedBy="" departureTime="13:35" departureDate="14APR" destinationCityCode="DTW" departureCityCode="CDG"/>
+            <leg flightNumber="2830" duration="1:53" arrivalTime="19:38" arrivalDate="14APR" carrierCode="AF" stop="0" operatedBy="DELTA AIR LINES" departureTime="17:45" departureDate="14APR" destinationCityCode="LGA" departureCityCode="DTW"/>
+        </out>
+        <in>
+            <leg flightNumber="8601" duration="7:25" arrivalTime="05:50" arrivalDate="15JUN" carrierCode="DL" stop="0" operatedBy="AIR FRANCE" departureTime="16:25" departureDate="15JUN" destinationCityCode="CDG" departureCityCode="JFK"/>
+            <leg flightNumber="1262" duration="2:30" arrivalTime="12:15" arrivalDate="16JUN" carrierCode="AF" stop="0" operatedBy="" departureTime="09:45" departureDate="16JUN" destinationCityCode="ARN" departureCityCode="CDG"/>
+        </in>
+    </price>
+    <price itineraryId="30" bookingUrl="key=gPRtTAwjLa8HiIZAy/im+YRIYztzbIiD&amp;city1=STO&amp;city2=NYC&amp;adults=2&amp;infants=1&amp;cachekey=-6761773918102867732&amp;itinerary_id=30&amp;pricekey=12211DL&amp;triptype=R&amp;trip1=~0&amp;trip2=3664~0&amp;trip3=&amp;trip4=&amp;tripCount=2&amp;sessionId=5174E65EA6A2C97CE2D0E9B27FA4EDBA.ajp13_dev_appsrvB&amp;sessionKey=1360761947961&amp;companyId=3&amp;accessId=27&amp;currency_Notation=SEK&amp;adtBaseFare=2596&amp;adtTaxFare=3191&amp;adtTotalFare=5787&amp;infBaseFare=269&amp;infTaxFare=368&amp;infTotalFare=637" currency="SEK" tax="6750" total="12211">
+        <out>
+            <leg flightNumber="8477" duration="2:40" arrivalTime="09:10" arrivalDate="13APR" carrierCode="DL" stop="0" operatedBy="AIR FRANCE" departureTime="06:30" departureDate="13APR" destinationCityCode="CDG" departureCityCode="ARN"/>
+            <leg flightNumber="8572" duration="8:40" arrivalTime="16:15" arrivalDate="13APR" carrierCode="DL" stop="0" operatedBy="AIR FRANCE" departureTime="13:35" departureDate="13APR" destinationCityCode="DTW" departureCityCode="CDG"/>
+            <leg flightNumber="0949" duration="1:48" arrivalTime="11:58" arrivalDate="14APR" carrierCode="DL" stop="0" operatedBy="" departureTime="10:10" departureDate="14APR" destinationCityCode="EWR" departureCityCode="DTW"/>
+        </out>
+        <in>
+            <leg flightNumber="3664" duration="8:35" arrivalTime="12:20" arrivalDate="15JUN" carrierCode="AF" stop="0" operatedBy="DELTA AIR LINES" departureTime="21:45" departureDate="15JUN" destinationCityCode="ARN" departureCityCode="JFK"/>
+        </in>
+    </price>
+    <price itineraryId="31" bookingUrl="key=gPRtTAwjLa8HiIZAy/im+YRIYztzbIiD&amp;city1=STO&amp;city2=NYC&amp;adults=2&amp;infants=1&amp;cachekey=-6761773918102867732&amp;itinerary_id=31&amp;pricekey=12278AF&amp;triptype=R&amp;trip1=~0&amp;trip2=8601~0&amp;trip3=&amp;trip4=&amp;tripCount=2&amp;sessionId=5174E65EA6A2C97CE2D0E9B27FA4EDBA.ajp13_dev_appsrvB&amp;sessionKey=1360761947961&amp;companyId=3&amp;accessId=27&amp;currency_Notation=SEK&amp;adtBaseFare=2465&amp;adtTaxFare=3362&amp;adtTotalFare=5827&amp;infBaseFare=256&amp;infTaxFare=368&amp;infTotalFare=624" currency="SEK" tax="7092" total="12278">
+        <out>
+            <leg flightNumber="1063" duration="2:40" arrivalTime="22:10" arrivalDate="13APR" carrierCode="AF" stop="0" operatedBy="" departureTime="19:30" departureDate="13APR" destinationCityCode="CDG" departureCityCode="ARN"/>
+            <leg flightNumber="0378" duration="8:40" arrivalTime="16:15" arrivalDate="14APR" carrierCode="AF" stop="0" operatedBy="" departureTime="13:35" departureDate="14APR" destinationCityCode="DTW" departureCityCode="CDG"/>
+            <leg flightNumber="8996" duration="1:56" arrivalTime="19:31" arrivalDate="14APR" carrierCode="AF" stop="0" operatedBy="DELTA AIR LINES" departureTime="17:35" departureDate="14APR" destinationCityCode="EWR" departureCityCode="DTW"/>
+        </out>
+        <in>
+            <leg flightNumber="8601" duration="7:25" arrivalTime="05:50" arrivalDate="15JUN" carrierCode="DL" stop="0" operatedBy="AIR FRANCE" departureTime="16:25" departureDate="15JUN" destinationCityCode="CDG" departureCityCode="JFK"/>
+            <leg flightNumber="1262" duration="2:30" arrivalTime="12:15" arrivalDate="16JUN" carrierCode="AF" stop="0" operatedBy="" departureTime="09:45" departureDate="16JUN" destinationCityCode="ARN" departureCityCode="CDG"/>
+        </in>
+    </price>
+    <price itineraryId="32" bookingUrl="key=gPRtTAwjLa8HiIZAy/im+YRIYztzbIiD&amp;city1=STO&amp;city2=NYC&amp;adults=2&amp;infants=1&amp;cachekey=-6761773918102867732&amp;itinerary_id=32&amp;pricekey=12297DL&amp;triptype=R&amp;trip1=~0&amp;trip2=6002~0&amp;trip3=&amp;trip4=&amp;tripCount=2&amp;sessionId=5174E65EA6A2C97CE2D0E9B27FA4EDBA.ajp13_dev_appsrvB&amp;sessionKey=1360761947961&amp;companyId=3&amp;accessId=27&amp;currency_Notation=SEK&amp;adtBaseFare=2596&amp;adtTaxFare=3234&amp;adtTotalFare=5830&amp;infBaseFare=269&amp;infTaxFare=368&amp;infTotalFare=637" currency="SEK" tax="6836" total="12297">
+        <out>
+            <leg flightNumber="8477" duration="2:40" arrivalTime="09:10" arrivalDate="13APR" carrierCode="DL" stop="0" operatedBy="AIR FRANCE" departureTime="06:30" departureDate="13APR" destinationCityCode="CDG" departureCityCode="ARN"/>
+            <leg flightNumber="8572" duration="8:40" arrivalTime="16:15" arrivalDate="13APR" carrierCode="DL" stop="0" operatedBy="AIR FRANCE" departureTime="13:35" departureDate="13APR" destinationCityCode="DTW" departureCityCode="CDG"/>
+            <leg flightNumber="0949" duration="1:48" arrivalTime="11:58" arrivalDate="14APR" carrierCode="DL" stop="0" operatedBy="" departureTime="10:10" departureDate="14APR" destinationCityCode="EWR" departureCityCode="DTW"/>
+        </out>
+        <in>
+            <leg flightNumber="6002" duration="8:35" arrivalTime="12:20" arrivalDate="15JUN" carrierCode="KL" stop="0" operatedBy="DELTA AIR LINES" departureTime="21:45" departureDate="15JUN" destinationCityCode="ARN" departureCityCode="JFK"/>
+        </in>
+    </price>
+    <price itineraryId="33" bookingUrl="key=gPRtTAwjLa8HiIZAy/im+YRIYztzbIiD&amp;city1=STO&amp;city2=NYC&amp;adults=2&amp;infants=1&amp;cachekey=-6761773918102867732&amp;itinerary_id=33&amp;pricekey=12495SK&amp;triptype=R&amp;trip1=~0&amp;trip2=0904~0&amp;trip3=&amp;trip4=&amp;tripCount=2&amp;sessionId=5174E65EA6A2C97CE2D0E9B27FA4EDBA.ajp13_dev_appsrvB&amp;sessionKey=1360761947961&amp;companyId=3&amp;accessId=27&amp;currency_Notation=SEK&amp;adtBaseFare=2875&amp;adtTaxFare=3048&amp;adtTotalFare=5923&amp;infBaseFare=297&amp;infTaxFare=352&amp;infTotalFare=649" currency="SEK" tax="6448" total="12495">
+        <out>
+            <leg flightNumber="0903" duration="8:30" arrivalTime="12:55" arrivalDate="13APR" carrierCode="SK" stop="0" operatedBy="" departureTime="10:25" departureDate="13APR" destinationCityCode="EWR" departureCityCode="ARN"/>
+        </out>
+        <in>
+            <leg flightNumber="0904" duration="7:55" arrivalTime="07:15" arrivalDate="15JUN" carrierCode="SK" stop="0" operatedBy="" departureTime="17:20" departureDate="15JUN" destinationCityCode="ARN" departureCityCode="EWR"/>
+        </in>
+    </price>
+    <price itineraryId="34" bookingUrl="key=gPRtTAwjLa8HiIZAy/im+YRIYztzbIiD&amp;city1=STO&amp;city2=NYC&amp;adults=2&amp;infants=1&amp;cachekey=-6761773918102867732&amp;itinerary_id=34&amp;pricekey=12549DL&amp;triptype=R&amp;trip1=~0&amp;trip2=8601~0&amp;trip3=&amp;trip4=&amp;tripCount=2&amp;sessionId=5174E65EA6A2C97CE2D0E9B27FA4EDBA.ajp13_dev_appsrvB&amp;sessionKey=1360761947961&amp;companyId=3&amp;accessId=27&amp;currency_Notation=SEK&amp;adtBaseFare=2596&amp;adtTaxFare=3360&amp;adtTotalFare=5956&amp;infBaseFare=269&amp;infTaxFare=368&amp;infTotalFare=637" currency="SEK" tax="7088" total="12549">
+        <out>
+            <leg flightNumber="8477" duration="2:40" arrivalTime="09:10" arrivalDate="13APR" carrierCode="DL" stop="0" operatedBy="AIR FRANCE" departureTime="06:30" departureDate="13APR" destinationCityCode="CDG" departureCityCode="ARN"/>
+            <leg flightNumber="8572" duration="8:40" arrivalTime="16:15" arrivalDate="13APR" carrierCode="DL" stop="0" operatedBy="AIR FRANCE" departureTime="13:35" departureDate="13APR" destinationCityCode="DTW" departureCityCode="CDG"/>
+            <leg flightNumber="0949" duration="1:48" arrivalTime="11:58" arrivalDate="14APR" carrierCode="DL" stop="0" operatedBy="" departureTime="10:10" departureDate="14APR" destinationCityCode="EWR" departureCityCode="DTW"/>
+        </out>
+        <in>
+            <leg flightNumber="8601" duration="7:25" arrivalTime="05:50" arrivalDate="15JUN" carrierCode="DL" stop="0" operatedBy="AIR FRANCE" departureTime="16:25" departureDate="15JUN" destinationCityCode="CDG" departureCityCode="JFK"/>
+            <leg flightNumber="1262" duration="2:30" arrivalTime="12:15" arrivalDate="16JUN" carrierCode="AF" stop="0" operatedBy="" departureTime="09:45" departureDate="16JUN" destinationCityCode="ARN" departureCityCode="CDG"/>
+        </in>
+    </price>
+    <price itineraryId="35" bookingUrl="key=gPRtTAwjLa8HiIZAy/im+YRIYztzbIiD&amp;city1=STO&amp;city2=NYC&amp;adults=2&amp;infants=1&amp;cachekey=-6761773918102867732&amp;itinerary_id=35&amp;pricekey=12662UA&amp;triptype=R&amp;trip1=~0&amp;trip2=0904~0&amp;trip3=&amp;trip4=&amp;tripCount=2&amp;sessionId=5174E65EA6A2C97CE2D0E9B27FA4EDBA.ajp13_dev_appsrvB&amp;sessionKey=1360761947961&amp;companyId=3&amp;accessId=27&amp;currency_Notation=SEK&amp;adtBaseFare=2980&amp;adtTaxFare=3021&amp;adtTotalFare=6001&amp;infBaseFare=308&amp;infTaxFare=352&amp;infTotalFare=660" currency="SEK" tax="6394" total="12662">
+        <out>
+            <leg flightNumber="0069" duration="9:00" arrivalTime="12:05" arrivalDate="13APR" carrierCode="UA" stop="0" operatedBy="" departureTime="09:05" departureDate="13APR" destinationCityCode="EWR" departureCityCode="ARN"/>
+        </out>
+        <in>
+            <leg flightNumber="0904" duration="7:55" arrivalTime="07:15" arrivalDate="15JUN" carrierCode="SK" stop="0" operatedBy="" departureTime="17:20" departureDate="15JUN" destinationCityCode="ARN" departureCityCode="EWR"/>
+        </in>
+    </price>
+    <price itineraryId="36" bookingUrl="key=gPRtTAwjLa8HiIZAy/im+YRIYztzbIiD&amp;city1=STO&amp;city2=NYC&amp;adults=2&amp;infants=1&amp;cachekey=-6761773918102867732&amp;itinerary_id=36&amp;pricekey=12821KL&amp;triptype=R&amp;trip1=~0&amp;trip2=3664~0&amp;trip3=&amp;trip4=&amp;tripCount=2&amp;sessionId=5174E65EA6A2C97CE2D0E9B27FA4EDBA.ajp13_dev_appsrvB&amp;sessionKey=1360761947961&amp;companyId=3&amp;accessId=27&amp;currency_Notation=SEK&amp;adtBaseFare=3025&amp;adtTaxFare=3047&amp;adtTotalFare=6072&amp;infBaseFare=325&amp;infTaxFare=352&amp;infTotalFare=677" currency="SEK" tax="6446" total="12821">
+        <out>
+            <leg flightNumber="1118" duration="2:00" arrivalTime="21:55" arrivalDate="13APR" carrierCode="KL" stop="0" operatedBy="" departureTime="19:55" departureDate="13APR" destinationCityCode="AMS" departureCityCode="ARN"/>
+            <leg flightNumber="0035" duration="8:35" arrivalTime="15:40" arrivalDate="14APR" carrierCode="DL" stop="0" operatedBy="" departureTime="13:05" departureDate="14APR" destinationCityCode="EWR" departureCityCode="AMS"/>
+        </out>
+        <in>
+            <leg flightNumber="3664" duration="8:35" arrivalTime="12:20" arrivalDate="15JUN" carrierCode="AF" stop="0" operatedBy="DELTA AIR LINES" departureTime="21:45" departureDate="15JUN" destinationCityCode="ARN" departureCityCode="JFK"/>
+        </in>
+    </price>
+    <price itineraryId="37" bookingUrl="key=gPRtTAwjLa8HiIZAy/im+YRIYztzbIiD&amp;city1=STO&amp;city2=NYC&amp;adults=2&amp;infants=1&amp;cachekey=-6761773918102867732&amp;itinerary_id=37&amp;pricekey=12924AC&amp;triptype=R&amp;trip1=~0&amp;trip2=0904~0&amp;trip3=&amp;trip4=&amp;tripCount=2&amp;sessionId=5174E65EA6A2C97CE2D0E9B27FA4EDBA.ajp13_dev_appsrvB&amp;sessionKey=1360761947961&amp;companyId=3&amp;accessId=27&amp;currency_Notation=SEK&amp;adtBaseFare=2980&amp;adtTaxFare=3137&amp;adtTotalFare=6117&amp;infBaseFare=308&amp;infTaxFare=382&amp;infTotalFare=690" currency="SEK" tax="6656" total="12924">
+        <out>
+            <leg flightNumber="9274" duration="2:15" arrivalTime="08:20" arrivalDate="13APR" carrierCode="AC" stop="0" operatedBy="LUFTHANSA OR LH CITYLINE" departureTime="06:05" departureDate="13APR" destinationCityCode="FRA" departureCityCode="ARN"/>
+            <leg flightNumber="0873" duration="8:15" arrivalTime="12:15" arrivalDate="13APR" carrierCode="AC" stop="0" operatedBy="" departureTime="10:00" departureDate="13APR" destinationCityCode="YYZ" departureCityCode="FRA"/>
+            <leg flightNumber="8626" duration="1:31" arrivalTime="18:56" arrivalDate="13APR" carrierCode="AC" stop="0" operatedBy="AIR CANADA EXPRESS - JAZZ" departureTime="17:25" departureDate="13APR" destinationCityCode="EWR" departureCityCode="YYZ"/>
+        </out>
+        <in>
+            <leg flightNumber="0904" duration="7:55" arrivalTime="07:15" arrivalDate="15JUN" carrierCode="SK" stop="0" operatedBy="" departureTime="17:20" departureDate="15JUN" destinationCityCode="ARN" departureCityCode="EWR"/>
+        </in>
+    </price>
+    <price itineraryId="38" bookingUrl="key=gPRtTAwjLa8HiIZAy/im+YRIYztzbIiD&amp;city1=STO&amp;city2=NYC&amp;adults=2&amp;infants=1&amp;cachekey=-6761773918102867732&amp;itinerary_id=38&amp;pricekey=12948SK&amp;triptype=R&amp;trip1=~0&amp;trip2=8901~0&amp;trip3=&amp;trip4=&amp;tripCount=2&amp;sessionId=5174E65EA6A2C97CE2D0E9B27FA4EDBA.ajp13_dev_appsrvB&amp;sessionKey=1360761947961&amp;companyId=3&amp;accessId=27&amp;currency_Notation=SEK&amp;adtBaseFare=2980&amp;adtTaxFare=3149&amp;adtTotalFare=6129&amp;infBaseFare=308&amp;infTaxFare=382&amp;infTotalFare=690" currency="SEK" tax="6680" total="12948">
+        <out>
+            <leg flightNumber="0903" duration="8:30" arrivalTime="12:55" arrivalDate="13APR" carrierCode="SK" stop="0" operatedBy="" departureTime="10:25" departureDate="13APR" destinationCityCode="EWR" departureCityCode="ARN"/>
+        </out>
+        <in>
+            <leg flightNumber="8901" duration="1:41" arrivalTime="08:21" arrivalDate="15JUN" carrierCode="AC" stop="0" operatedBy="AIR CANADA EXPRESS - JAZZ" departureTime="06:40" departureDate="15JUN" destinationCityCode="YYZ" departureCityCode="JFK"/>
+            <leg flightNumber="0846" duration="7:55" arrivalTime="10:05" arrivalDate="15JUN" carrierCode="AC" stop="0" operatedBy="" departureTime="20:10" departureDate="15JUN" destinationCityCode="MUC" departureCityCode="YYZ"/>
+            <leg flightNumber="9332" duration="2:05" arrivalTime="17:35" arrivalDate="16JUN" carrierCode="AC" stop="0" operatedBy="LUFTHANSA OR LH CITYLINE" departureTime="15:30" departureDate="16JUN" destinationCityCode="ARN" departureCityCode="MUC"/>
+        </in>
+    </price>
+    <price itineraryId="39" bookingUrl="key=gPRtTAwjLa8HiIZAy/im+YRIYztzbIiD&amp;city1=STO&amp;city2=NYC&amp;adults=2&amp;infants=1&amp;cachekey=-6761773918102867732&amp;itinerary_id=39&amp;pricekey=13155IB&amp;triptype=R&amp;trip1=~0&amp;trip2=6151~0&amp;trip3=&amp;trip4=&amp;tripCount=2&amp;sessionId=5174E65EA6A2C97CE2D0E9B27FA4EDBA.ajp13_dev_appsrvB&amp;sessionKey=1360761947961&amp;companyId=3&amp;accessId=27&amp;currency_Notation=SEK&amp;adtBaseFare=2700&amp;adtTaxFare=3303&amp;adtTotalFare=6003&amp;infBaseFare=280&amp;infTaxFare=869&amp;infTotalFare=1149" currency="SEK" tax="7475" total="13155">
+        <out>
+            <leg flightNumber="4779" duration="2:40" arrivalTime="09:15" arrivalDate="13APR" carrierCode="IB" stop="0" operatedBy="BRITISH AIRWAYS" departureTime="07:35" departureDate="13APR" destinationCityCode="LHR" departureCityCode="ARN"/>
+            <leg flightNumber="4221" duration="7:55" arrivalTime="18:10" arrivalDate="13APR" carrierCode="IB" stop="0" operatedBy="AMERICAN" departureTime="15:15" departureDate="13APR" destinationCityCode="JFK" departureCityCode="LHR"/>
+        </out>
+        <in>
+            <leg flightNumber="6151" duration="6:50" arrivalTime="09:15" arrivalDate="15JUN" carrierCode="AA" stop="0" operatedBy="BRITISH AIRWAYS" departureTime="21:25" departureDate="15JUN" destinationCityCode="LHR" departureCityCode="EWR"/>
+            <leg flightNumber="6529" duration="2:30" arrivalTime="15:00" arrivalDate="16JUN" carrierCode="AA" stop="0" operatedBy="BRITISH AIRWAYS" departureTime="11:30" departureDate="16JUN" destinationCityCode="ARN" departureCityCode="LHR"/>
+        </in>
+    </price>
+    <price itineraryId="40" bookingUrl="key=gPRtTAwjLa8HiIZAy/im+YRIYztzbIiD&amp;city1=STO&amp;city2=NYC&amp;adults=2&amp;infants=1&amp;cachekey=-6761773918102867732&amp;itinerary_id=39&amp;pricekey=13155IB&amp;triptype=R&amp;trip1=~0&amp;trip2=6151~0&amp;trip3=&amp;trip4=&amp;tripCount=2&amp;sessionId=5174E65EA6A2C97CE2D0E9B27FA4EDBA.ajp13_dev_appsrvB&amp;sessionKey=1360761947961&amp;companyId=3&amp;accessId=27&amp;currency_Notation=SEK&amp;adtBaseFare=2700&amp;adtTaxFare=3303&amp;adtTotalFare=6003&amp;infBaseFare=280&amp;infTaxFare=869&amp;infTotalFare=1149" currency="SEK" tax="7475" total="13155">
+        <out>
+            <leg flightNumber="4785" duration="2:45" arrivalTime="14:05" arrivalDate="13APR" carrierCode="IB" stop="0" operatedBy="BRITISH AIRWAYS" departureTime="12:20" departureDate="13APR" destinationCityCode="LHR" departureCityCode="ARN"/>
+            <leg flightNumber="4223" duration="8:00" arrivalTime="20:00" arrivalDate="13APR" carrierCode="IB" stop="0" operatedBy="AMERICAN" departureTime="17:00" departureDate="13APR" destinationCityCode="JFK" departureCityCode="LHR"/>
+        </out>
+        <in>
+            <leg flightNumber="6151" duration="6:50" arrivalTime="09:15" arrivalDate="15JUN" carrierCode="AA" stop="0" operatedBy="BRITISH AIRWAYS" departureTime="21:25" departureDate="15JUN" destinationCityCode="LHR" departureCityCode="EWR"/>
+            <leg flightNumber="6529" duration="2:30" arrivalTime="15:00" arrivalDate="16JUN" carrierCode="AA" stop="0" operatedBy="BRITISH AIRWAYS" departureTime="11:30" departureDate="16JUN" destinationCityCode="ARN" departureCityCode="LHR"/>
+        </in>
+    </price>
+    <price itineraryId="41" bookingUrl="key=gPRtTAwjLa8HiIZAy/im+YRIYztzbIiD&amp;city1=STO&amp;city2=NYC&amp;adults=2&amp;infants=1&amp;cachekey=-6761773918102867732&amp;itinerary_id=39&amp;pricekey=13155IB&amp;triptype=R&amp;trip1=~0&amp;trip2=6151~0&amp;trip3=&amp;trip4=&amp;tripCount=2&amp;sessionId=5174E65EA6A2C97CE2D0E9B27FA4EDBA.ajp13_dev_appsrvB&amp;sessionKey=1360761947961&amp;companyId=3&amp;accessId=27&amp;currency_Notation=SEK&amp;adtBaseFare=2700&amp;adtTaxFare=3303&amp;adtTotalFare=6003&amp;infBaseFare=280&amp;infTaxFare=869&amp;infTotalFare=1149" currency="SEK" tax="7475" total="13155">
+        <out>
+            <leg flightNumber="4787" duration="2:35" arrivalTime="17:15" arrivalDate="13APR" carrierCode="IB" stop="0" operatedBy="BRITISH AIRWAYS" departureTime="15:40" departureDate="13APR" destinationCityCode="LHR" departureCityCode="ARN"/>
+            <leg flightNumber="4239" duration="7:50" arrivalTime="21:50" arrivalDate="13APR" carrierCode="IB" stop="0" operatedBy="AMERICAN" departureTime="19:00" departureDate="13APR" destinationCityCode="JFK" departureCityCode="LHR"/>
+        </out>
+        <in>
+            <leg flightNumber="6151" duration="6:50" arrivalTime="09:15" arrivalDate="15JUN" carrierCode="AA" stop="0" operatedBy="BRITISH AIRWAYS" departureTime="21:25" departureDate="15JUN" destinationCityCode="LHR" departureCityCode="EWR"/>
+            <leg flightNumber="6529" duration="2:30" arrivalTime="15:00" arrivalDate="16JUN" carrierCode="AA" stop="0" operatedBy="BRITISH AIRWAYS" departureTime="11:30" departureDate="16JUN" destinationCityCode="ARN" departureCityCode="LHR"/>
+        </in>
+    </price>
+    <price itineraryId="42" bookingUrl="key=gPRtTAwjLa8HiIZAy/im+YRIYztzbIiD&amp;city1=STO&amp;city2=NYC&amp;adults=2&amp;infants=1&amp;cachekey=-6761773918102867732&amp;itinerary_id=42&amp;pricekey=13159KL&amp;triptype=R&amp;trip1=~0&amp;trip2=6002~0&amp;trip3=&amp;trip4=&amp;tripCount=2&amp;sessionId=5174E65EA6A2C97CE2D0E9B27FA4EDBA.ajp13_dev_appsrvB&amp;sessionKey=1360761947961&amp;companyId=3&amp;accessId=27&amp;currency_Notation=SEK&amp;adtBaseFare=3155&amp;adtTaxFare=3090&amp;adtTotalFare=6245&amp;infBaseFare=317&amp;infTaxFare=352&amp;infTotalFare=669" currency="SEK" tax="6532" total="13159">
+        <out>
+            <leg flightNumber="1118" duration="2:00" arrivalTime="21:55" arrivalDate="13APR" carrierCode="KL" stop="0" operatedBy="" departureTime="19:55" departureDate="13APR" destinationCityCode="AMS" departureCityCode="ARN"/>
+            <leg flightNumber="0035" duration="8:35" arrivalTime="15:40" arrivalDate="14APR" carrierCode="DL" stop="0" operatedBy="" departureTime="13:05" departureDate="14APR" destinationCityCode="EWR" departureCityCode="AMS"/>
+        </out>
+        <in>
+            <leg flightNumber="6002" duration="8:35" arrivalTime="12:20" arrivalDate="15JUN" carrierCode="KL" stop="0" operatedBy="DELTA AIR LINES" departureTime="21:45" departureDate="15JUN" destinationCityCode="ARN" departureCityCode="JFK"/>
+        </in>
+    </price>
+    <price itineraryId="43" bookingUrl="key=gPRtTAwjLa8HiIZAy/im+YRIYztzbIiD&amp;city1=STO&amp;city2=NYC&amp;adults=2&amp;infants=1&amp;cachekey=-6761773918102867732&amp;itinerary_id=43&amp;pricekey=13167KL&amp;triptype=R&amp;trip1=~0&amp;trip2=0202~0&amp;trip3=&amp;trip4=&amp;tripCount=2&amp;sessionId=5174E65EA6A2C97CE2D0E9B27FA4EDBA.ajp13_dev_appsrvB&amp;sessionKey=1360761947961&amp;companyId=3&amp;accessId=27&amp;currency_Notation=SEK&amp;adtBaseFare=3155&amp;adtTaxFare=3090&amp;adtTotalFare=6245&amp;infBaseFare=325&amp;infTaxFare=352&amp;infTotalFare=677" currency="SEK" tax="6532" total="13167">
+        <out>
+            <leg flightNumber="1118" duration="2:00" arrivalTime="21:55" arrivalDate="13APR" carrierCode="KL" stop="0" operatedBy="" departureTime="19:55" departureDate="13APR" destinationCityCode="AMS" departureCityCode="ARN"/>
+            <leg flightNumber="0035" duration="8:35" arrivalTime="15:40" arrivalDate="14APR" carrierCode="DL" stop="0" operatedBy="" departureTime="13:05" departureDate="14APR" destinationCityCode="EWR" departureCityCode="AMS"/>
+        </out>
+        <in>
+            <leg flightNumber="0202" duration="8:35" arrivalTime="12:20" arrivalDate="15JUN" carrierCode="DL" stop="0" operatedBy="" departureTime="21:45" departureDate="15JUN" destinationCityCode="ARN" departureCityCode="JFK"/>
+        </in>
+    </price>
+    <price itineraryId="44" bookingUrl="key=gPRtTAwjLa8HiIZAy/im+YRIYztzbIiD&amp;city1=STO&amp;city2=NYC&amp;adults=2&amp;infants=1&amp;cachekey=-6761773918102867732&amp;itinerary_id=44&amp;pricekey=13242KL&amp;triptype=R&amp;trip1=~0&amp;trip2=3664~0&amp;trip3=&amp;trip4=&amp;tripCount=2&amp;sessionId=5174E65EA6A2C97CE2D0E9B27FA4EDBA.ajp13_dev_appsrvB&amp;sessionKey=1360761947961&amp;companyId=3&amp;accessId=27&amp;currency_Notation=SEK&amp;adtBaseFare=3229&amp;adtTaxFare=3047&amp;adtTotalFare=6276&amp;infBaseFare=338&amp;infTaxFare=352&amp;infTotalFare=690" currency="SEK" tax="6446" total="13242">
+        <out>
+            <leg flightNumber="1118" duration="2:00" arrivalTime="21:55" arrivalDate="13APR" carrierCode="KL" stop="0" operatedBy="" departureTime="19:55" departureDate="13APR" destinationCityCode="AMS" departureCityCode="ARN"/>
+            <leg flightNumber="0641" duration="8:05" arrivalTime="15:30" arrivalDate="14APR" carrierCode="KL" stop="0" operatedBy="" departureTime="13:25" departureDate="14APR" destinationCityCode="JFK" departureCityCode="AMS"/>
+        </out>
+        <in>
+            <leg flightNumber="3664" duration="8:35" arrivalTime="12:20" arrivalDate="15JUN" carrierCode="AF" stop="0" operatedBy="DELTA AIR LINES" departureTime="21:45" departureDate="15JUN" destinationCityCode="ARN" departureCityCode="JFK"/>
+        </in>
+    </price>
+    <price itineraryId="45" bookingUrl="key=gPRtTAwjLa8HiIZAy/im+YRIYztzbIiD&amp;city1=STO&amp;city2=NYC&amp;adults=2&amp;infants=1&amp;cachekey=-6761773918102867732&amp;itinerary_id=45&amp;pricekey=13312IB&amp;triptype=R&amp;trip1=~0&amp;trip2=0114~0&amp;trip3=&amp;trip4=&amp;tripCount=2&amp;sessionId=5174E65EA6A2C97CE2D0E9B27FA4EDBA.ajp13_dev_appsrvB&amp;sessionKey=1360761947961&amp;companyId=3&amp;accessId=27&amp;currency_Notation=SEK&amp;adtBaseFare=2700&amp;adtTaxFare=3338&amp;adtTotalFare=6038&amp;infBaseFare=280&amp;infTaxFare=956&amp;infTotalFare=1236" currency="SEK" tax="7632" total="13312">
+        <out>
+            <leg flightNumber="4779" duration="2:40" arrivalTime="09:15" arrivalDate="13APR" carrierCode="IB" stop="0" operatedBy="BRITISH AIRWAYS" departureTime="07:35" departureDate="13APR" destinationCityCode="LHR" departureCityCode="ARN"/>
+            <leg flightNumber="4221" duration="7:55" arrivalTime="18:10" arrivalDate="13APR" carrierCode="IB" stop="0" operatedBy="AMERICAN" departureTime="15:15" departureDate="13APR" destinationCityCode="JFK" departureCityCode="LHR"/>
+        </out>
+        <in>
+            <leg flightNumber="0114" duration="6:50" arrivalTime="09:45" arrivalDate="15JUN" carrierCode="BA" stop="0" operatedBy="" departureTime="21:55" departureDate="15JUN" destinationCityCode="LHR" departureCityCode="JFK"/>
+            <leg flightNumber="6529" duration="2:30" arrivalTime="15:00" arrivalDate="16JUN" carrierCode="AA" stop="0" operatedBy="BRITISH AIRWAYS" departureTime="11:30" departureDate="16JUN" destinationCityCode="ARN" departureCityCode="LHR"/>
+        </in>
+    </price>
+    <price itineraryId="46" bookingUrl="key=gPRtTAwjLa8HiIZAy/im+YRIYztzbIiD&amp;city1=STO&amp;city2=NYC&amp;adults=2&amp;infants=1&amp;cachekey=-6761773918102867732&amp;itinerary_id=45&amp;pricekey=13312IB&amp;triptype=R&amp;trip1=~0&amp;trip2=0114~0&amp;trip3=&amp;trip4=&amp;tripCount=2&amp;sessionId=5174E65EA6A2C97CE2D0E9B27FA4EDBA.ajp13_dev_appsrvB&amp;sessionKey=1360761947961&amp;companyId=3&amp;accessId=27&amp;currency_Notation=SEK&amp;adtBaseFare=2700&amp;adtTaxFare=3338&amp;adtTotalFare=6038&amp;infBaseFare=280&amp;infTaxFare=956&amp;infTotalFare=1236" currency="SEK" tax="7632" total="13312">
+        <out>
+            <leg flightNumber="4785" duration="2:45" arrivalTime="14:05" arrivalDate="13APR" carrierCode="IB" stop="0" operatedBy="BRITISH AIRWAYS" departureTime="12:20" departureDate="13APR" destinationCityCode="LHR" departureCityCode="ARN"/>
+            <leg flightNumber="4223" duration="8:00" arrivalTime="20:00" arrivalDate="13APR" carrierCode="IB" stop="0" operatedBy="AMERICAN" departureTime="17:00" departureDate="13APR" destinationCityCode="JFK" departureCityCode="LHR"/>
+        </out>
+        <in>
+            <leg flightNumber="0114" duration="6:50" arrivalTime="09:45" arrivalDate="15JUN" carrierCode="BA" stop="0" operatedBy="" departureTime="21:55" departureDate="15JUN" destinationCityCode="LHR" departureCityCode="JFK"/>
+            <leg flightNumber="6529" duration="2:30" arrivalTime="15:00" arrivalDate="16JUN" carrierCode="AA" stop="0" operatedBy="BRITISH AIRWAYS" departureTime="11:30" departureDate="16JUN" destinationCityCode="ARN" departureCityCode="LHR"/>
+        </in>
+    </price>
+    <price itineraryId="47" bookingUrl="key=gPRtTAwjLa8HiIZAy/im+YRIYztzbIiD&amp;city1=STO&amp;city2=NYC&amp;adults=2&amp;infants=1&amp;cachekey=-6761773918102867732&amp;itinerary_id=45&amp;pricekey=13312IB&amp;triptype=R&amp;trip1=~0&amp;trip2=0114~0&amp;trip3=&amp;trip4=&amp;tripCount=2&amp;sessionId=5174E65EA6A2C97CE2D0E9B27FA4EDBA.ajp13_dev_appsrvB&amp;sessionKey=1360761947961&amp;companyId=3&amp;accessId=27&amp;currency_Notation=SEK&amp;adtBaseFare=2700&amp;adtTaxFare=3338&amp;adtTotalFare=6038&amp;infBaseFare=280&amp;infTaxFare=956&amp;infTotalFare=1236" currency="SEK" tax="7632" total="13312">
+        <out>
+            <leg flightNumber="4787" duration="2:35" arrivalTime="17:15" arrivalDate="13APR" carrierCode="IB" stop="0" operatedBy="BRITISH AIRWAYS" departureTime="15:40" departureDate="13APR" destinationCityCode="LHR" departureCityCode="ARN"/>
+            <leg flightNumber="4239" duration="7:50" arrivalTime="21:50" arrivalDate="13APR" carrierCode="IB" stop="0" operatedBy="AMERICAN" departureTime="19:00" departureDate="13APR" destinationCityCode="JFK" departureCityCode="LHR"/>
+        </out>
+        <in>
+            <leg flightNumber="0114" duration="6:50" arrivalTime="09:45" arrivalDate="15JUN" carrierCode="BA" stop="0" operatedBy="" departureTime="21:55" departureDate="15JUN" destinationCityCode="LHR" departureCityCode="JFK"/>
+            <leg flightNumber="6529" duration="2:30" arrivalTime="15:00" arrivalDate="16JUN" carrierCode="AA" stop="0" operatedBy="BRITISH AIRWAYS" departureTime="11:30" departureDate="16JUN" destinationCityCode="ARN" departureCityCode="LHR"/>
+        </in>
+    </price>
+    <price itineraryId="48" bookingUrl="key=gPRtTAwjLa8HiIZAy/im+YRIYztzbIiD&amp;city1=STO&amp;city2=NYC&amp;adults=2&amp;infants=1&amp;cachekey=-6761773918102867732&amp;itinerary_id=48&amp;pricekey=13345AA&amp;triptype=R&amp;trip1=~0&amp;trip2=4626~0&amp;trip3=&amp;trip4=&amp;tripCount=2&amp;sessionId=5174E65EA6A2C97CE2D0E9B27FA4EDBA.ajp13_dev_appsrvB&amp;sessionKey=1360761947961&amp;companyId=3&amp;accessId=27&amp;currency_Notation=SEK&amp;adtBaseFare=2795&amp;adtTaxFare=3303&amp;adtTotalFare=6098&amp;infBaseFare=280&amp;infTaxFare=869&amp;infTotalFare=1149" currency="SEK" tax="7475" total="13345">
+        <out>
+            <leg flightNumber="6530" duration="2:35" arrivalTime="17:15" arrivalDate="13APR" carrierCode="AA" stop="0" operatedBy="BRITISH AIRWAYS" departureTime="15:40" departureDate="13APR" destinationCityCode="LHR" departureCityCode="ARN"/>
+            <leg flightNumber="6223" duration="7:05" arrivalTime="20:20" arrivalDate="13APR" carrierCode="AA" stop="0" operatedBy="BRITISH AIRWAYS" departureTime="18:15" departureDate="13APR" destinationCityCode="YUL" departureCityCode="LHR"/>
+            <leg flightNumber="4468" duration="1:30" arrivalTime="11:40" arrivalDate="14APR" carrierCode="AA" stop="0" operatedBy="AMERICAN EAGLE AIRLINES" departureTime="10:10" departureDate="14APR" destinationCityCode="LGA" departureCityCode="YUL"/>
+        </out>
+        <in>
+            <leg flightNumber="4626" duration="6:50" arrivalTime="09:15" arrivalDate="15JUN" carrierCode="IB" stop="0" operatedBy="BRITISH AIRWAYS" departureTime="21:25" departureDate="15JUN" destinationCityCode="LHR" departureCityCode="EWR"/>
+            <leg flightNumber="4780" duration="2:30" arrivalTime="15:00" arrivalDate="16JUN" carrierCode="IB" stop="0" operatedBy="BRITISH AIRWAYS" departureTime="11:30" departureDate="16JUN" destinationCityCode="ARN" departureCityCode="LHR"/>
+        </in>
+    </price>
+    <price itineraryId="49" bookingUrl="key=gPRtTAwjLa8HiIZAy/im+YRIYztzbIiD&amp;city1=STO&amp;city2=NYC&amp;adults=2&amp;infants=1&amp;cachekey=-6761773918102867732&amp;itinerary_id=48&amp;pricekey=13345AA&amp;triptype=R&amp;trip1=~0&amp;trip2=4626~0&amp;trip3=&amp;trip4=&amp;tripCount=2&amp;sessionId=5174E65EA6A2C97CE2D0E9B27FA4EDBA.ajp13_dev_appsrvB&amp;sessionKey=1360761947961&amp;companyId=3&amp;accessId=27&amp;currency_Notation=SEK&amp;adtBaseFare=2795&amp;adtTaxFare=3303&amp;adtTotalFare=6098&amp;infBaseFare=280&amp;infTaxFare=869&amp;infTotalFare=1149" currency="SEK" tax="7475" total="13345">
+        <out>
+            <leg flightNumber="6530" duration="2:35" arrivalTime="17:15" arrivalDate="13APR" carrierCode="AA" stop="0" operatedBy="BRITISH AIRWAYS" departureTime="15:40" departureDate="13APR" destinationCityCode="LHR" departureCityCode="ARN"/>
+            <leg flightNumber="6223" duration="7:05" arrivalTime="20:20" arrivalDate="13APR" carrierCode="AA" stop="0" operatedBy="BRITISH AIRWAYS" departureTime="18:15" departureDate="13APR" destinationCityCode="YUL" departureCityCode="LHR"/>
+            <leg flightNumber="4468" duration="1:30" arrivalTime="11:40" arrivalDate="14APR" carrierCode="AA" stop="0" operatedBy="AMERICAN EAGLE AIRLINES" departureTime="10:10" departureDate="14APR" destinationCityCode="LGA" departureCityCode="YUL"/>
+        </out>
+        <in>
+            <leg flightNumber="4624" duration="7:00" arrivalTime="10:55" arrivalDate="15JUN" carrierCode="IB" stop="0" operatedBy="BRITISH AIRWAYS" departureTime="22:55" departureDate="15JUN" destinationCityCode="LHR" departureCityCode="EWR"/>
+            <leg flightNumber="4782" duration="2:30" arrivalTime="16:55" arrivalDate="16JUN" carrierCode="IB" stop="0" operatedBy="BRITISH AIRWAYS" departureTime="13:25" departureDate="16JUN" destinationCityCode="ARN" departureCityCode="LHR"/>
+        </in>
+    </price>
+    <price itineraryId="50" bookingUrl="key=gPRtTAwjLa8HiIZAy/im+YRIYztzbIiD&amp;city1=STO&amp;city2=NYC&amp;adults=2&amp;infants=1&amp;cachekey=-6761773918102867732&amp;itinerary_id=50&amp;pricekey=13397AA&amp;triptype=R&amp;trip1=~0&amp;trip2=6149~0&amp;trip3=&amp;trip4=&amp;tripCount=2&amp;sessionId=5174E65EA6A2C97CE2D0E9B27FA4EDBA.ajp13_dev_appsrvB&amp;sessionKey=1360761947961&amp;companyId=3&amp;accessId=27&amp;currency_Notation=SEK&amp;adtBaseFare=2795&amp;adtTaxFare=3303&amp;adtTotalFare=6098&amp;infBaseFare=280&amp;infTaxFare=921&amp;infTotalFare=1201" currency="SEK" tax="7527" total="13397">
+        <out>
+            <leg flightNumber="6530" duration="2:35" arrivalTime="17:15" arrivalDate="13APR" carrierCode="AA" stop="0" operatedBy="BRITISH AIRWAYS" departureTime="15:40" departureDate="13APR" destinationCityCode="LHR" departureCityCode="ARN"/>
+            <leg flightNumber="0141" duration="7:50" arrivalTime="21:50" arrivalDate="13APR" carrierCode="AA" stop="0" operatedBy="" departureTime="19:00" departureDate="13APR" destinationCityCode="JFK" departureCityCode="LHR"/>
+        </out>
+        <in>
+            <leg flightNumber="6149" duration="7:00" arrivalTime="10:55" arrivalDate="15JUN" carrierCode="AA" stop="0" operatedBy="BRITISH AIRWAYS" departureTime="22:55" departureDate="15JUN" destinationCityCode="LHR" departureCityCode="EWR"/>
+            <leg flightNumber="0780" duration="2:30" arrivalTime="16:55" arrivalDate="16JUN" carrierCode="BA" stop="0" operatedBy="" departureTime="13:25" departureDate="16JUN" destinationCityCode="ARN" departureCityCode="LHR"/>
+        </in>
+    </price>
+    <price itineraryId="51" bookingUrl="key=gPRtTAwjLa8HiIZAy/im+YRIYztzbIiD&amp;city1=STO&amp;city2=NYC&amp;adults=2&amp;infants=1&amp;cachekey=-6761773918102867732&amp;itinerary_id=50&amp;pricekey=13397AA&amp;triptype=R&amp;trip1=~0&amp;trip2=6149~0&amp;trip3=&amp;trip4=&amp;tripCount=2&amp;sessionId=5174E65EA6A2C97CE2D0E9B27FA4EDBA.ajp13_dev_appsrvB&amp;sessionKey=1360761947961&amp;companyId=3&amp;accessId=27&amp;currency_Notation=SEK&amp;adtBaseFare=2795&amp;adtTaxFare=3303&amp;adtTotalFare=6098&amp;infBaseFare=280&amp;infTaxFare=921&amp;infTotalFare=1201" currency="SEK" tax="7527" total="13397">
+        <out>
+            <leg flightNumber="6530" duration="2:35" arrivalTime="17:15" arrivalDate="13APR" carrierCode="AA" stop="0" operatedBy="BRITISH AIRWAYS" departureTime="15:40" departureDate="13APR" destinationCityCode="LHR" departureCityCode="ARN"/>
+            <leg flightNumber="6223" duration="7:05" arrivalTime="20:20" arrivalDate="13APR" carrierCode="AA" stop="0" operatedBy="BRITISH AIRWAYS" departureTime="18:15" departureDate="13APR" destinationCityCode="YUL" departureCityCode="LHR"/>
+            <leg flightNumber="4468" duration="1:30" arrivalTime="11:40" arrivalDate="14APR" carrierCode="AA" stop="0" operatedBy="AMERICAN EAGLE AIRLINES" departureTime="10:10" departureDate="14APR" destinationCityCode="LGA" departureCityCode="YUL"/>
+        </out>
+        <in>
+            <leg flightNumber="6149" duration="7:00" arrivalTime="10:55" arrivalDate="15JUN" carrierCode="AA" stop="0" operatedBy="BRITISH AIRWAYS" departureTime="22:55" departureDate="15JUN" destinationCityCode="LHR" departureCityCode="EWR"/>
+            <leg flightNumber="0780" duration="2:30" arrivalTime="16:55" arrivalDate="16JUN" carrierCode="BA" stop="0" operatedBy="" departureTime="13:25" departureDate="16JUN" destinationCityCode="ARN" departureCityCode="LHR"/>
+        </in>
+    </price>
+    <price itineraryId="52" bookingUrl="key=gPRtTAwjLa8HiIZAy/im+YRIYztzbIiD&amp;city1=STO&amp;city2=NYC&amp;adults=2&amp;infants=1&amp;cachekey=-6761773918102867732&amp;itinerary_id=52&amp;pricekey=13419KL&amp;triptype=R&amp;trip1=~0&amp;trip2=8601~0&amp;trip3=&amp;trip4=&amp;tripCount=2&amp;sessionId=5174E65EA6A2C97CE2D0E9B27FA4EDBA.ajp13_dev_appsrvB&amp;sessionKey=1360761947961&amp;companyId=3&amp;accessId=27&amp;currency_Notation=SEK&amp;adtBaseFare=3155&amp;adtTaxFare=3216&amp;adtTotalFare=6371&amp;infBaseFare=325&amp;infTaxFare=352&amp;infTotalFare=677" currency="SEK" tax="6784" total="13419">
+        <out>
+            <leg flightNumber="1118" duration="2:00" arrivalTime="21:55" arrivalDate="13APR" carrierCode="KL" stop="0" operatedBy="" departureTime="19:55" departureDate="13APR" destinationCityCode="AMS" departureCityCode="ARN"/>
+            <leg flightNumber="0035" duration="8:35" arrivalTime="15:40" arrivalDate="14APR" carrierCode="DL" stop="0" operatedBy="" departureTime="13:05" departureDate="14APR" destinationCityCode="EWR" departureCityCode="AMS"/>
+        </out>
+        <in>
+            <leg flightNumber="8601" duration="7:25" arrivalTime="05:50" arrivalDate="15JUN" carrierCode="DL" stop="0" operatedBy="AIR FRANCE" departureTime="16:25" departureDate="15JUN" destinationCityCode="CDG" departureCityCode="JFK"/>
+            <leg flightNumber="1262" duration="2:30" arrivalTime="12:15" arrivalDate="16JUN" carrierCode="AF" stop="0" operatedBy="" departureTime="09:45" departureDate="16JUN" destinationCityCode="ARN" departureCityCode="CDG"/>
+        </in>
+    </price>
+</response>
+
+

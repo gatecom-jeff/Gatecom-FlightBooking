@@ -1,0 +1,703 @@
+
+
+/* CSS Document */
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, 
+del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, 
+fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, input, textarea
+{margin:0;padding:0;border:0;outline:0;outline:none; list-style:none; background:none;}
+b {font-weight:bold;}
+i {font-style:italic;}
+ol, ul {list-style:none;}
+blockquote, q {quotes:none;}
+table {border-spacing:0;}
+a, span {vertical-align:baseline;}
+img {vertical-align:top;text-decoration:none;}
+h1,h2,h3,h4,h5,h6{margin:0px; padding:0px;}
+body{ margin:0px; padding:0px;}
+.float_l{float:left;}
+.float_r{float:right;}
+.clear{clear:both;}
+#holder{width:990px; margin:auto;}
+/*now start header*/
+.header{ background: url(../images/header_bg.jpg) repeat-x bottom; height:80px;}
+.main_div{width:972px; margin:auto; }
+.logo{float:left;  width:196px; height:59px; margin:20px 0px 0px 0px; /*text-indent:-1000; z-index:-1000;*/}
+.right_div_header{float:right; width:302px; text-align:right; margin:8px 0px 0px 0px}
+.right_div_header p{ font:bold 11px/11px  Arial, Helvetica, sans-serif; color:#4f69a2; margin:6px 0px 7px 0px; padding:0px;}
+.body_bg_blue2{ background:#002b68 url(../images/background1.png) bottom fixed no-repeat;}
+.body_bg_blue{ background:#002b68 url(../images/background1.png) bottom fixed no-repeat;}
+.body_bg_blue3{ background:#002b68 url(../images/background1.png) bottom fixed no-repeat;}
+.postion_r{position:relative;}
+#nav{width:800px; height:54px; float:left; margin-top:12px; }
+#nav ul{ margin:0px; padding:0px;}
+#nav ul li{ font:bold 12px/42px Arial, Helvetica, sans-serif; color:#fff; list-style-type:none; float:left;  text-transform:uppercase; }
+#nav ul li a{ font:bold 12px/42px Arial, Helvetica, sans-serif; color:#fff; list-style-type:none; float:left; padding:0px 0px 0px 13px; text-transform:uppercase; text-decoration:none;}
+#nav ul li a span{ font:bold 12px/42px Arial, Helvetica, sans-serif; color:#fff; text-transform:uppercase; display:block; padding:0px 13px 0px 0px;}
+#nav ul li a:hover{ font:bold 12px/42px Arial, Helvetica, sans-serif; color:#000; list-style-type:none; float:left; padding:0px 0px 0px 13px; text-transform:uppercase; background:url(../images/left_nav.jpg) no-repeat left;}
+#nav ul li a:hover span{ font:bold 12px/42px Arial, Helvetica, sans-serif; color:#000; background:url(../images/right_nav.jpg) no-repeat right; text-transform:uppercase; display:block; padding:0px 13px 0px 0px;}
+#nav ul li a.active{ font:bold 12px/42px Arial, Helvetica, sans-serif; color:#000; list-style-type:none; float:left; padding:0px 0px 0px 13px; text-transform:uppercase; background:url(../images/left_nav.jpg) no-repeat left;}
+#nav ul li a.active span{ font:bold 12px/42px  Arial, Helvetica, sans-serif; color:#000; background:url(../images/right_nav.jpg) no-repeat right; text-transform:uppercase; display:block; padding:0px 13px 0px 0px;}
+.link_right_div{width:139px; float:right; }
+.link_right_div .link{font:bold 12px/18px verdana, Arial, Helvetica, sans-serif; color:#fff; margin-top:5px; }
+.link_right_div .link a{font:bold 12px/18px verdana, Arial, Helvetica, sans-serif; color:#fff; display:block; text-align:right; text-decoration:none; }
+.sccial_icon{position:absolute; z-index:9999; float:right; text-align:right; width:130px; right:0px; top: 43px;}
+.sccial_icon img{ margin-left:2px;}
+.white_bg_main{ background: url(../images/transprant_white_bg.png) repeat; padding-bottom:8px;  clear:both;  /* For IE8 and earlier */ }
+.white_bg_main .form_div{ width:660px; float:left; margin:10px 0px 0px 25px;}
+
+.fight_div1{width:295px; float:left; margin:0px 30px 0px 0px;}
+.fight_div1 h5{ font:bold 14px/25px verdana, Arial, Helvetica, sans-serif; color:#fff; margin:0px; padding:0px 0px 0px 2px;}
+.fight_div1 .input{ background:url(../images/input_flight1.png) no-repeat; width:290px; height:34px;}
+.fight_div1 .input input{ background:none; border:0px; font:bold 12px/32px verdana, Arial, Helvetica, sans-serif; color:#3b5a9a; width:276px; height:32px; padding:0px 10px 0px 8px;}
+.fight_div1 h4{ font:bold 14px/25px verdana, Arial, Helvetica, sans-serif; color:#a8b8ce; margin:0px; padding:2px 0px 0px 2px;}
+.fight_div1 .input1{ background:url(../images/input_flight1_decible.png) no-repeat; width:290px; height:34px; margin-bottom:8px;}
+.fight_div1 .input1 input[disabled]{ background:none; border:0px; font:bold 12px/34px verdana, Arial, Helvetica, sans-serif; color:#3b5a9a; width:276px; height:32px; padding:0px 10px 0px 8px;}
+.search_div_flight1{width:270px; float:left; margin-top:15px;}
+.select_div{width:100px; float:left; margin-right:15px;}
+.select_div h5{ font:bold 14px/25px verdana, Arial, Helvetica, sans-serif; color:#fff; margin:0px; padding:0px 0px 0px 2px;}
+.corner_reletive{ clear:both;  position:relative; }
+.corner_reletive .absulet_div{
+	position:absolute;
+	left: -23px;
+	top:40px;
+	width: 1042px;
+	height: 100px;
+}
+
+.corner_reletive_inner{ clear:both;  position:relative; }
+.corner_reletive_inner .absulet_div{
+	position:absolute;
+	left: -17px;
+	top:20px;
+	width: 1042px;
+	height: 80px;
+}
+.corner_reletive .bg_blue{background:url(../images/corner_l_bg.png) repeat-x; width:971px; height:60px; float:left;}
+.corner_reletive .bg_blue .text_div{ font:bold 14px/45px verdana, Arial, Helvetica, sans-serif; color:#fff; margin:0px 40px 0px 30px; float:left;}
+.corner_reletive .bg_blue .input_div{ font:bold 16px/14px verdana, Arial, Helvetica, sans-serif; color:#fff; margin:8px 40px 0px 0px; float:left; background:url(../images/input_s.png) no-repeat; width:212px; height:28px;}
+.corner_reletive .bg_blue .input_div input{ background:none; border:0px; font:bold 16px/22px verdana, Arial, Helvetica, sans-serif; color:#435f9b; width:190px; margin:5px 10px 0px 10px; }
+
+
+.corner_reletive_inner .bg_blue_inner{background:url(../images/corner_inner_bg.png) repeat-x; width:951px; height:79px; float:left;}
+.corner_reletive_inner .bg_blue .flighr_div{ font:bold 14px/45px verdana, Arial, Helvetica, sans-serif; color:#fff; margin:7px 0px 0px 0px; float:left; /*background:url(../images/flight_get.png) no-repeat 90px;*/ width:180px; border:0px;}
+
+.corner_reletive_inner .bg_blue_inner .text_div{ font:bold 20px/50px verdana, Arial, Helvetica, sans-serif; color:#fff; margin:0px 40px 0px 10px; float:left;}
+.corner_reletive_inner .bg_blue_inner .flighr_div{ font:bold 14px/17px verdana, Arial, Helvetica, sans-serif; color:#fff; margin:0x 0px 0px 0px; float:right; /*background:url(../images/flight_get.png) no-repeat 90px;*/ width:190px; border:0px;}
+.corner_reletive_inner .bg_blue_inner .multi_div{ font:bold 14px/17px verdana, Arial, Helvetica, sans-serif; color:#fff; margin:0x 0px 0px 0px; float:right; /*background:url(../images/flight_get.png) no-repeat 90px;*/ width:270px; border:0px;}
+.blue_div{background:#3c5a99; height:122px; margin-left:0px; padding-left:50px; margin-bottom:0px;}
+.blue_div .div {float:left; width:170px; margin:0px 20px 0px 20px;}
+.blue_div .div h3 { font:bold 14px/20px verdana, Arial, Helvetica, sans-serif; color:#fff; margin:7px 0px 8px 0px;  }
+.blue_div .div h6 { font:bold 14px/20px verdana, Arial, Helvetica, sans-serif; color:#fff; margin:7px 0px 2px 0px;  }
+.txt_list{float:left; width:50px}
+.height{clear:both; margin-top:100px;}
+.table_div{clear:both; margin-left:0px; padding-top:20px}
+.white_div{background:#fff; width:98px; height:67px; float:left; text-align:center; padding-top:20px;}
+.table_div_main{ width:872px; float:left;}
+.table_div_main .blue_light{ width:872px; float:left; background:#bad5e8; height:87px;}
+.table_div_main .ist_div{ width:290px; float:left; padding-left:10px; }
+.table_div_main .ist_div h3{ font:bold 20px/27px verdana, Arial, Helvetica, sans-serif;; color:#4d6aa4; margin-top:7px  }
+.table_div_main .ist_div p{font:bold 14px/22px verdana, Arial, Helvetica, sans-serif; color:#3c5a99;}
+.table_div_main .second_div{ width:180px; float:left; }
+.table_div_main .second_div h3{ font:bold 20px/27px verdana, Arial, Helvetica, sans-serif;; color:#4d6aa4; margin-top:7px; text-align:center; }
+.table_div_main .second_div p{font:12px/16px verdana, Arial, Helvetica, sans-serif; color:#3c5a99; text-align:center;}
+.rs_div{width:150px; float:right; margin-top:26px; text-align:right}
+.rs_div_feight{width:150px; float:right; margin-top:0px; text-align:right}
+.rs_div_feight h2{font:bold 25px/25px verdana, Arial, Helvetica, sans-serif; color:#ba1e54; text-align:center}
+.rs_div_feight p{font:bold 13px/20px verdana, Arial, Helvetica, sans-serif; color:#000; padding-top:6px;}
+.rs_div_feight p span{font:13px/20px verdana, Arial, Helvetica, sans-serif; color:#000; padding-left:5px;}
+.table_div_main .third_div{ width:360px; float:left; padding-left:10px; }
+.rs_div h2{font:bold 20px/20px verdana, Arial, Helvetica, sans-serif; color:#ba1e54; text-align:center}
+.rs_div p{font:bold 13px/20px verdana, Arial, Helvetica, sans-serif; color:#000; padding-top:6px;}
+.rs_div p span{font:13px/20px verdana, Arial, Helvetica, sans-serif; color:#000; padding-left:5px;}
+.dark_white_div{ background:#f1f7fa; height:108px; clear:both;  width:872px; border-bottom:5px solid #3c5a99; }
+.air_div{float:left; margin-top:10px; width:670px;}
+.air_div .row{width:650px; float:left; margin:10px 0px 0px 10px}
+.air_div .row .img{float:left; width:30px; margin:0px 10px 0px 0px;}
+.air_div .row .heading{float:left; width:110px; margin:0px 10px 0px 0px; font:bold 14px/22px Verdana, Arial, Helvetica, sans-serif; color:#b91e53}
+.air_div .row .date{float:left; width:90px; margin:0px 10px 0px 0px; font:14px/22px Verdana, Arial, Helvetica, sans-serif; color:#474747}
+.air_div .row .time{float:left; width:60px; margin:0px 10px 0px 0px; font:14px/22px Verdana, Arial, Helvetica, sans-serif; color:#474747}
+.air_div .row .hour{float:left; width:70px; margin:0px 10px 0px 0px; font:14px/22px Verdana, Arial, Helvetica, sans-serif; color:#474747}
+.air_div .row .blkheading{float:left; width:120px; margin:0px 10px 0px 10px; font:bold 14px/22px Verdana, Arial, Helvetica, sans-serif; color:#000}
+.air_div .row .pinkheading{float:left; width:110px; margin:0px 10px 0px 0px; font:bold 14px/22px Verdana, Arial, Helvetica, sans-serif; color:#711233}
+
+
+.air_div .row .time_set{float:left; width:60px; margin:0px 10px 0px 0px;  font:14px/22px Verdana, Arial, Helvetica, sans-serif; color:#474747}
+
+.close_div{width:70px; float:right; margin:20px 10px 0px 0px; text-align:right;}
+
+.arror_reletiveb{position:relative; clear:both}
+.arror_absolutue{position:absolute; right: 46px; bottom:-22px;}
+
+.blue_white_div{ background:#bad5e8;  padding:0px 0px 00px 0px; clear:both;  width:872px; overflow:hidden  }
+.air_div1{float:left; margin-top:10px; width:864px;}
+.air_div1 .row{width:850px; /*float:left; */margin:10px 0px 10px 10px}
+.air_div1 .img{float: left;margin: 3px 10px 0px 20px; width: 15px;}
+.air_div1 .img-nlank{float: left;margin: 3px 0px 0px 20px; width: 15px;}
+.air_div1 .img-row{float: left;margin: 3px 0px 0px 21px; width: 15px;}
+.air_div1 .row h5{ font:14px/22px Verdana, Arial, Helvetica, sans-serif; color:#000; padding-left:35px;}
+.air_div1 .row .dateheading{float:left; width:56px; margin:0px 13px 0px 0px; font:bold 12px/18px Verdana, Arial, Helvetica, sans-serif; color:#3c5a99}
+.air_div1 .row .date_blue{float:left; width:60px; margin:0px 10px 0px 0px; font:bold 12px/18px Verdana, Arial, Helvetica, sans-serif; color:#3c5a99}
+.air_div1 .row .fromtimeblue{float:left; width:189px; margin:0px 10px 0px 0px; font:bold 12px/18px Verdana, Arial, Helvetica, sans-serif; color:#3c5a99}
+.air_div1 .row .arrivalblue{float:left; width:60px; margin:0px 10px 0px 10px;  font:bold 12px/18px Verdana, Arial, Helvetica, sans-serif; color:#3c5a99}
+.air_div1 .row .toblue{float:left; width:110px; margin:0px 10px 0px 0px;  font:bold 12px/18px Verdana, Arial, Helvetica, sans-serif; color:#3c5a99}
+.air_div1 .row .flightblue{float:left; width:60px; margin:0px 10px 0px 0px;  font:bold 12px/18px Verdana, Arial, Helvetica, sans-serif; color:#3c5a99}
+.air_div1 .row .durationblue{float:left; width:69px; margin:0px 10px 0px 0px;  font:bold 12px/18px Verdana, Arial, Helvetica, sans-serif; color:#3c5a99}
+.air_div1 .row .opertedblue{float:left; width:86px; margin:0px 10px 0px 0px;  font:bold 12px/18px Verdana, Arial, Helvetica, sans-serif; color:#3c5a99}
+
+.air_div1 .row .datetext-heading{float:left; width:56px; margin:0px 13px 0px 0px; font:14px/25px Verdana, Arial, Helvetica, sans-serif; color:#474747}
+.air_div1 .row .datetext{float:left; width:60px; margin:0px 10px 0px 0px; font:14px/25px Verdana, Arial, Helvetica, sans-serif; color:#474747}
+.air_div1 .row .fromtimetext{float:left; width:189px; margin:0px 20px 0px 0px; font:14px/25px Verdana, Arial, Helvetica, sans-serif; color:#474747}
+.air_div1 .row .fromtimetext span{ text-align:right; float:right; font:14px/25px Verdana, Arial, Helvetica, sans-serif; color:#474747}
+.air_div1 .row .arrivaltext{float:left; width:60px; margin:0px 10px 0px 0px;  font:14px/25px Verdana, Arial, Helvetica, sans-serif; color:#474747}
+.air_div1 .row .totext{float:left; width:110px; margin:0px 10px 0px 0px;  font:14px/25px Verdana, Arial, Helvetica, sans-serif; color:#474747}
+.air_div1 .row .flighttext{float:left; width:60px; margin:0px 10px 0px 0px;  font:14px/25px Verdana, Arial, Helvetica, sans-serif; color:#474747}
+.air_div1 .row .durationtext{float:left; width:69px; margin:0px 10px 0px 0px;  font:14px/25px Verdana, Arial, Helvetica, sans-serif; color:#474747}
+.air_div1 .row .opertedtext{float:left; width:86px; margin:0px 10px 0px 0px;  font:14px/25px Verdana, Arial, Helvetica, sans-serif; color:#474747}
+.red_txt{font:bold 14px/22px Verdana, Arial, Helvetica, sans-serif; color:#b91e53}
+
+
+
+.air_div3{float:left; margin-top:10px; width:864px;}
+.air_div3.row{width:800px; float:left; margin:10px 0px 10px 10px}
+.air_div3 .img{float: left;margin: 7px 0px 0px 20px;width: 30px;}
+.air_div3 .row h5{ font:14px/22px Verdana, Arial, Helvetica, sans-serif; color:#000; padding-left:35px;}
+.air_div3 .row .dateheading{float:left; width:56px; margin:0px 13px 0px 0px; font:bold 12px/18px Verdana, Arial, Helvetica, sans-serif; color:#3c5a99}
+.air_div3 .row .date_blue{float:left; width:60px; margin:0px 10px 0px 0px; font:bold 12px/18px Verdana, Arial, Helvetica, sans-serif; color:#3c5a99}
+.air_div3 .row .fromtimeblue{float:left; width:189px; margin:0px 10px 0px 0px; font:bold 12px/18px Verdana, Arial, Helvetica, sans-serif; color:#3c5a99}
+.air_div3 .row .arrivalblue{float:left; width:60px; margin:0px 10px 0px 10px;  font:bold 12px/18px Verdana, Arial, Helvetica, sans-serif; color:#3c5a99}
+.air_div3 .row .toblue{float:left; width:130px; margin:0px 10px 0px 0px;  font:bold 12px/18px Verdana, Arial, Helvetica, sans-serif; color:#3c5a99}
+.air_div3 .row .flightblue{float:left; width:60px; margin:0px 10px 0px 0px;  font:bold 12px/18px Verdana, Arial, Helvetica, sans-serif; color:#3c5a99}
+.air_div3 .row .durationblue{float:left; width:69px; margin:0px 10px 0px 0px;  font:bold 12px/18px Verdana, Arial, Helvetica, sans-serif; color:#3c5a99}
+.air_div3 .row .opertedblue{float:left; width:86px; margin:0px 10px 0px 0px;  font:bold 12px/18px Verdana, Arial, Helvetica, sans-serif; color:#3c5a99}
+
+.air_div3 .row .datetext{float:left; width:56px; margin:0px 10px 0px 0px; font:14px/25px Verdana, Arial, Helvetica, sans-serif; color:#474747}
+.air_div3 .row .datetext{float:left; width:60px; margin:0px 10px 0px 0px; font:14px/25px Verdana, Arial, Helvetica, sans-serif; color:#474747}
+.air_div3 .row .fromtimetext{float:left; width:189px; margin:0px 20px 0px 0px; font:14px/25px Verdana, Arial, Helvetica, sans-serif; color:#474747}
+.air_div3 .row .fromtimetext span{ text-align:right; float:right; font:14px/25px Verdana, Arial, Helvetica, sans-serif; color:#474747}
+.air_div3 .row .arrivaltext{float:left; width:60px; margin:0px 10px 0px 0px;  font:14px/25px Verdana, Arial, Helvetica, sans-serif; color:#474747}
+.air_div3 .row .totext{float:left; width:130px; margin:0px 10px 0px 0px;  font:14px/25px Verdana, Arial, Helvetica, sans-serif; color:#474747}
+.air_div3 .row .flighttext{float:left; width:60px; margin:0px 10px 0px 0px;  font:14px/25px Verdana, Arial, Helvetica, sans-serif; color:#474747}
+.air_div3 .row .durationtext{float:left; width:69px; margin:0px 10px 0px 0px;  font:14px/25px Verdana, Arial, Helvetica, sans-serif; color:#474747}
+.air_div3 .row .opertedtext{float:left; width:86px; margin:0px 10px 0px 0px;  font:14px/25px Verdana, Arial, Helvetica, sans-serif; color:#474747}
+.red_txt{font:bold 14px/22px Verdana, Arial, Helvetica, sans-serif; color:#b91e53}
+
+
+.blue_dark_div{ background:#a9cee8; clear:both;   width:864px;  border-bottom:5px solid #3c5a99; }
+.blue_dark_div .row h5{ font:14px/30px Verdana, Arial, Helvetica, sans-serif; color:#000; padding-left:35px;}
+.blue_dark_div .row{width:800px; float:left; margin:10px 0px 10px 10px}
+.blue_dark_div .img{float: left;margin: 7px 0px 0px 20px;width: 30px;}
+.blue_dark_div .row .datetext{float:left; width:56px; margin:0px 10px 0px 0px; font:14px/22px Verdana, Arial, Helvetica, sans-serif; color:#474747}
+.blue_dark_div .row .datetext{float:left; width:60px; margin:0px 10px 0px 0px; font:14px/22px Verdana, Arial, Helvetica, sans-serif; color:#474747}
+.blue_dark_div .row .fromtimetext{float:left; width:189px; margin:0px 20px 0px 0px; font:14px/22px Verdana, Arial, Helvetica, sans-serif; color:#474747}
+.blue_dark_div .row .fromtimetext span{ text-align:right; float:right; font:14px/22px Verdana, Arial, Helvetica, sans-serif; color:#474747}
+.blue_dark_div .row .arrivaltext{float:left; width:60px; margin:0px 10px 0px 0px;  font:14px/22px Verdana, Arial, Helvetica, sans-serif; color:#474747}
+.blue_dark_div .row .totext{float:left; width:130px; margin:0px 10px 0px 0px;  font:14px/22px Verdana, Arial, Helvetica, sans-serif; color:#474747}
+.blue_dark_div .row .flighttext{float:left; width:60px; margin:0px 10px 0px 0px;  font:14px/22px Verdana, Arial, Helvetica, sans-serif; color:#474747}
+.blue_dark_div .row .durationtext{float:left; width:69px; margin:0px 10px 0px 0px;  font:14px/22px Verdana, Arial, Helvetica, sans-serif; color:#474747}
+.blue_dark_div .row .opertedtext{float:left; width:86px; margin:0px 10px 0px 0px;  font:14px/22px Verdana, Arial, Helvetica, sans-serif; color:#474747}
+.red_txt{font:bold 14px/22px Verdana, Arial, Helvetica, sans-serif; color:#b91e53}
+
+.footer_bg{background: url(../images/footer_bg.png) repeat; width:972px; height:220px; margin-top:15px; -moz-box-shadow: 0 0 20px #888;
+-webkit-box-shadow: 0 0 20px#888;
+box-shadow: 0 0 20px #888;}
+.footer_bg .curcle{background: url(../images/kiran.png) no-repeat right top; width:972px; height:220px;}
+.footer_bg .curcle .f_logo{float:left; margin:15px; text-align:center;}
+.footer_bg .curcle  .text{width:460px; float:left; font:12px/16px Verdana, Arial, Helvetica, sans-serif ; color:#fff; margin:15px;}
+.footer_bg .curcle  .border_t{ background:url(../images/footer_l.png) repeat-x top; clear:both; font:12px/50px Verdana, Arial, Helvetica, sans-serif;  color:#fff; text-align:center;}
+.footer_bg .curcle  .border_b{background:url(../images/footer_l.png) repeat-x bottom; }
+.footer_txt{float:right;  font:10px/50px Verdana, Arial, Helvetica, sans-serif;  color:#fff; text-align:right; padding-right:10px; }
+.travel_div{float:right; width:180px; font:bold 13px/18px verdana, Arial, Helvetica, sans-serif; color:#803957; text-align:right; margin:40px 8px 0px 0px}
+.height_30{height:30px;}
+.select_btn{float:right; margin:2px 30px 5px 0px;}
+.opt{padding-left:12px; font:bold 15px/20px Arial, Helvetica, sans-serif; color:#fff;}
+
+.left_inner_div_flrx{width:770px; float:left; margin-left:20px;}
+.left_inner_div_flrx h1{ font:bold 18px/20px Verdana, Arial, Helvetica, sans-serif; color:#fff; padding:0px 10px 0px 7px}
+.left_inner_div h1{ font:bold 18px/20px Verdana, Arial, Helvetica, sans-serif; color:#fff; padding:0px 10px 0px 7px}
+.table_div_sell{clear:both; margin:10px 0px 10px 10px;}
+.table_div_sell .toper{padding-left:93px; height:84px;}
+.table_div_sell .toper ul{ margin:0px; padding:0px;}
+.table_div_sell .toper ul li{ background:url(../images/light_pink.png) no-repeat; height:63px; width:91px; margin:1px; padding:20px  0px 0px 0px; font:bold 18px/20px Verdana, Arial, Helvetica, sans-serif; color:#fff; list-style-type:none; float:left; text-align:center}
+
+
+.left_inner_div{width:690px; float:left; margin-left:20px;}
+
+.table_div_sell .dark_pink{width:91px; float:left;}
+.table_div_sell .dark_pink ul{ margin:0px; padding:0px;}
+.table_div_sell .dark_pink ul li{ background:url(../images/dark_pink.png) no-repeat; height:64px; width:91px; margin:0px 0px 1px 0px; padding:20px 0px 0px 0px; font:bold 18px/20px Verdana, Arial, Helvetica, sans-serif; color:#fff; list-style-type:none; text-align:center}
+.table_div_sell .dark_pink_content{width:660px; float:left; padding-left:3px;}
+.table_div_sell .dark_pink_content ul{ margin:0px; padding:0px;}
+.table_div_sell .dark_pink_content ul li{ background:url(../images/light_sky.png) no-repeat; height:74px; width:86px; margin:1px 1px 0px 0px; padding:10px 3px 0px 3px; font:bold 17px/17px Verdana, Arial, Helvetica, sans-serif; color:#b91e53; list-style-type:none; text-align:center; float:left; cursor:pointer;}
+.table_div_sell .dark_pink_content ul li:hover{ background:url(../images/light_green.png) no-repeat; height:74px; width:86px; margin:1px 1px 0px 0px; padding:10px 3px 0px 3px; font:bold 17px/17px Verdana, Arial, Helvetica, sans-serif; color:#b91e53; list-style-type:none; text-align:center; float:left;}
+.table_div_sell .dark_pink_content ul li.active{ background:url(../images/light_white.png) no-repeat; height:74px; width:86px; margin:1px 1px 0px 0px; padding:10px 3px 0px 3px; font:bold 17px/17px Verdana, Arial, Helvetica, sans-serif; color:#b91e53; list-style-type:none; text-align:center; float:left;}
+.right_div_inner{width:160px; float:left; }
+
+.blue_bg1{width:295px; float:left; margin:0px 10px 0px 0px;}
+.blue_bg1 h5{ font:bold 14px/25px verdana, Arial, Helvetica, sans-serif; color:#fff; margin:0px; padding:0px 0px 0px 2px;}
+.blue_bg1 .input{ background:url(../images/input_flight1.png) no-repeat; width:290px; height:34px;}
+.blue_bg1 .input input{ background:none; border:0px; font:bold 12px/34px verdana, Arial, Helvetica, sans-serif; color:#3b5a9a; width:276px; height:32px; padding:0px 10px 0px 8px;}
+.blue_bg1 h4{ font:bold 14px/25px verdana, Arial, Helvetica, sans-serif; color:#a8b8ce; margin:0px; padding:2px 0px 0px 2px;}
+.blue_bg1 .input1{ background:url(../images/input_flight1_decible.png) no-repeat; width:290px; height:34px; margin-bottom:8px;}
+.blue_bg1 .input1 input[disabled]{ background:none; border:0px; font:bold 12px/34px verdana, Arial, Helvetica, sans-serif; color:#3b5a9a; width:276px; height:32px; padding:0px 10px 0px 8px;}
+
+.blue_box{position:relative; width:636px; padding-bottom:8px }
+.blue_box .blue_heading{
+	position:absolute;
+	background:url(../images/grident_l.png) repeat-x;
+	width:113px;
+	height:52px;
+	z-index:9999;
+	font:bold 18px Verdana, Arial, Helvetica, sans-serif;
+	color:#fff;
+	padding-left:20px;
+	padding-top:5px;
+	left: -11px;
+	top: -35px;
+}
+.blue_box .blue_t{margin-top:30px; height:12px}
+.blue_box .blue_bg{background:url(../images/blue_bg_box.png) repeat-y; width:596px; padding:0px 10px 0px 30px;}
+.add_main_trip{padding-top:20px;}
+.add_main_trip .add_trip{background:url(../images/add_trip.png) no-repeat 0px 7px; font:bold 14px/38px Verdana, Arial, Helvetica, sans-serif; color:#fff; padding:0px 10px 0px 36px; float:left; cursor:pointer;}
+.add_main_trip .delet_trip{ background:url(../images/delet_trip.png) no-repeat 0px 7px; font:bold 14px/38px Verdana, Arial, Helvetica, sans-serif; color:#fff; padding:0px 10px 0px 36px; float:left; cursor:pointer;}
+
+.left_inner_div_full{width:930px; float:left; margin-left:20px;}
+.left_inner_div_full p{ font:14px/21px Verdana, Arial, Helvetica, sans-serif; color:#000;}
+.left_inner_div_full h1{ font:bold 14px/21px Verdana, Arial, Helvetica, sans-serif; color:#b91f55;}
+.left_inner_div_full h2{ font:bold 14px/21px Verdana, Arial, Helvetica, sans-serif; color:#b91f55; padding-top:40px;}
+.white_inner_bg{background:#f2f7fb; margin:0px 20px 0px 20px; padding:30px 0px 15px 0px;}
+.blue_inner_bg_abt{background:#bad5e8; margin:0px 20px 0px 20px; padding:30px 0px 15px 0px; }
+.blue_inner_bg_abt .left_div{width:240px; float:left; padding:10px 10px 10px 20px;}
+.blue_inner_bg_abt .left_div p{ font: 12px/21px Verdana, Arial, Helvetica, sans-serif;  color:#3c5a99; padding:10px 10px 10px 0px}
+.celender_bg_title{background:url(../images/calender1_heading_bg.png) no-repeat; width:284px; height:36px; font: bold 16px/36px Arial, Helvetica, sans-serif; color: #fff; text-align:center;}
+.height_4{margin:70px 0px 0px 0px}
+.go_get{margin-top:7px;}
+.close_divh{margin:5px;}
+
+.main_div_thanx{width:932px; margin:0px 20px 0px 20px; clear:both; padding-top:30px;}
+.thanx_bg_top{ background:url(../images/blue_bg_cor.png) no-repeat; height:7px; width:925px; float:left;}
+.main_bg_blue{background:#bad5e8; padding:0px 20px 20px 20px;}
+.main_bg_blue h1{ font:bold 30px/30px Verdana, Arial, Helvetica, sans-serif; color:#3c5a99}
+.main_bg_blue1{background:#bad5e8; padding:0px 20px 5px 20px;}
+.main_bg_blue1 h1{ font:bold 24px/24px Verdana, Arial, Helvetica, sans-serif; color:#3c5a99; margin:0px;}
+
+.main_thanx_white{ background:#fff; padding:10px 20px 0px 20px;}
+.main_thanx_white h2{font: bold 14px/21px Verdana, Arial, Helvetica, sans-serif;color: #b91f55; padding:0px 0px 20px 14px; }
+.main_thanx_white p{font:14px/21px Verdana, Arial, Helvetica, sans-serif;color: #000; padding:0px 0px 0px 14px; }
+.main_thanx_white p span{font:bold 14px/21px Verdana, Arial, Helvetica, sans-serif; color:#3b5a9a; }
+.thanx_bg_gray{background:url(../images/gray_bg_thanx.jpg) repeat-x; height:73px; padding:0px 0px 0px 0px; font:20px/20px Verdana, Arial, Helvetica, sans-serif;color: #000; float:left; width:265px; padding-bottom:30px; }
+.thanx_bg_gray p{font:20px/25px Verdana, Arial, Helvetica, sans-serif;color: #000; padding:12px 10px 0px 10px; }
+.thanx_bg_gray p span{color: #b91f55; font:20px/25px Verdana, Arial, Helvetica, sans-serif; }
+.thanx_white_top{ background:url(../images/white_bg_co_thanxr.png) no-repeat; height:7px; width:925px; float:left;}
+.white_t_div{ padding:9px 0px 0px 0px;}
+.white_t_div .t_thanx_white_top{ background:url(../images/tl_white_bg_co_thanxr.png) no-repeat; height:7px; width:925px; float:left;}
+
+.white_t_div1{ padding:9px 0px 0px 0px; background:#bad5e8}
+.white_t_div1 .t_thanx_white_top{ background:url(../images/tl_white_bg_co_thanxr.png) no-repeat; height:7px; width:925px; float:left;}
+
+.white_bgthanx{ background:#fff; padding:10px; }
+
+.white_bgthanx .row{width:935px; float:left; margin:2px 0px 0px 10px}
+.white_bgthanx .row .img{float:left; width:10px; margin:0px 5px 0px 0px; padding:3px 0px 0px 10px}
+.white_bgthanx .row .img1{float:left; width:80px; margin:0px 5px 0px 0px; padding:3px 0px 0px 10px}
+.white_bgthanx .row h5{ font:14px/22px Verdana, Arial, Helvetica, sans-serif; color:#000; padding-left:35px;}
+.white_bgthanx .row .dateheading{float:left; width:56px; margin:0px 13px 0px 0px; font:bold 14px/18px Verdana, Arial, Helvetica, sans-serif; color:#3c5a99}
+.white_bgthanx .row .date_blue{float:left; width:60px; margin:0px 10px 0px 0px; font:bold 14px/18px Verdana, Arial, Helvetica, sans-serif; color:#3c5a99}
+.white_bgthanx .row .fromtimeblue{float:left; width:190px; margin:0px 10px 0px 0px; font:bold 14px/18px Verdana, Arial, Helvetica, sans-serif; color:#3c5a99}
+.white_bgthanx .row .arrivalblue{float:left; width:60px; margin:0px 10px 0px 10px;  font:bold 14px/18px Verdana, Arial, Helvetica, sans-serif; color:#3c5a99}
+.white_bgthanx .row .toblue{float:left; width:160px; margin:0px 10px 0px 0px;  font:bold 14px/18px Verdana, Arial, Helvetica, sans-serif; color:#3c5a99}
+.white_bgthanx .row .flightblue{float:left; width:80px; margin:0px 10px 0px 0px;  font:bold 14px/18px Verdana, Arial, Helvetica, sans-serif; color:#3c5a99}
+.white_bgthanx .row .durationblue{float:left; width:69px; margin:0px 10px 0px 0px;  font:bold 14px/18px Verdana, Arial, Helvetica, sans-serif; color:#3c5a99}
+.white_bgthanx .row .opertedblue{float:left; width:86px; margin:0px 10px 0px 0px;  font:bold 14px/18px Verdana, Arial, Helvetica, sans-serif; color:#3c5a99}
+
+.white_bgthanx .row .datetext{float:left; width:56px; margin:0px 10px 0px 0px; font:14px/18px Verdana, Arial, Helvetica, sans-serif; color:#474747}
+.white_bgthanx .row .datetext{float:left; width:60px; margin:0px 10px 0px 0px; font:14px/18px Verdana, Arial, Helvetica, sans-serif; color:#474747}
+.white_bgthanx .row .fromtimetext{float:left; width:190px; margin:0px 20px 0px 0px; font:14px/18px Verdana, Arial, Helvetica, sans-serif; color:#474747}
+.white_bgthanx .row .fromtimetext span{ text-align:right; float:right; font:14px/18px Verdana, Arial, Helvetica, sans-serif; color:#474747}
+.white_bgthanx .row .arrivaltext{float:left; width:60px; margin:0px 10px 0px 0px;  font:14px/18px Verdana, Arial, Helvetica, sans-serif; color:#474747}
+.white_bgthanx .row .totext{float:left; width:160px; margin:0px 10px 0px 0px;  font:14px/18px Verdana, Arial, Helvetica, sans-serif; color:#474747}
+.white_bgthanx .row .flighttext{float:left; width:80px; margin:0px 10px 0px 0px;  font:14px/18px Verdana, Arial, Helvetica, sans-serif; color:#474747}
+.white_bgthanx .row .durationtext{float:left; width:69px; margin:0px 10px 0px 0px;  font:14px/18px Verdana, Arial, Helvetica, sans-serif; color:#474747}
+.white_bgthanx .row .opertedtext{float:left; width:86px; margin:0px 10px 0px 0px;  font:14px/18px Verdana, Arial, Helvetica, sans-serif; color:#474747}
+.white_bgthanx .row1 .img1{float:left; width:80px; margin:0px 5px 0px 0px; padding:3px 0px 0px 10px}
+.white_bgthanx .row1{width:935px; float:left; margin:0px 0px 0px 10px}
+.white_bgthanx .row1 .fromtimeblue_b{float:left; width:160px; margin:0px 10px 0px 0px; font:bold 14px/18px Verdana, Arial, Helvetica, sans-serif; color:#3c5a99}
+.white_bgthanx .row1 .arrivalblue_b{float:left; width:70px; margin:0px 10px 0px 10px;  font:bold 14px/18px Verdana, Arial, Helvetica, sans-serif; color:#585859}
+.white_bgthanx .row1 .toblue_b{float:left; width:70px; margin:0px 10px 0px 0px;  font:bold 14px/18px Verdana, Arial, Helvetica, sans-serif; color:#585859}
+.white_bgthanx .row1 .flightblue_b{float:left; width:50px; margin:0px 10px 0px 0px;  font:bold 14px/18px Verdana, Arial, Helvetica, sans-serif; color:#585859}
+.white_bgthanx .row1 .durationblue_b{float:left; width:69px; margin:0px 10px 0px 0px;  font:bold 14px/18px Verdana, Arial, Helvetica, sans-serif; color:#585859}
+
+.light_thanx_bg{background:#f1f7fa; font:bold 14px/42px Verdana, Arial, Helvetica, sans-serif; color:#ba1e54;}
+.light_thanx_bg1{background:#f1f7fa; font:bold 14px/42px Verdana, Arial, Helvetica, sans-serif; color:#711233;}
+.light_thanx_bg img{ margin:13px 10px 0px 10px; float:left;}
+.light_thanx_bg1 img{ margin:13px 10px 0px 10px; float:left;}
+.redblue{float:left; width:130px; margin:0px 10px 0px 0px;  font:bold 12px/18px Verdana, Arial, Helvetica, sans-serif; color:#b91e53}
+.redblue{float:left; width:130px; margin:0px 10px 0px 0px;  font:bold 14px/18px Verdana, Arial, Helvetica, sans-serif; color:#b91e53}
+.red_txt_thanx{float:left; width:130px; margin:0px 10px 0px 0px;  font:bold 14px/18px Verdana, Arial, Helvetica, sans-serif; color:#b91e53; margin-left:107px;}
+.blue_main_bg{background:#f1f7fa; clear:both;}
+.blue_main_bg_feight{background:#f1f7fa; clear:both; margin-top:9px;}
+.blue_light_bg{width:500px; float:left; background:#bad5e8; }
+.blue_light_bg h3{ font:bold 12px/20px Verdana, Arial, Helvetica, sans-serif;  padding-bottom:0px; color:#ba1e54; margin:3px;}
+.number_tanx_box{width:2%; float:left; margin-right:20px; font:12px/20px Verdana, Arial, Helvetica, sans-serif; color:#000;}
+.dec_tanx_box{width:35%; margin-right:20px; font:12px/20px Verdana, Arial, Helvetica, sans-serif; color:#000; float:left;}
+.date_tanx_box{width:17%; margin-right:20px;  margin-right:20px; font:12px/20px Verdana, Arial, Helvetica, sans-serif; color:#000; float:left;}
+.buyer_tanx_box{width:20%;   font:12px/20px Verdana, Arial, Helvetica, sans-serif; color:#ba1e54; float:left;}
+.blue_dark_thanx{background:#3b5a9a; width:469px; padding:10px 0px 10px 30px; clear:both; margin-top:15px; font:bold 12px/20px Verdana, Arial, Helvetica, sans-serif; color:#fff;}
+.box_right_thanx{width:410px; float:left; margin-left:20px}
+.box_right_thanx .box{width:231px; float:left; margin-top:10px;}
+.box_right_thanx .box h5{ font:12px/22px Verdana, Arial, Helvetica, sans-serif; color:#b91e53;}
+.box_right_thanx .box .img{ height:15px;}
+.box_right_thanx .box .bg{ background:url(../images/bg_box_flight.png) repeat-y;}
+.box_right_thanx .box .bg ul{ margin:0px; padding:0px;}
+.box_right_thanx .box .bg ul li{ font:12px/18px Verdana, Arial, Helvetica, sans-serif; color:#3c5a99; list-style-type:none; display:block; padding:0px 8px 5px 10px; margin:0px; }
+.box_right_thanx .rs_div{width:160px; float:left; font:bold 20px/18px Verdana, Arial, Helvetica, sans-serif; color:#000; margin-top:100px}
+.box_right_thanx .rs_div span{ padding-left:3PX; font: bold 20px/18px Verdana, Arial, Helvetica, sans-serif; color:#ba1e54;}
+.box_right_thanx .rs_div p{font:bold 12px/13px Verdana, Arial, Helvetica, sans-serif; color:#767676;}
+
+.blue_light_bg_felight{width:100%; float:left; background:#bad5e8; }
+.feight_form{padding:10px 0px 20px 30px;}
+.feight_form h1{ font:bold 14px/27px Verdana, Arial, Helvetica, sans-serif; color:#2f4779; }
+
+.input_div_feight2 h3{font:bold 12px/18px Verdana, Arial, Helvetica, sans-serif; color:#000; padding-left:4px;}
+.input_div_feight2{width:204px; margin-right:0px; margin-bottom:3px; float:left;}
+.input_div_feight2 .input{ background: url(../images/input_flight2.png) no-repeat; width:204px; height:41px; margin-top:2px; }
+.input_div_feight2 .input input{ background:none; font:bold 12px/41px Verdana, Arial, Helvetica, sans-serif; color:#000; border:0px; width:190px; margin:2px 7px 0px 7px; height:33px;}
+.feight_form h4{ font:bold 20px/25px Verdana, Arial, Helvetica, sans-serif; color:#2f4779; margin:25px 0px 15px 3px;}
+.input_div_feight2 .input_blanck{ width:204px; height:41px; margin-top:2px; }
+.redio_div_feight2{width:300px; margin-top:19px; margin-bottom:3px; float:left;}
+
+
+.input_subchild_feight2 h3{font:bold 12px/18px Verdana, Arial, Helvetica, sans-serif; color:#000; padding-left:4px;}
+.input_subchild_feight2{width:245px; margin-right:0px; margin-bottom:3px; float:left;}
+.input_subchild_feight2 .input{ background: url(../images/input_subclild.png) no-repeat; width:240px; height:41px; margin-top:2px; }
+.input_subchild_feight2 .select{ width:240px; height:41px; margin-top:2px; }
+.input_subchild_feight2 .input input{ background:none; font:bold 12px/41px Verdana, Arial, Helvetica, sans-serif; color:#000; border:0px; width:220px; margin:0px 7px 0px 7px; }
+.feight_form h4{ font:bold 20px/25px Verdana, Arial, Helvetica, sans-serif; color:#2f4779; margin:25px 0px 15px 3px;}
+.input_subchild_feight2 .input_blanck{ width:204px; height:41px; margin-top:2px; }
+
+
+.cont{width:160px;  margin-top:10px; float:right; margin-right:10px;}
+.posr_r{position:relative}
+.form_feight2_r{width:210px; background:#f1f7fa;  padding:20px; position: absolute; right:0px; top: 1px; font:12px/18px Verdana, Arial, Helvetica, sans-serif; color:#000;}
+.karlra_img{ margin:13px 0px 0px 20px;}
+.ticket2_feight2{width:100px; float:left; font:bold 18px/22px Verdana, Arial, Helvetica, sans-serif; color:#3c5aa3;}
+.ticket_feight2_content{width:500px; float:left; font:bold 18px/22px Verdana, Arial, Helvetica, sans-serif; color:#000;}
+.width_8{width:800px; clear:both; margin:0px 10px 70px 100px; padding-bottom:40px;}
+
+
+
+
+.last_book_div{background:url(../images/bg_last_book.png) no-repeat bottom; width:479px; height:162px; float:left;}
+.last_book_div .img_div{width:233px; height:153px; float:left;}
+.last_book_div .text_div {width:227px; height:153px; float:right; margin-right:5px}
+.last_book_div .text_div h1 { font:16px/22px Verdana, Arial, Helvetica, sans-serif; color:#000; padding:5px 0px 5px 16px; margin:0px;}
+.last_book_div .text_div ul { margin:0px; padding:0px;}
+.last_book_div .text_div ul li{ background:#bad6f6; font:12px/18px Verdana, Arial, Helvetica, sans-serif; margin:2px 0px 1px 0px; padding:0px 0px 0px 16px;}
+
+.last_book_div .text_div ul li span{ float:right; padding:0px 16px 0px 0px;}
+
+
+.last_book_right{background:url(../images/bg_last_book.png) no-repeat bottom; width:475px; height:162px; float:right;}
+.last_book_right .img_div{width:233px; height:153px; float:left;}
+.last_book_right .text_div {width:227px; height:153px; float:right; margin-right:3px}
+.last_book_right .text_div h1 { font:16px/22px Verdana, Arial, Helvetica, sans-serif; color:#000; padding:5px 0px 5px 16px;margin:0px;}
+.last_book_right .text_div ul { margin:0px; padding:0px;}
+.last_book_right .text_div ul li{ background:#bad6f6; font:12px/18px Verdana, Arial, Helvetica, sans-serif; margin:2px 0px 1px 0px; padding:0px 0px 0px 16px;}
+
+.last_book_right .text_div ul li span{ float:right; padding:0px 16px 0px 0px;}
+.banner{clear:both; margin:10px 0px 10px 0px;}
+.content_start_div{background: url(../images/start_content_bg.png) no-repeat bottom; width:640px; height:155px; float:left; padding:8px 10px 0px 0px;}
+.content_start_div p{ font:12px/17px Verdana, Arial, Helvetica, sans-serif; color:#000; padding:5px 10px 5px 10px; font-style:italic}
+.google_bg{ background: url(../images/google-bg-start.png) no-repeat bottom; width:318px; height:165px; float:right}
+
+
+/*loading*/
+.loading_bg_main{ padding-bottom:8px;  clear:both;}
+.loading_bg_main .loading_bg{background: url(../images/loading_bg_w.png) repeat-x bottom; padding-bottom:9px;  margin:auto;}
+.loading_bg_main .loading_bg .lufthansa {background:url(../images/lufthansa.jpg) no-repeat; float:left; width:260px; height:478px;}
+.loading-div{width:400px; float:left; text-align:center;}
+.loading-div img{ margin:30px;}
+.loading-div p{font:bold 15px/20px Verdana, Arial, Helvetica, sans-serif; color:#bb1e4a; text-align:center; padding:20px; }
+.loading_bg_main .loading_bg .join_div {width:255px; float:right;}
+.loading_bg_main .loading_bg .join_div p.join { background:url(../images/join.jpg) no-repeat; width:255px; height:187px;}
+.loading_bg_main .loading_bg .join_div .loading-sky{ background:#bad6f6; height:68px; font:bold 20px/22px Verdana, Arial, Helvetica, sans-serif; color:#3c5b9b; padding-top:3px; font-style:italic }
+.loading_bg_main .loading_bg .join_div .loading-sky img{ margin:0px 5px 0px 5px;}
+.loading_bg_main .loading_bg .join_div .txt_div{background:#3c5b9b; clear:both; height:200px; padding:10px 10px 10px 20px;}
+.loading_bg_main .loading_bg .join_div .txt_div ul{ margin:0px; padding:0px;}
+.loading_bg_main .loading_bg .join_div .txt_div ul li{ margin:0px; padding:0px; font:bold 15px/36px Verdana, Arial, Helvetica, sans-serif; color:#fff; font-style:italic; }
+
+
+/*Colorbox*/
+/*
+    ColorBox Core Style:
+    The following CSS is consistent between example themes and should not be altered.
+*/
+#colorbox, #cboxOverlay, #cboxWrapper{position:absolute; top:0; left:0; z-index:9999; overflow:hidden;}
+#cboxOverlay{position:fixed; width:100%; height:100%;}
+#cboxMiddleLeft, #cboxBottomLeft{clear:left;}
+#cboxContent{position:relative;}
+#cboxLoadedContent{overflow:auto; -webkit-overflow-scrolling: touch;}
+#cboxTitle{margin:0;}
+#cboxLoadingOverlay, #cboxLoadingGraphic{position:absolute; top:0; left:0; width:100%; height:100%;}
+#cboxPrevious, #cboxNext, #cboxClose, #cboxSlideshow{cursor:pointer;}
+.cboxPhoto{float:left; margin:auto; border:0; display:block; max-width:none;}
+.cboxIframe{width:100%; height:100%; display:block; border:0;}
+#colorbox, #cboxContent, #cboxLoadedContent{box-sizing:content-box; -moz-box-sizing:content-box; -webkit-box-sizing:content-box;}
+
+/* 
+    User Style:
+    Change the following styles to modify the appearance of ColorBox.  They are
+    ordered & tabbed in a way that represents the nesting of the generated HTML.
+*/
+#cboxOverlay{background:#000;}
+#colorbox{}
+    #cboxTopLeft{width:14px; height:14px; background:url(../images/controls.png) no-repeat 0 0;}
+    #cboxTopCenter{height:14px; background:url(../images/border.png) repeat-x top left;}
+    #cboxTopRight{width:14px; height:14px; background:url(../images/controls.png) no-repeat -36px 0;}
+    #cboxBottomLeft{width:14px; height:43px; background:url(../images/controls.png) no-repeat 0 -32px;}
+    #cboxBottomCenter{height:43px; background:url(../images/border.png) repeat-x bottom left;}
+    #cboxBottomRight{width:14px; height:43px; background:url(../images/controls.png) no-repeat -36px -32px;}
+    #cboxMiddleLeft{width:14px; background:url(../images/controls.png) repeat-y -175px 0;}
+    #cboxMiddleRight{width:14px; background:url(../images/controls.png) repeat-y -211px 0;}
+    #cboxContent{background:#fff; overflow:visible;}
+        .cboxIframe{background:#fff;}
+        #cboxError{padding:50px; border:1px solid #ccc;}
+        #cboxLoadedContent{margin-bottom:5px;}
+        #cboxLoadingOverlay{background:url(../images/loading_background.png) no-repeat center center;}
+        #cboxLoadingGraphic{background:url(../images/loading.gif) no-repeat center center;}
+        #cboxTitle{position:absolute; bottom:-25px; left:0; text-align:center; width:100%; font-weight:bold; color:#7C7C7C;}
+        #cboxCurrent{position:absolute; bottom:-25px; left:58px; font-weight:bold; color:#7C7C7C;}
+
+        #cboxPrevious, #cboxNext, #cboxClose, #cboxSlideshow{position:absolute; bottom:-29px; background:url(../images/controls.png) no-repeat 0px 0px; width:23px; height:23px; text-indent:-9999px;}
+        #cboxPrevious{left:0px; background-position: -51px -25px;}
+        #cboxPrevious:hover{background-position:-51px 0px;}
+        #cboxNext{left:27px; background-position:-75px -25px;}
+        #cboxNext:hover{background-position:-75px 0px;}
+        #cboxClose{right:0; background-position:-100px -25px;}
+        #cboxClose:hover{background-position:-100px 0px;}
+			
+        .cboxSlideshow_on #cboxSlideshow{background-position:-125px 0px; right:27px;}
+        .cboxSlideshow_on #cboxSlideshow:hover{background-position:-150px 0px;}
+        .cboxSlideshow_off #cboxSlideshow{background-position:-150px -25px; right:27px;}
+        .cboxSlideshow_off #cboxSlideshow:hover{background-position:-125px 0px;}
+		
+		.line_bg{background:url(../images/line_bg.jpg) repeat-x bottom;  margin:20px 10px 5px 10px; font: bold 14px/22px Verdana, Arial, Helvetica, sans-serif; color: #2f4779; width:600px;}
+		.blue_line{background:#2f4779; height:10px; margin:20px 0px 10px 0px;}
+		.error{padding:20px; font:bold 12px/25px Arial, Helvetica, sans-serif; color:#333333}
+.uneditable-input{ background:url(../images/input_flight1.png) no-repeat; width:290px; height:34px; font:bold 12px/34px verdana, Arial, Helvetica, sans-serif; color:#3b5a9a;  padding:0px 10px 0px 8px; margin:10px 0px 10px 0px;}
+
+
+
+
+
+
+
+
+
+
+
+
+/**/
+div.selectbox-wrapper {
+	position:absolute;
+	width:52px;
+	background-color:#fff;
+	border:1px solid #ccc;
+	margin:0px;
+	margin-top:-10px;
+	padding:0px;
+	text-align:left;
+	overflow:auto;
+	margin-left:0px;
+}
+div.selectbox-wrapper ul {
+	list-style-type:none;
+	margin:0px 0px 0px 0px;
+	padding:0px;
+}
+div.selectbox-wrapper ul li.selected {
+	background-color:#eaf2fb
+}
+div.selectbox-wrapper ul li.current {
+	background-color:#cdd8e4
+}
+div.selectbox-wrapper ul li {
+	list-style-type:none;
+	display:block;
+	margin:0;
+	padding:2px;
+	cursor:pointer;
+}
+.selectbox {
+	margin:0px 5px 10px 0px;
+	padding-left:15px;
+	font:12/19px Arial, Helvetica, sans-serif;
+	width:38px;
+	display:block;
+	text-align:left;
+	background:url(../images/drop_select_box.png) right no-repeat;
+	cursor:pointer;
+	color:#333
+}
+
+/*feight3*/
+.feight_warningdiv{float:left; width:800px; margin-left:10px; font:12px/20px Verdana, Arial, Helvetica, sans-serif; color:#b91e53;}
+.feight_warningdiv .row2{width:790px; float:left; margin:20px 0px 0px 0px}
+.feight_warningdiv .row2 .fromtimeblue_b{float:left; width:120px; margin:0px 10px 0px 0px; font:12px/18px Verdana, Arial, Helvetica, sans-serif; color:#b91e53; }
+.feight_warningdiv .row2 .fromtimeblue_b1{float:left; width:250px; margin:0px 10px 0px 0px; font:12px/18px Verdana, Arial, Helvetica, sans-serif; color:#b91e53; }
+.input_div_feight2 .input_blanck3{ width:204px; height:20px; margin-top:2px; }
+.feight_form h5{ font:bold 20px/25px Verdana, Arial, Helvetica, sans-serif; color:#2f4779; margin:8px 0px 5px 3px;}
+.blue_dark_feight3{background:#2f4779 url(../images/blue_bg_feight3.jpg) repeat-x bottom; padding:40px 20px 20px 0px; clear:both;}
+.blue_dark_feight3 .icon_div{width:840px; margin:auto}
+.blue_dark_feight3 .img_div{width:80px; float:left; text-align:right}
+.blue_dark_feight3 .icon_div .img_div .icon_img{ float:right; margin:0px 5px 0px 0px;}
+.blue_dark_feight3 .icon_div .content{width:205px; font:bold 14px/20px Verdana, Arial, Helvetica, sans-serif; color:#fff; float:left; margin-right:5px;}
+.white_bg_feight3{background:#FFFFFF; padding:0px 0px 0px 30px;}
+.white_bg_feight3 h4{color:#b91e53; font:bold 20px/25px Verdana, Arial, Helvetica, sans-serif; padding:10px 0px 5px 0px; margin:0px;}
+.white_bg_feight3 .left_feight{ width:590px; float:left}
+.white_bg_feight3 .div_1{width:175px; float:left; margin:10px 10px 20px 10px; font:10px/17px Verdana, Arial, Helvetica, sans-serif; color:#000;}
+.white_bg_feight3 .div_1 h5{font:bold 10px/15px Verdana, Arial, Helvetica, sans-serif; color:#000;}
+.white_bg_feight3 .div_1 p{font:10px/15px Verdana, Arial, Helvetica, sans-serif; color:#000; padding:5px 0px 5px 0px;}
+.white_bg_feight3 .div_1 p a{color:#3c5a99; font:bold 10px/15px Verdana, Arial, Helvetica, sans-serif; text-decoration:none}
+.white_bg_feight3 .div_1 h2{font:bold 14px/20px Verdana, Arial, Helvetica, sans-serif; color:#3c5a99; margin:0px; padding:0px;}
+
+.feight3_gray_bg{width:271px; float:right; background:#f1f7fa; padding:10px 10px 10px 20px;}
+.feight3_gray_bg .box{width:231px; float:left; margin-top:10px;}
+.feight3_gray_bg .box h5{ font:12px/22px Verdana, Arial, Helvetica, sans-serif; color:#b91e53;}
+.feight3_gray_bg .box .img{ height:15px;}
+.feight3_gray_bg .box .bg{ background:url(../images/bg_box_flight.png) repeat-y;}
+.feight3_gray_bg .box .bg ul{ margin:0px; padding:0px;}
+.feight3_gray_bg .box .bg ul li{ font:12px/18px Verdana, Arial, Helvetica, sans-serif; color:#3c5a99; list-style-type:none; display:block; padding:0px 8px 5px 10px; margin:0px; }
+.feight3_gray_bg .rs_div{width:160px; float:right; font:bold 20px/18px Verdana, Arial, Helvetica, sans-serif; color:#000; margin:10px 50px 20px 0px;}
+.feight3_gray_bg .rs_div span{ padding-left:3px; font: bold 20px/18px Verdana, Arial, Helvetica, sans-serif; color:#ba1e54;}
+.feight3_gray_bg .rs_div p{font:bold 12px/13px Verdana, Arial, Helvetica, sans-serif; color:#767676;}
+.feight_reletive_inner{ clear:both;  position:relative; }
+.feight_reletive_inner .absulet_div{
+	position:absolute;
+	left: -42px;
+	top:-40px;
+	width:1090px;
+	height: 80px;
+}
+.feight_reletive_inner .bg_blue8{background:url(../images/f3.png)repeat-x; width:946px; height:26px; float:left;}
+.feight_reletive_inner .bg_blue .text_div{ }
+
+.payment_div{background:#bad5e8; width:211px; clear:both; margin-top:10px; font:10px/16px Verdana, Arial, Helvetica, sans-serif; color:#000; padding:10px}
+.payment_div .input_div{padding-right:10px; float:left;}
+.payment_div .block_div{float:left; width:170px;}
+.purchase_div{ margin:30px 50px 100px 10px; float:right}
+.ticket_div{width:600px; clear:both; margin:0px 10px 70px 100px;}
+.ticket_1{width:100px; float:left; font:bold 18px/22px Verdana, Arial, Helvetica, sans-serif; color:#3c5aa3;}
+.scroll_thanx{width:500px; float:left; font:bold 18px/22px Verdana, Arial, Helvetica, sans-serif; color:#000;}
+
+
+/*Booking Confirmation page*/
+
+.bookintermidite_bg{background:#f1f7fa; font:bold 14px/42px Verdana, Arial, Helvetica, sans-serif; color:#ba1e54; height:42px;}
+.bookintermidite_bg .flight-name{width:140px; float:left; font:bold 14px/42px Arial, Helvetica, sans-serif; color:#711233; padding:0px 3px 0px 7px;}
+.bookintermidite_bg .form-place{width:190px; float:left; font:bold 14px/42px Arial, Helvetica, sans-serif; color:#711233; padding:0px 3px 0px 7px;}
+.bookintermidite_bg .to-place{width:140px; float:left; font:bold 14px/42px Arial, Helvetica, sans-serif; color:#711233; padding:0px 3px 0px 7px;}
+.bookintermidite_bg .dep-date{width:75px; float:left; font:bold 14px/42px Arial, Helvetica, sans-serif; color:#711233; padding:0px 3px 0px 7px;}
+.bookintermidite_bg .arr-date{width:75px; float:left; font:bold 14px/42px Arial, Helvetica, sans-serif; color:#711233; padding:0px 3px 0px 7px;}
+.bookintermidite_bg .operatedby{width:160px; float:left; font:bold 14px/42px Arial, Helvetica, sans-serif; color:#711233; padding:0px 3px 0px 7px;}
+.bookintermidite_bg .duration{width:80px; float:left; font:bold 14px/42px Arial, Helvetica, sans-serif; color:#711233; padding:0px 3px 0px 7px;}
+.bookintermidite_bg .addtional{width:210px; float:left; font:bold 14px/42px Arial, Helvetica, sans-serif; color:#711233; padding:0px 3px 0px 7px;}
+
+.bookintermidite_bg .payment{width:120px; float:left; font:bold 14px/42px Arial, Helvetica, sans-serif; color:#711233; padding:0px 3px 0px 7px;}
+.bookintermidite_bg .payment1{width:100px; float:left; font:bold 14px/42px Arial, Helvetica, sans-serif; color:#711233; padding:0px 3px 0px 7px;}
+
+.bookintermidite .row .payment-text{width:120px; float:left;  font:12px/22px Arial, Helvetica, sans-serif; color:#474747; padding:0px 3px 0px 7px;}
+.bookintermidite .row .payment1-text{width:100px; float:left;  font:12px/22px Arial, Helvetica, sans-serif; color:#474747; padding:0px 3px 0px 7px;}
+
+.bookintermidite{ background:#fff; padding:10px 0px 0px 0px }
+
+
+
+.bookintermidite .row{width:935px; float:left; margin:2px 0px 10px 0px; border-bottom:1px solid #CCCCCC}
+.bookintermidite .row .flight-nametext{width:140px; float:left; font:12px/22px Arial, Helvetica, sans-serif; color:#474747; padding:0px 3px 0px 7px; }
+.bookintermidite .row .form-placetext{width:190px; float:left; font:12px/22px Arial, Helvetica, sans-serif; color:#474747; padding:0px 3px 0px 7px;}
+.bookintermidite .row .to-placetext{width:140px; float:left; font:12px/22px Arial, Helvetica, sans-serif; color:#474747; padding:0px 3px 0px 7px;}
+.bookintermidite .row .dep-datetext{width:75px; float:left; font:12px/22px Arial, Helvetica, sans-serif; color:#474747; padding:0px 3px 0px 7px;}
+.bookintermidite  .row .arr-datetext{width:75px; float:left; font:12px/22px Arial, Helvetica, sans-serif; color:#474747; padding:0px 3px 0px 7px;}
+.bookintermidite .row  .operatedbytext{width:160px; float:left; font:12px/22px Arial, Helvetica, sans-serif; color:#474747; padding:0px 3px 0px 7px;}
+.bookintermidite .row .durationtext{width:80px; float:left; font:12px/22px Arial, Helvetica, sans-serif; color:#474747; padding:0px 3px 0px 7px;}
+
+.bookintermidite .row .addtional-text{width:210px; float:left; font:12px/22px Arial, Helvetica, sans-serif; color:#474747; padding:0px 3px 0px 7px;}
+
+.blue-bg-bookintermindite{background:#2f4779; margin:10px 0px 10px 0px; font:bold 13px/40px Arial, Helvetica, sans-serif; color:#fff; height:40px;}
+
+.blue-bg-bookintermindite .order{ font:bold 14px/40px Arial, Helvetica, sans-serif; color:#fff; float:left; margin:0px 10px 0px 0px; padding:0px 3px 0px 3px;}
+
+.buyerinformation-title{font:22px/30px Arial, Helvetica, sans-serif; color:#fff; margin:0px; padding:0px 0px 10px 3px;}
+.travell-title{font:22px/30px Arial, Helvetica, sans-serif; color:#2f4779;; margin:0px; padding:10px 0px 0px 3px;}
+
+
+
+
+.bookintermidite_bg .first-name{width:95px; float:left; font:bold 14px/42px Arial, Helvetica, sans-serif; color:#711233; padding:0px 3px 0px 7px;}
+.bookintermidite_bg .last-name{width:95px; float:left; font:bold 14px/42px Arial, Helvetica, sans-serif; color:#711233; padding:0px 3px 0px 7px;}
+.bookintermidite_bg .address1{width:120px; float:left; font:bold 14px/42px Arial, Helvetica, sans-serif; color:#711233; padding:0px 3px 0px 7px;}
+.bookintermidite_bg .address2{width:120px; float:left; font:bold 14px/42px Arial, Helvetica, sans-serif; color:#711233; padding:0px 3px 0px 7px;}
+.bookintermidite_bg .city{width:65px; float:left; font:bold 14px/42px Arial, Helvetica, sans-serif; color:#711233; padding:0px 3px 0px 7px;}
+.bookintermidite_bg .postal-add{width:100px; float:left; font:bold 14px/42px Arial, Helvetica, sans-serif; color:#711233; padding:0px 3px 0px 7px;}
+.bookintermidite_bg .country{width:80px; float:left; font:bold 14px/42px Arial, Helvetica, sans-serif; color:#711233; padding:0px 3px 0px 7px;}
+
+.bookintermidite_bg .tele{width:80px; float:left; font:bold 14px/42px Arial, Helvetica, sans-serif; color:#711233; padding:0px 3px 0px 7px;}
+.bookintermidite_bg .mob{width:80px; float:left; font:bold 14px/42px Arial, Helvetica, sans-serif; color:#711233; padding:0px 3px 0px 7px;}
+.bookintermidite .row .first-nametext{width:95px; float:left; font:12px/22px Arial, Helvetica, sans-serif; color:#474747; padding:0px 3px 0px 7px;}
+.bookintermidite  .row .last-nametext{width:95px; float:left; font:12px/22px Arial, Helvetica, sans-serif; color:#474747; padding:0px 3px 0px 7px;}
+.bookintermidite   .row .address1text{width:120px; float:left; font:12px/22px Arial, Helvetica, sans-serif; color:#474747; padding:0px 3px 0px 7px;}
+.bookintermidite  .row .address2text{width:120px; float:left; font:12px/22px Arial, Helvetica, sans-serif; color:#474747; padding:0px 3px 0px 7px;}
+.bookintermidite  .row .citytext{width:65px; float:left; font:12px/22px Arial, Helvetica, sans-serif; color:#474747; padding:0px 3px 0px 7px;}
+.bookintermidite  .row  .postal-addtext{width:100px; float:left; font:12px/22px Arial, Helvetica, sans-serif; color:#474747; padding:0px 3px 0px 7px;}
+.bookintermidite  .row .countrytext{width:80px; float:left; font:12px/22px Arial, Helvetica, sans-serif; color:#474747; padding:0px 3px 0px 7px;}
+.bookintermidite  .row .teletext{width:80px; float:left; font:12px/22px Arial, Helvetica, sans-serif; color:#474747; padding:0px 3px 0px 7px;}
+.bookintermidite  .row .mobtext{width:80px; float:left; font:12px/22px Arial, Helvetica, sans-serif; color:#474747; padding:0px 3px 0px 7px;}
+.bookintermidite_bg .select-method{width:180px; float:left; font:bold 14px/42px Arial, Helvetica, sans-serif; color:#711233; padding:0px 3px 0px 7px;}
+.arrivalblue_one{float: left;width: 200px;margin: 0px 10px 0px 10px;font: bold 14px/18px Verdana, Arial, Helvetica, sans-serif;color: #585859;}
+.bookintermidite_bg .select-method{width:180px; float:left; font:bold 14px/42px Arial, Helvetica, sans-serif; color:#711233; padding:0px 3px 0px 7px;}
+.error_container{background:#ffffff; font:12px/20px Verdana, Arial, Helvetica, sans-serif; color:#000; width:620px; margin:0px 0px 15px 0px; display:none}
+#error_img_show{width:19px; height:20px; float:right; margin:5px 2px 10px 10px; background-image:url(../images/close_h.png)}
+.error_msg_container{font:12px/20px Verdana, Arial, Helvetica, sans-serif; color:#b91e53; padding:5px 10px 5px 10px;}
+.continue_btn{ width:132px; height:43px; background:url(../images/cont.png) no-repeat; }
+.purchase_btn{ width:129px; height:45px; background:url(../images/purchage.png) no-repeat; }
+#progressBar{position:fixed; top:50%; left:50%; z-index:9999}
+
+
+
+.bookintermidite_bg .select-method{width:180px; float:left; font:bold 14px/42px Arial, Helvetica, sans-serif; color:#711233; padding:0px 3px 0px 7px;}
+
+.error_container{background:#ffffff; font:12px/20px Verdana, Arial, Helvetica, sans-serif; color:#000; width:620px; margin:0px 0px 15px 0px; display:none}
+#error_img_show{width:19px; height:20px; float:right; margin:5px 2px 10px 10px; background-image:url(../images/close_h.png)}
+.error_msg_container{font:12px/20px Verdana, Arial, Helvetica, sans-serif; color:#b91e53; padding:5px 10px 5px 10px;}
+
+.continue_btn{ width:132px; height:43px; background:url(../images/cont.png) no-repeat; }
+.purchase_btn{ width:129px; height:45px; background:url(../images/purchage.png) no-repeat; }
+#progressBar{position:fixed; top:50%; left:50%; z-index:9999}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0; 
+}
+
+
+.flight_div2{width:280px; float:left; margin:0px 10px 0px 0px;}
+.flight_div2 h5{ font:bold 14px/25px verdana, Arial, Helvetica, sans-serif; color:#fff; margin:0px; padding:0px 0px 0px 2px;}
+.flight_div2 .input{ background:url(../images/input_flight_multi.png) no-repeat; width:275px; height:34px;}
+.flight_div2 .input input{ background:none; border:0px; font:bold 12px/34px verdana, Arial, Helvetica, sans-serif; color:#3b5a9a; width:255px; height:32px; padding:0px 10px 0px 8px;}
+.flight_div2 .input-calender{ background:url(../images/calender_heading_bg.png) no-repeat; width:275px; height:36px; margin-top:10px} 
+.flight_div2 .input-calender input{ background:none; border:0px; font:bold 12px/36px verdana, Arial, Helvetica, sans-serif; color:#FFFFFF; width:255px; height:34px; padding:0px 10px 0px 8px;}
+.flight_div2 h4{ font:bold 14px/25px verdana, Arial, Helvetica, sans-serif; color:#a8b8ce; margin:0px; padding:2px 0px 0px 2px;}
+.flight_div2 .input1{ background:url(../images/input_flight1_decible.png) no-repeat; width:290px; height:34px; margin-bottom:8px;}
+.flight_div2 .input1 input[disabled]{ background:none; border:0px; font:bold 12px/34px verdana, Arial, Helvetica, sans-serif; color:#3b5a9a; width:276px; height:32px; padding:0px 10px 0px 8px;}
+.clear_b{ clear:both; height:1px; }
+
+/*.expandeicon
+{
+	background:url(../images/add_trip.png); 
+	height:50px;
+	width:50px;
+}
+.collapseIcon
+{
+	background:url(../images/close.png) no-repeat; 
+}*/

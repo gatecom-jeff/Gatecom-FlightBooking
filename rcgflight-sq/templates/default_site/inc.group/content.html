@@ -1,0 +1,60 @@
+<div style="margin-left: 120px; background-color: #f00;">
+    <div style="margin-top: 30px;">
+    {exp:channel:entries limit="4"}
+        <div style="display: inline-block; margin-left:30px;">
+            <p style="max-width:150px;"><img src="{big_img}" width="150"></p>
+            <p><h6>{big_title}</h6></p>
+            <p style="max-width:150px;">{big_small_content}</p>
+            {if small_single_content}<a href="#{url_title}" role="button" data-toggle="modal">Läs mer!</a>{/if}
+        </div>
+    {/exp:channel:entries}
+    </div>
+    <div style="margin-top: 30px;">
+    {exp:channel:entries limit="4" channel="specials_stor_singel"}
+        <div style="display: inline-block; margin-left:30px;">
+            <p style="max-width:150px;"><img src="{big_img}" width="150"></p>
+            <p><h6>{big_title}</h6></p>
+            <p style="max-width:150px;">{big_small_content}</p>
+            {if small_single_content}<a href="#{url_title}" role="button" data-toggle="modal">Läs mer!</a>{/if}
+        </div>
+    {/exp:channel:entries}
+    </div>
+    <div style="margin-top: 30px;">
+    {exp:channel:entries limit="4" channel="specials_liten_singel"}
+        <div style="display: inline-block; margin-left:30px;">
+            <p style="max-width:150px;"><img src="{small_single_img}" width="150"></p>
+            <p><h4>{small_single_title}</h4></p>
+            <p style="max-width:150px;">{small_single_small_content}</p>
+            <a href="#{url_title}" role="button" data-toggle="modal">Läs mer!</a>
+        </div>
+    {/exp:channel:entries}
+    </div>
+</div>
+{exp:channel:entries channel="specials_stor_singel"}
+    <div class="modal hide fade" id="{url_title}" tabindex="-1" style="max-height:850px; max-width: 500px;" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+        <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+        <h3 id="myModalLabel">{big_title}</h3>
+        </div>
+        <div class="modal-body">
+        <p><img src="{big_img}"></p>
+        <p>{big_content}</p>
+        </div>
+        <div class="modal-footer">
+        </div>
+    </div>
+{/exp:channel:entries}
+{exp:channel:entries channel="specials_liten_singel"}
+    <div class="modal hide fade" id="{url_title}" tabindex="-1" style="max-height:850px; max-width: 500px;" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+        <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+        <h3 id="myModalLabel">{small_single_title}</h3>
+        </div>
+        <div class="modal-body">
+        <p><img src="{small_single_big_img}"></p>
+        <p>{small_single_content}</p>
+        </div>
+        <div class="modal-footer">
+        </div>
+    </div>
+{/exp:channel:entries}

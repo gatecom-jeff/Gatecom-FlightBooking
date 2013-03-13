@@ -1,0 +1,240 @@
+/* start select box*/
+.monthdb
+{
+	float:left;
+	margin:14px 0px 0px 15px;
+	text-align:center;
+	}
+
+.monthdb h3
+{
+	 font:bold 14px/25px Arial, Helvetica, sans-serif; color:#fff;
+	text-align:center;
+	}
+	
+	
+.monthdb .newListSelected {
+background: url(../images/drop_select_box.png) no-repeat right;
+color:#000;
+height:19px;
+margin-bottom:0px;
+padding:0;
+width:52px;
+
+border-top-style: none;
+border-bottom-style: none;
+border-left-style: none;
+border-right-style: none;
+border-top-width: 1px;
+border-right-width: 1px;
+border-bottom-width: 1px;
+border-left-width: 1px;
+
+}
+
+.monthdb .newListSelected div {
+display:block; 
+font:12px/19px Arial, Helvetica, sans-serif; color:#6479ab;
+padding:0px 0px 0px 13px; 
+text-align:left !important; width:52px; 
+float:left;
+}
+
+.monthdb label{font:bold 13px/20px Arial, Helvetica, sans-serif; color:#fff; padding-left:0px; }
+.monthdb ul.newList {
+list-style:none; 
+color:#012a6a; 
+width:48px; 
+background:#fff url(../images/grident_bg_list.jpg) repeat-x bottom;
+border:1px solid #B9B9B9; 
+margin-top:-6px; 
+margin-left:3px; 
+height:auto; 
+overflow:auto; 
+font-size:11px;
+font-family:Arial, Helvetica, sans-serif; 
+text-align:left!important; position:absolute;
+z-index:9999;}
+
+
+.monthdb ul.newList li {padding:2px 5px!important; border-bottom: 0px solid #cccccc;}
+.monthdb .hiLite {background:#bb1e55!important;height:17px; color:#fff!important;}
+.monthdb .newListHover {background:#bb1e55!important; color:#fff!important; cursor:default;}
+.monthdb .newListSelHover {cursor:default;}
+.monthdb .newListSelHover, .monthdb .newListSelFocus {background-position:auto;}
+/* end select ebox*/
+
+/* start select2 ebox*/
+.monthdb1
+{
+	float:left;
+	margin:14px 0px 0px 15px;
+	text-align:center;
+	}
+.monthdb1 h3
+{
+	 font:bold 14px/25px Arial, Helvetica, sans-serif; color:#fff;
+	text-align:center;
+	}
+.monthdb1 .newListSelected {
+background: url(../images/drop_select_box.png) no-repeat right;
+color:#000;
+height:19px;
+margin-bottom:0px;
+padding:0;
+width:52px;
+
+border-top-style: none;
+border-bottom-style: none;
+border-left-style: none;
+border-right-style: none;
+border-top-width: 1px;
+border-right-width: 1px;
+border-bottom-width: 1px;
+border-left-width: 1px;
+
+}
+
+.monthdb1 .newListSelected div {
+display:block; 
+font:12px/19px Arial, Helvetica, sans-serif; color:#6479ab;
+padding:0px 0px 0px 13px; 
+text-align:left !important; width:52px; 
+float:left;
+}
+
+.monthdb1 ul.newList li {padding:2px 5px!important; border-bottom: 0px solid #cccccc;}
+.monthdb1 .hiLite {background:#ccc!important;height:17px; color:#7A7A7A!important;}
+.monthdb1 .newListHover {background:#ccc!important; color:#7A7A7A!important; cursor:default;}
+.monthdb1 .newListSelHover {cursor:default;}
+.monthdb1 .newListSelHover, .monthdb1 .newListSelFocus {background-position:auto;}
+
+
+/* start select box*/
+.inner_monthdb
+{
+	float:left;
+	margin:2px 0px 0px 15px;
+	text-align:center;
+	}
+.inner_monthdb h3
+{
+	 font:bold 13px/25px Arial, Helvetica, sans-serif; color:#fff;
+	text-align:center;
+	}
+.inner_monthdb .newListSelected {
+background: url(../images/drop_select_box.png) no-repeat right;
+color:#000;
+height:19px;
+margin-bottom:0px;
+padding:0;
+width:52px;
+
+border-top-style: none;
+border-bottom-style: none;
+border-left-style: none;
+border-right-style: none;
+border-top-width: 1px;
+border-right-width: 1px;
+border-bottom-width: 1px;
+border-left-width: 1px;
+
+}
+
+.inner_monthdb .newListSelected div {
+display:block; 
+font:12px/19px Arial, Helvetica, sans-serif; color:#6479ab;
+padding:0px 0px 0px 13px; 
+text-align:left !important; width:52px; 
+float:left;
+}
+
+
+.inner_monthdb ul.newList {
+list-style:none; 
+color:#012a6a; 
+width:48px; 
+background:#fff url(../images/grident_bg_list.jpg) repeat-x bottom;
+border:1px solid #B9B9B9; 
+margin-top:-6px; 
+margin-left:3px; 
+height:auto; 
+overflow:auto; 
+font-size:11px;
+font-family:Arial, Helvetica, sans-serif; 
+text-align:left!important; position:absolute;
+z-index:9999;}
+
+
+.inner_monthdb ul.newList li {padding:2px 5px!important; border-bottom: 0px solid #cccccc;}
+.inner_monthdb .hiLite {background:#bb1e55!important;height:17px; color:#fff!important;}
+.inner_monthdb .newListHover {background:#bb1e55!important; color:#fff!important; cursor:default;}
+.inner_monthdb .newListSelHover {cursor:default;}
+.inner_monthdb .newListSelHover, .inner_monthdb .newListSelFocus {background-position:auto;}
+/* end select ebox*/
+
+/* start select2 ebox*/
+.check_div_blue{font:bold 13px/20px Arial, Helvetica, sans-serif; color:#fff; margin-bottom:6px;}
+.paragraf{margin:8px 0px 0px 0px; padding:0px; clear:both; width:196px; line-height:20px; border-top:1px solid #3c5a99; }
+.check_div_blue .txt_div {float:left; width:120px;}
+.redio{float:left; margin-top:0px;}
+.clear_form{ clear:both; padding:20px 0px 0px 25px;}
+.clear_form_inner{ clear:both; padding:5px 0px 0px 15px;}
+
+
+
+
+.niceCheckbox h3
+{
+	font:bold 14px/25px Arial, Helvetica, sans-serif; color:#fff;
+	text-align:center;
+}
+.niceCheckbox .newListSelected {
+background: url(../images/drop_select_box.png) no-repeat right;
+color:#000;
+height:19px;
+margin-bottom:0px;
+padding:0;
+width:52px;
+
+border-top-style: none;
+border-bottom-style: none;
+border-left-style: none;
+border-right-style: none;
+border-top-width: 1px;
+border-right-width: 1px;
+border-bottom-width: 1px;
+border-left-width: 1px;
+
+}
+
+.niceCheckbox .newListSelected div {
+display:block; 
+font:12px/19px Arial, Helvetica, sans-serif; color:#6479ab;
+padding:0px 0px 0px 13px; 
+text-align:left !important; width:52px; 
+float:left;
+}
+
+
+.niceCheckbox ul.newList {
+list-style:none; 
+color:#012a6a; 
+width:48px; 
+background:#fff url(../images/grident_bg_list.jpg) repeat-x bottom;
+border:1px solid #B9B9B9; 
+margin-top:-6px; 
+margin-left:3px; 
+height:auto; 
+overflow:auto; 
+font-size:11px;
+font-family:Arial, Helvetica, sans-serif; 
+text-align:left!important; position:absolute;
+z-index:9999;}
+
+
+.niceCheckbox ul.newList li {padding:2px 5px!important; border-bottom: 0px solid #cccccc;}
+.niceCheckbox .hiLite {background:#bb1e55!important;height:17px; color:#fff!important;}
+.niceCheckbox .newListHover {background:#bb1e55!important; color:#fff!important; cursor:default;}
+.niceCheckbox .newListSelHover {cursor:default;}
+.niceCheckbox .newListSelHover, .niceCheckbox .newListSelFocus {background-position:auto;}
